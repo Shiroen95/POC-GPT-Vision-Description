@@ -7,12 +7,24 @@ public class BaseImageDTO {
 }
 
 public class GPTRoles{
-    string role {get;set;}
-    string content {get;set;}
+    public string role {get;set;}
+
+}
+
+public class SystemRole: GPTRoles{
+     public string content {get;set;}
+}
+
+public class UserRoleVision: GPTRoles{
+     public UserContent[] content {get;set;}
 }
 
 public class UserContent{
-    string type {get;set;}
-    string text {get;set;}
-    string image_url {get;set;}
+    public string type {get;set;}
+    public string text {get;set;}
+    public ImageURL image_url {get;set;}
+}
+public class ImageURL{
+    public string url {get;set;}
+    public string detail {get;set;}
 }
