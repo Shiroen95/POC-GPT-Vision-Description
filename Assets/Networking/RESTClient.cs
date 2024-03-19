@@ -1,6 +1,8 @@
+using System.Net.Http;
 
-
-public class RESTClient{
+public class RESTClient {
+    private static readonly HttpClient client = new HttpClient();
+    
     private RESTClient(){
 
     }
@@ -11,10 +13,16 @@ public class RESTClient{
         get
         {
             if(_instance == null)
-                _instance = new RESTClient()
+                _instance = new RESTClient();
 
             return _instance;    
         }
     }
+
+    public void sendGPT4PostRequest(string URI){
+      
+    }
+
+    
     
 }
