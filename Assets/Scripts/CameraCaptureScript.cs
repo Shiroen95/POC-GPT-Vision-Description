@@ -1,4 +1,6 @@
+using System;
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.XR.ARFoundation;
@@ -8,7 +10,7 @@ public class CameraCaptureScript : MonoBehaviour
 {
     [SerializeField]
     private ARCameraManager _arCameraManager;
-
+    [SerializeField]
     private Image _image;
 
 
@@ -32,6 +34,7 @@ public class CameraCaptureScript : MonoBehaviour
 
     IEnumerator ConvertImageAsync(XRCpuImage image)
     {
+        Debug.Log(image);
         // Create the async conversion request
         var request = image.ConvertAsync(new XRCpuImage.ConversionParams
         {
@@ -39,13 +42,13 @@ public class CameraCaptureScript : MonoBehaviour
             inputRect = new RectInt(0, 0, image.width, image.height),
 
             // Optionally downsample by 2
-            outputDimensions = new Vector2Int(image.width / 2, image.height / 2),
+            outputDimensions = new Vector2Int(image.width/2, image.height/2),
 
             // Output an RGB color image format
-            outputFormat = TextureFormat.RGB24,
+            outputFormat = TextureFormat.RGBA32,
 
             // Flip across the Y axis
-            transformation = XRCpuImage.Transformation.MirrorY
+            transformation = XRCpuImage.Transformation.MirrorX
         });
 
         // Wait for the conversion to complete
@@ -76,8 +79,8 @@ public class CameraCaptureScript : MonoBehaviour
         // Copy the image data into the texture
         texture.LoadRawTextureData(rawData);
         texture.Apply();
-        Debug.Log("Texture was loaded");
-        _image.sprite = Sprite.Create(texture,new Rect(0, 0, image.width, image.height),Vector2.zero);
+        _image.rectTransform.sizeDelta = request.conversionParams.outputDimensions;
+        _image.sprite = Sprite.Create(texture,new Rect(0, 0, image.width/2, image.height/2),Vector2.zero);
         // Dispose the request including raw data
         request.Dispose();
     }
