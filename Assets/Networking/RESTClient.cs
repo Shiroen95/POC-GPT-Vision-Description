@@ -1,10 +1,10 @@
 using System.Net.Http;
-using UnityEngine;
 using Newtonsoft.Json;
 using System.Net.Http.Headers;
 using System.Text;
 using Config;
 using Networking.DTO;
+using System.Threading.Tasks;
 
 
 public class RESTClient {
@@ -65,23 +65,16 @@ public class RESTClient {
         return imageDTO;
     }
 
-    public async void sendGPT4PostRequest(string base64Image, BaseImageDTO imageDTO = null){
+    public async Task<BaseResponseDTO> sendGPT4PostRequest(string base64Image, BaseImageDTO imageDTO = null){
         var endpoint = settings.base_url + settings.versionURL;
         if(imageDTO == null){
-            imageDTO = createBase(base64Image);
-            
+            imageDTO = createBase(base64Image); 
         }
-        Debug.Log(JsonConvert.SerializeObject(imageDTO));
-        Debug.Log(client.DefaultRequestHeaders.ToString());
         var response = await client.PostAsync(endpoint, 
         new StringContent(
             JsonConvert.SerializeObject(imageDTO), 
             Encoding.UTF8,
             "application/json"));
-        var response_string = await response.Content.ReadAsStringAsync();
-        var response_converted = JsonConvert.DeserializeObject<BaseResponseDTO>(response_string);   
-        Debug.Log(response_converted);
+       return JsonConvert.DeserializeObject<BaseResponseDTO>(await response.Content.ReadAsStringAsync());   
     }
-    
-   
 }
