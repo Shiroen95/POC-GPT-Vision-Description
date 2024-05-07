@@ -1,4 +1,5 @@
 using System;
+using System.Buffers.Text;
 using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
@@ -81,6 +82,8 @@ public class CameraCaptureScript : MonoBehaviour
         texture.Apply();
         _image.rectTransform.sizeDelta = request.conversionParams.outputDimensions;
         _image.sprite = Sprite.Create(texture,new Rect(0, 0, image.width/2, image.height/2),Vector2.zero);
+        RESTClient.instance.sendGPT4PostRequest(Convert.ToBase64String(texture.EncodeToJPG()));
+        
         // Dispose the request including raw data
         request.Dispose();
     }
