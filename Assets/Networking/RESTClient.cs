@@ -4,6 +4,7 @@ using Newtonsoft.Json;
 using System.Net.Http.Headers;
 using System.Text;
 using Config;
+using Networking.DTO;
 
 
 public class RESTClient {
@@ -77,7 +78,9 @@ public class RESTClient {
             JsonConvert.SerializeObject(imageDTO), 
             Encoding.UTF8,
             "application/json"));
-        Debug.Log(await response.Content.ReadAsStringAsync());
+        var response_string = await response.Content.ReadAsStringAsync();
+        var response_converted = JsonConvert.DeserializeObject<BaseResponseDTO>(response_string);   
+        Debug.Log(response_converted);
     }
     
    
