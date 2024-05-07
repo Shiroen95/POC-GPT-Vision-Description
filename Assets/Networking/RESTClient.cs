@@ -9,21 +9,12 @@ using System.Threading.Tasks;
 
 public class RESTClient {
     public static APISetting settings = ConfigLoader.LoadConfig();
-    
-    private static readonly HttpClient client = new HttpClient();
-    
+    private static readonly HttpClient client = new HttpClient(); 
     private RESTClient(){
         client.DefaultRequestHeaders.Add("api-key",settings.API_KEY);
         client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
     }
-
     private static RESTClient _instance;
-    private static SystemRole baseSystemRole = new()
-    {
-        role = "system",
-        content = "You are a helpful assistant."
-    };
-
     public static RESTClient instance {
         get
         {
@@ -64,7 +55,6 @@ public class RESTClient {
             );
         return imageDTO;
     }
-
     public async Task<BaseResponseDTO> sendGPT4PostRequest(string base64Image, BaseImageDTO imageDTO = null){
         var endpoint = settings.base_url + settings.versionURL;
         if(imageDTO == null){
