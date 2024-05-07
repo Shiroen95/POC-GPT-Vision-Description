@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 public class BaseImageDTO {
 
-    public List<GPTRoles> message = new List<GPTRoles>();
+    public List<GPTRoles> messages = new List<GPTRoles>();
     public int max_tokens;
 }
 
@@ -21,8 +21,15 @@ public class UserRoleVision: GPTRoles{
 
 public class UserContent{
     public string type {get;set;}
-    public string text {get;set;}
+}
+
+
+public class UserVisionContent: UserContent{
     public ImageURL image_url {get;set;}
+}
+
+public class UserTextContent: UserContent{
+    public string text {get;set;}
 }
 public class ImageURL{
     public string url {get;set;}
