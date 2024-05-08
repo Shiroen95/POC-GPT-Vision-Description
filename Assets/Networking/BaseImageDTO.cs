@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using Unity.VisualScripting;
+using UnityEditor.MPE;
 namespace Networking.DTO{
     
     public class BaseImageDTO {
@@ -8,17 +9,23 @@ namespace Networking.DTO{
     }
 
     public class GPTRoles{
-        public string role {get;set;}
+        public string role {get;protected set;}
 
         public object content {get;set;}
 
     }
 
     public class SystemRole: GPTRoles{
+        public SystemRole(){
+            role = "system";
+        }
         public new string content {get;set;}
     }
 
     public class UserRoleVision: GPTRoles{
+        public UserRoleVision(){
+            role = "user";
+        }
         public new UserContent[] content {get;set;}
     }
 

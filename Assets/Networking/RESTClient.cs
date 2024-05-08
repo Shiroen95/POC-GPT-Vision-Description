@@ -32,11 +32,9 @@ public class RESTClient {
         imageDTO.messages.AddRange(
                 new GPTRoles[]{
                     new SystemRole(){
-                    role = "system",
                     content ="You are a helpful assistant."
                     },
                     new UserRoleVision(){
-                        role = "user",
                         content = new UserContent[]{
                             new UserTextContent(){
                                 type = "text",
