@@ -1,6 +1,7 @@
 using System;
 using System.Buffers.Text;
 using System.Collections;
+using Scripts;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
@@ -71,19 +72,17 @@ public class CameraCaptureScript : MonoBehaviour
         var rawData = request.GetData<byte>();
 
         // Create a texture
-        var texture = new Texture2D(
+        DataScript.image = new Texture2D(
             request.conversionParams.outputDimensions.x,
             request.conversionParams.outputDimensions.y,
             request.conversionParams.outputFormat,
             false);
 
         // Copy the image data into the texture
-        texture.LoadRawTextureData(rawData);
-        texture.Apply();
+        DataScript.image.LoadRawTextureData(rawData);
+        DataScript.image.Apply();
         _image.rectTransform.sizeDelta = request.conversionParams.outputDimensions;
-        _image.sprite = Sprite.Create(texture,new Rect(0, 0, image.width/2, image.height/2),Vector2.zero);
-        RESTClient.instance.sendGPT4PostRequest(Convert.ToBase64String(texture.EncodeToJPG()));
-        
+        _image.sprite = Sprite.Create(DataScript.image,new Rect(0, 0, image.width/2, image.height/2),Vector2.zero);
         // Dispose the request including raw data
         request.Dispose();
     }
