@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEditor.MPE;
@@ -30,16 +31,22 @@ namespace Networking.DTO{
     }
 
     public class UserContent{
-        public string type {get;set;}
+        public string type {get;protected set;}
     }
 
 
     public class UserVisionContent: UserContent{
         public ImageURL image_url {get;set;}
+        public UserVisionContent(){
+            type = "image_url";
+        }
     }
 
     public class UserTextContent: UserContent{
-        public string text {get;set;}
+        public UserTextContent(){
+            type = "text";
+        }
+        public string text {get; set;}
     }
     public class ImageURL{
         public string url {get;set;}
