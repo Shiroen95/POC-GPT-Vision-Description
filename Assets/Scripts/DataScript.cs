@@ -6,8 +6,8 @@ using UnityEngine;
 namespace Scripts {
     public class DataScript 
     {   
-        public static Texture2D image;
-        public static BaseImageDTO request;
-        public static BaseResponseDTO response;
+        public static Texture2D image {get;set;}
+        public static BaseImageDTO request {get;set;}
+        public static BaseResponseDTO response {get;set;}
     }
 }
