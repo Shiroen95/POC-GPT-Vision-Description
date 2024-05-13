@@ -37,11 +37,9 @@ public class RESTClient {
                     new UserRoleVision(){
                         content = new UserContent[]{
                             new UserTextContent(){
-                                type = "text",
                                 text = "Describe this picture: ",
                             },
                             new UserVisionContent(){
-                                type ="image_url",
                                 image_url = new(){
                                     url ="data:image/jpeg;base64," + base64Image,
                                     detail ="low"
