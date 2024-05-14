@@ -6,8 +6,6 @@ using Config;
 using Networking.DTO;
 using System.Threading.Tasks;
 using Scripts;
-using System.Linq;
-using System;
 
 
 public class RESTClient {
@@ -28,8 +26,9 @@ public class RESTClient {
         }
     }
     private BaseImageDTO createBase(string base64Image){
-        var userVisionContent =  ((UserContent[])DataScript.request.messages[1].content)[1];
-        ((UserVisionContent) userVisionContent).image_url.url = "data:image/jpeg;base64," + base64Image;
+        var userVisionRole =  (UserRoleVision)DataScript.request.messages[1];
+        var content = userVisionRole.content;
+        ((UserVisionContent) content[1]).image_url.url = "data:image/jpeg;base64," + base64Image;
         return DataScript.request;                    
     }
     public async Task sendGPT4PostRequest(string base64Image, BaseImageDTO imageDTO = null){
@@ -42,7 +41,10 @@ public class RESTClient {
             JsonConvert.SerializeObject(imageDTO), 
             Encoding.UTF8,
             "application/json"));
-       DataScript.response = JsonConvert.DeserializeObject<BaseResponseDTO>(await response.Content.ReadAsStringAsync());  
-       Console.WriteLine("Done!"); 
+       var stringContent = await response.Content.ReadAsStringAsync();     
+       DataScript.response = JsonConvert.DeserializeObject<BaseResponseDTO>(stringContent);  
+       UnityEngine.Debug.Log(stringContent);
+       UnityEngine.Debug.Log("Done!"); 
+
     }
 }
