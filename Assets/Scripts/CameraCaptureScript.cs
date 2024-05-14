@@ -2,6 +2,7 @@ using System;
 using System.Buffers.Text;
 using System.Collections;
 using Scripts;
+using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
@@ -14,6 +15,8 @@ public class CameraCaptureScript : MonoBehaviour
     private ARCameraManager _arCameraManager;
     [SerializeField]
     private Image _image;
+    [SerializeField]
+    private GameObject sendingTxT;
 
 
     public void takePicture(){
@@ -28,10 +31,15 @@ public class CameraCaptureScript : MonoBehaviour
         {
             // If successful, launch an asynchronous conversion coroutine
             StartCoroutine(ConvertImageAsync(image));
-
             // It is safe to dispose the image before the async operation completes
             image.Dispose();
         }
+    }
+
+    public async void sendRequest (){
+        sendingTxT.SetActive(true);
+        await RESTClient.instance.sendGPT4PostRequest(Convert.ToBase64String(DataScript.image.EncodeToJPG()));
+        sendingTxT.SetActive(false);
     }
 
     IEnumerator ConvertImageAsync(XRCpuImage image)
