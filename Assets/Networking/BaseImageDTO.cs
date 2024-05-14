@@ -10,7 +10,7 @@ namespace Networking.DTO{
     }
 
     public class GPTRoles{
-        public string role {get;protected set;}
+        public string role {get; set;}
 
         public object content {get;set;}
 
@@ -28,6 +28,9 @@ namespace Networking.DTO{
             role = "user";
         }
         public new UserContent[] content {get;set;}
+    }
+    public class ResponseRole: GPTRoles{
+        public new string content {get;set;}
     }
 
     public class UserContent{
