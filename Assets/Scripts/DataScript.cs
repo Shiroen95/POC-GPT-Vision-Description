@@ -27,5 +27,14 @@ namespace Scripts {
                     }},
         };
         public static BaseResponseDTO response {get;set;} =  new BaseResponseDTO();
+
+        public static (string,string) getResponseMessage{
+            get
+            {
+                var message = response.choices[0].message;
+                return ((string)message.content,message.role);
+            }
+        }
+    
     }
 }
