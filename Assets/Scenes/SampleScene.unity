@@ -1355,6 +1355,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _arCameraManager: {fileID: 763865723}
   _image: {fileID: 217273962}
+  sendingText: {fileID: 1902397622}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
