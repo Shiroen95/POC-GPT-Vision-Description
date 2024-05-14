@@ -25,8 +25,8 @@ public class RESTClient {
             return _instance;    
         }
     }
-    private BaseImageDTO createBase(string base64Image){
-        var userVisionRole =  (UserRoleVision)DataScript.request.messages[1];
+    private BaseImageDTO addImageToRequest(string base64Image, BaseImageDTO imageDTO){
+        var userVisionRole =  (UserRoleVision)imageDTO.messages[1];
         var content = userVisionRole.content;
         ((UserVisionContent) content[1]).image_url.url = "data:image/jpeg;base64," + base64Image;
         return DataScript.request;                    
@@ -34,8 +34,9 @@ public class RESTClient {
     public async Task sendGPT4PostRequest(string base64Image, BaseImageDTO imageDTO = null){
         var endpoint = settings.base_url + settings.versionURL;
         if(imageDTO == null){
-            imageDTO = createBase(base64Image); 
+            imageDTO = DataScript.request;
         }
+        addImageToRequest(base64Image, imageDTO); 
         var response = await client.PostAsync(endpoint, 
         new StringContent(
             JsonConvert.SerializeObject(imageDTO), 
