@@ -1351,7 +1351,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   systemContent: {fileID: 539888043}
   userContent: {fileID: 870827550}
-  currImage: {fileID: 2134959725}
+  _currImage: {fileID: 2134959725}
 --- !u!1 &1373780252
 GameObject:
   m_ObjectHideFlags: 0
