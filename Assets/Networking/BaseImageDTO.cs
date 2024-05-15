@@ -1,7 +1,4 @@
-using System;
 using System.Collections.Generic;
-using Unity.VisualScripting;
-using UnityEditor.MPE;
 namespace Networking.DTO{
     
     public class BaseImageDTO {
