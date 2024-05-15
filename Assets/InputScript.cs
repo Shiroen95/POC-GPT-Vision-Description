@@ -1,12 +1,11 @@
-using System.Collections;
-using System.Collections.Generic;
 using Networking.DTO;
 using Scripts;
 using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.Video;
+using Unity;
+
 
 public class InputScript : MonoBehaviour
 {
@@ -33,8 +32,8 @@ public class InputScript : MonoBehaviour
         });
 
         if(DataScript.image != null){
-            _currImage.rectTransform.sizeDelta = DataScript.image.Size();
-            _currImage.sprite = Sprite.Create(DataScript.image,new Rect(0, 0, DataScript.image.width/2, DataScript.image.height/2),Vector2.zero);
+            _currImage.rectTransform.sizeDelta = new Vector2(DataScript.image.width, DataScript.image.height);
+            _currImage.sprite = Sprite.Create(DataScript.image,new Rect(0, 0, DataScript.image.width, DataScript.image.height),Vector2.zero);
         }
         
     }
