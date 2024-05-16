@@ -31,5 +31,31 @@ public class ExportScript {
         
     }
 
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="filePath"></param>
+    /// <param name="objectToWrite"></param>
+    /// <param name="append"></param>
+    public async void WriteBinaryToFile(string filePath, byte[] objectToWrite, bool append = false)
+    {
+        using (Stream stream = File.Open(filePath, append ? FileMode.Append : FileMode.Create))
+        {
+            await stream.WriteAsync(objectToWrite);  
+        }
+    }
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="filePath"></param>
+    /// <param name="objectToWrite"></param>
+    /// <param name="append"></param>
+    public async void WriteStringToFile(string filePath, string objectToWrite, bool append = false)
+    {
+        using (StreamWriter streamWriter = new StreamWriter( File.Open(filePath, append ? FileMode.Append : FileMode.Create)))
+        {
+            await streamWriter.WriteAsync(objectToWrite);  
+        }
+    }
    
 }
