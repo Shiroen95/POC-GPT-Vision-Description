@@ -35,9 +35,8 @@ public class CameraCaptureScript : MonoBehaviour
 
     public async void sendRequest (){
         sendingText.SetActive(true);
-        var sendTask = RESTClient.instance.sendGPT4PostRequest(Convert.ToBase64String(DataScript.image.EncodeToJPG()));
+        await RESTClient.instance.sendGPT4PostRequest(Convert.ToBase64String(DataScript.image.EncodeToJPG()));
         ExportScript.instance.saveData();
-        await sendTask;
         sendingText.SetActive(false);
     }
 
