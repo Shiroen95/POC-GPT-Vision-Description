@@ -1,9 +1,6 @@
 using System;
-using System.Buffers.Text;
 using System.Collections;
 using Scripts;
-using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.XR.ARFoundation;
