@@ -1,19 +1,22 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class ExportScript : MonoBehaviour
 {
-    
-    // Start is called before the first frame update
-    void Start()
-    {
+    private ExportScript(){
         
+    }
+    private static ExportScript _instance;
+    public static ExportScript instance{get
+        {
+            if(_instance==null){
+                _instance = new ExportScript();
+            }
+            return _instance;
+        }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+   
 }
