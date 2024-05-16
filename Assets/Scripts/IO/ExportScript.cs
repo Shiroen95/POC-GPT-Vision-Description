@@ -23,7 +23,9 @@ public class ExportScript {
             return _instance;
         }
     }
-
+    /// <summary>
+    /// Saves the image, request and response that are currently active. Save folder is PersistenApplicationPath/export/timestamp/.
+    /// </summary>
     public  void saveData (){
         var requestJson = JsonConvert.SerializeObject(DataScript.request);
         var responseJson = JsonConvert.SerializeObject(DataScript.response);
@@ -36,7 +38,7 @@ public class ExportScript {
     }
 
     /// <summary>
-    /// 
+    /// Writes a binary array to a file.
     /// </summary>
     /// <param name="filePath"></param>
     /// <param name="objectToWrite"></param>
@@ -49,7 +51,7 @@ public class ExportScript {
         }
     }
     /// <summary>
-    /// 
+    /// Writes a string to a file.
     /// </summary>
     /// <param name="filePath"></param>
     /// <param name="objectToWrite"></param>
