@@ -7,6 +7,9 @@ public enum SceneType{
     Output = 2,
     Camera = 1
 }
+/// <summary>
+/// Navigation controller.
+/// </summary>
 public class NavigationScript : MonoBehaviour
 {
 

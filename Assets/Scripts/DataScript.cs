@@ -3,6 +3,9 @@ using Networking.DTO;
 using UnityEngine;
 
 namespace Scripts {
+    /// <summary>
+    /// Static data script for handling I/O.
+    /// </summary>
     public class DataScript 
     {   
         public static Texture2D image {get;set;}

@@ -1,6 +1,8 @@
 using System.Collections.Generic;
 namespace Networking.DTO{
-    
+    /// <summary>
+    /// Datatype thats needed for GPT 4.5 image request.
+    /// </summary>
     public class BaseImageDTO {
         public List<GPTRoles> messages = new List<GPTRoles>();
         public int max_tokens;
