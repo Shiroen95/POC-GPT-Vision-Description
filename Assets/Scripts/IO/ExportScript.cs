@@ -30,9 +30,9 @@ public class ExportScript {
         var jpgImageByteArray = DataScript.image.EncodeToJPG();
         var folderName = $"/{DateTime.UtcNow:yyyy-MM-ddTHH-mm-ss}";
         Directory.CreateDirectory(baseDataPath+folderName);
-        WriteBinaryToFile(baseDataPath+folderName+"/test.jpg",jpgImageByteArray);
-        WriteStringToFile(baseDataPath+folderName+"/testRequest.json",requestJson);
-        WriteStringToFile(baseDataPath+folderName+"/testResponse.json",responseJson);
+        WriteBinaryToFile(baseDataPath+folderName+"/image.jpg",jpgImageByteArray);
+        WriteStringToFile(baseDataPath+folderName+"/request.json",requestJson);
+        WriteStringToFile(baseDataPath+folderName+"/response.json",responseJson);
     }
 
     /// <summary>
