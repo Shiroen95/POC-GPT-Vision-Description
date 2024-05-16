@@ -1,12 +1,12 @@
 using Networking.DTO;
 using Scripts;
 using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
-using Unity;
 
-
+/// <summary>
+/// Input handler script.
+/// </summary>
 public class InputScript : MonoBehaviour
 {
     [SerializeField]
@@ -18,6 +18,10 @@ public class InputScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        SetupInputFields(); 
+    }
+
+    private void SetupInputFields(){
         var messages = DataScript.request.messages;
         systemContent.text = ((SystemRole)messages[0]).content;
 
@@ -35,13 +39,6 @@ public class InputScript : MonoBehaviour
             _currImage.rectTransform.sizeDelta = new Vector2(DataScript.image.width, DataScript.image.height);
             _currImage.sprite = Sprite.Create(DataScript.image,new Rect(0, 0, DataScript.image.width, DataScript.image.height),Vector2.zero);
         }
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
     void OnDestroy()
     {

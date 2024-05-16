@@ -7,7 +7,9 @@ using Networking.DTO;
 using System.Threading.Tasks;
 using Scripts;
 
-
+/// <summary>
+/// REST Client to send GPT4.5 Requests. API Settings need to be Present to work. 
+/// </summary>
 public class RESTClient {
     public static APISetting settings = ConfigLoader.LoadConfig();
     private static readonly HttpClient client = new HttpClient(); 

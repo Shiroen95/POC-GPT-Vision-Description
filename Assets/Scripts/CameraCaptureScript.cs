@@ -98,17 +98,21 @@ public class CameraCaptureScript : MonoBehaviour
         request.Dispose();
     }
 
-
-    public static void RotateImage(Texture2D tex, float angleDegrees)
+    /// <summary>
+    /// Rotates the given Texture2D.
+    /// </summary>
+    /// <param name="image">Image to rotate.</param>
+    /// <param name="angleDegrees">Degrees to rotate.</param>
+    public static void RotateImage(Texture2D image, float angleDegrees)
     {
-        int width = tex.width;
-        int height = tex.height;
+        int width = image.width;
+        int height = image.height;
         float halfHeight = height * 0.5f;
         float halfWidth = width * 0.5f;
 
-        var texels = tex.GetRawTextureData<Color32>();
-        var copy = System.Buffers.ArrayPool<Color32>.Shared.Rent(texels.Length);
-        Unity.Collections.NativeArray<Color32>.Copy(texels, copy, texels.Length);
+        var rawData = image.GetRawTextureData<Color32>();
+        var copy = System.Buffers.ArrayPool<Color32>.Shared.Rent(rawData.Length);
+        Unity.Collections.NativeArray<Color32>.Copy(rawData, copy, rawData.Length);
 
         float phi = Mathf.Deg2Rad * angleDegrees;
         float cosPhi = Mathf.Cos(phi);
@@ -126,12 +130,12 @@ public class CameraCaptureScript : MonoBehaviour
                 bool InsideImageBounds = (oldX > -1) & (oldX < width)
                                        & (oldY > -1) & (oldY < height);
 
-                texels[address++] = InsideImageBounds ? copy[oldY * width + oldX] : default;
+                rawData[address++] = InsideImageBounds ? copy[oldY * width + oldX] : default;
             }
         }
 
         // No need to reinitialize or SetPixels - data is already in-place.
-        tex.Apply(true);
+        image.Apply(true);
 
         System.Buffers.ArrayPool<Color32>.Shared.Return(copy);
     }

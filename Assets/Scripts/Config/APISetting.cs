@@ -2,6 +2,10 @@ using System;
 
 namespace Config{
     [Serializable]
+    ///<summary>
+    /// Config data class. Used to import settings from json or other file.
+    /// </summary>
+
     public class APISetting 
     {  
         public string api_base;

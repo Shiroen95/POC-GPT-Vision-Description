@@ -1,4 +1,7 @@
 namespace Networking.DTO{
+    /// <summary>
+    /// Response from GPT4.5 Image request.
+    /// </summary>
     public class BaseResponseDTO{
         public string id {get;set;}
         public string _object {get;set;}
