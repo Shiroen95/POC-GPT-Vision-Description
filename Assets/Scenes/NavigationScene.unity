@@ -180,7 +180,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Picture
+  m_text: 'Main
 
 '
   m_isRightToLeft: 0
@@ -672,7 +672,7 @@ GameObject:
   - component: {fileID: 1034526855}
   - component: {fileID: 1034526854}
   m_Layer: 5
-  m_Name: PictureBtn
+  m_Name: MainBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
