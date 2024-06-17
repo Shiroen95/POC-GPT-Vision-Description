@@ -52,7 +52,7 @@ public class CameraCaptureScript : MonoBehaviour
             inputRect = new RectInt(0, 0, image.width, image.height),
 
             // Optionally downsample
-            outputDimensions = new Vector2Int(image.width, image.height),
+            outputDimensions = new Vector2Int(image.width/2, image.height/2),
 
             // Output an RGB color image format
             outputFormat = TextureFormat.RGBA32,
