@@ -19,6 +19,8 @@ public class InputScript : MonoBehaviour
     [SerializeField]
     private TMP_Dropdown _dropDown;
     [SerializeField]
+    private Toggle _detailToggle;
+    [SerializeField]
     private GameObject _panel;
 
     private int _maxImgSize = 524;
@@ -34,7 +36,11 @@ public class InputScript : MonoBehaviour
 
         var userVisionContext = (UserRoleVision)DataScript.request.messages[1];
         userContent.text = ((UserTextContent)userVisionContext.content[0]).text;
-
+        _detailToggle.isOn = ((UserVisionContent)userVisionContext.content[1]).image_url.detail == "high";
+        
+        _detailToggle.onValueChanged.AddListener((value)=>{
+            ((UserVisionContent)userVisionContext.content[1]).image_url.detail = value ? "high":"low"; 
+        });
         userContent.onSubmit.AddListener((text)=>{
             ((UserTextContent)userVisionContext.content[0]).text = text;
         });
@@ -49,6 +55,7 @@ public class InputScript : MonoBehaviour
     }
     void OnDestroy()
     {
+        _detailToggle.onValueChanged.RemoveAllListeners();
         userContent.onSubmit.RemoveAllListeners();
         systemContent.onSubmit.RemoveAllListeners();
     }
