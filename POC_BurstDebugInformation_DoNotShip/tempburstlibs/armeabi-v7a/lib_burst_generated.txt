@@ -12,6 +12,7 @@ Library: L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs
 --assembly-defines=Assembly-CSharp;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
+--assembly-defines=NativeFilePicker.Runtime;
 --assembly-defines=NativeGallery.Runtime;
 --assembly-defines=Newtonsoft.Json;
 --assembly-defines=System.Configuration;
@@ -65,6 +66,7 @@ Library: L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs
 --assembly-defines=Assembly-CSharp;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
+--assembly-defines=NativeFilePicker.Runtime;
 --assembly-defines=NativeGallery.Runtime;
 --assembly-defines=Newtonsoft.Json;
 --assembly-defines=System.Configuration;
