@@ -13,12 +13,17 @@ namespace Scripts {
             max_tokens = 1000,
             messages = new List<GPTRoles>{
                 new SystemRole(){
-                    content ="You are a helpful assistant."
+                    content ="You are a supervisor that delegates tasks in an cleaning environment. All responses should be in the following json format:"+
+                    "{headline:, body:}"+
+                    "The content descriptions are as follows: "+
+                    "headline: Describes the task at hand as short as possible. "+ 
+                    "body: Give instructions on all tasks at hand. If possible, explain how to do these tasks. "+
+                    "The Userinput will always be a text and an picture. The text can contain metatags for the task at hand, while the picture will show you the concrete task and it's current state."
                     },
                 new UserRoleVision(){
                         content = new UserContent[]{
                             new UserTextContent(){
-                                text = "Describe this picture: ",
+                                text = "cleaning",
                             },
                             new UserVisionContent(){
                                 image_url = new(){

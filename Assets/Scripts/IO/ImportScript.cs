@@ -7,44 +7,51 @@ using Newtonsoft.Json;
 using Scripts;
 using UnityEngine;
 
-public class ImportScript : MonoBehaviour
+
+namespace IO
 {
-
-    private string jsonFileType;
-
-    void Start()
+    public class ImportScript : MonoBehaviour
     {
-        jsonFileType = NativeFilePicker.ConvertExtensionToFileType( "json" ); // Returns "application/pdf" on Android and "com.adobe.pdf" on iOS
-    }
+        public delegate void OnImportSettings();
+        public static event OnImportSettings onImportSettings;
 
-    public async void importSetting(){
-        var path = pickFile();
-        if (path != ""){
-            var jsonString = await LoadJson(path);
-            DataScript.request = JsonConvert.DeserializeObject<BaseImageDTO>(jsonString);
-        }
-    }
-    
-    private string pickFile(){
-        var filePath = "";
-        NativeFilePicker.Permission permission = NativeFilePicker.PickFile( ( path ) =>
-			{
-				if( path == null )
-					Debug.Log( "Operation cancelled" );
-				else
-					filePath = path;
-			}, new string[] { jsonFileType } );
+        private string jsonFileType;
 
-			return filePath;
-    }
-
-    public async Task<string> LoadJson(string path)
-    {
-        using (StreamReader r = new StreamReader(path))
+        void Start()
         {
-            return await r.ReadToEndAsync();
+            jsonFileType = NativeFilePicker.ConvertExtensionToFileType( "json" ); // Returns "application/pdf" on Android and "com.adobe.pdf" on iOS
         }
+
+        public async void importSetting(){
+            var path = pickFile();
+            if (path != ""){
+                var jsonString = await LoadJson(path);
+                DataScript.request = JsonConvert.DeserializeObject<BaseImageDTO>(jsonString);
+                onImportSettings?.Invoke();
+            }
+        }
+
+        private string pickFile(){
+            var filePath = "";
+            NativeFilePicker.Permission permission = NativeFilePicker.PickFile( ( path ) =>
+                {
+                    if( path == null )
+                        Debug.Log( "Operation cancelled" );
+                    else
+                        filePath = path;
+                }, new string[] { jsonFileType } );
+
+                return filePath;
+        }
+
+        public async Task<string> LoadJson(string path)
+        {
+            using (StreamReader r = new StreamReader(path))
+            {
+                return await r.ReadToEndAsync();
+            }
+        }
+
+
     }
-
-
 }
