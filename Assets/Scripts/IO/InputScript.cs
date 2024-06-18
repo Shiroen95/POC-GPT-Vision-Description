@@ -4,6 +4,8 @@ using Scripts;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using  IO;
+using Unity.VisualScripting;
 
 /// <summary>
 /// Input handler script.
@@ -24,9 +26,12 @@ public class InputScript : MonoBehaviour
     private GameObject _panel;
 
     private int _maxImgSize = 524;
+
+ 
     // Start is called before the first frame update
     void Start()
     {
+        ImportScript.onImportSettings += SetupInputFields;
         SetupInputFields(); 
     }
 
@@ -58,6 +63,7 @@ public class InputScript : MonoBehaviour
         _detailToggle.onValueChanged.RemoveAllListeners();
         userContent.onSubmit.RemoveAllListeners();
         systemContent.onSubmit.RemoveAllListeners();
+        ImportScript.onImportSettings -= SetupInputFields;
     }
     public void PickImage()
     {
