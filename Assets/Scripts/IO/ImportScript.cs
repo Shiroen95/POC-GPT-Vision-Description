@@ -25,8 +25,13 @@ namespace IO
         public async void importSetting(){
             var path = pickFile();
             if (path != ""){
+                JsonSerializerSettings readSettings = new JsonSerializerSettings()
+                {
+                    Converters = new[] { new BaseImageDTOJsonConverter() },
+                };
                 var jsonString = await LoadJson(path);
-                DataScript.request = JsonConvert.DeserializeObject<BaseImageDTO>(jsonString);
+                Debug.Log(jsonString);
+                DataScript.request = JsonConvert.DeserializeObject<BaseImageDTO>(jsonString,readSettings);
                 onImportSettings?.Invoke();
             }
         }
