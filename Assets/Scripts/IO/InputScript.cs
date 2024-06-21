@@ -43,7 +43,11 @@ public class InputScript : MonoBehaviour
 
     private async Task sendRequest (){
         Debug.Log("sending Request");
-        await RESTClient.instance.sendGPT4PostRequest(Convert.ToBase64String(DataScript.image.EncodeToJPG()));
+        if(DataScript.image == null){
+            Debug.Log("No Image found");
+            return;
+        }
+        await RESTClient.instance.sendGPT4PostRequest(Convert.ToBase64String(DataScript.image?.EncodeToJPG()));
         Debug.Log("sended Request");
         ExportScript.instance.saveData();
     }
