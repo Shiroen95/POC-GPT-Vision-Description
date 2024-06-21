@@ -3798,7 +3798,8 @@ MonoBehaviour:
   _dropDown: {fileID: 300816717}
   _detailToggle: {fileID: 1189312122}
   _panel: {fileID: 307453657}
-  sendingText: {fileID: 0}
+  sendingPanel: {fileID: 952071561}
+  BatchInput: {fileID: 1396858835}
 --- !u!114 &1271149523
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4752,9 +4753,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: CameraCaptureScript, Assembly-CSharp
-        m_MethodName: sendRequest
+      - m_Target: {fileID: 1271149522}
+        m_TargetAssemblyTypeName: InputScript, Assembly-CSharp
+        m_MethodName: sendBatchRequest
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
