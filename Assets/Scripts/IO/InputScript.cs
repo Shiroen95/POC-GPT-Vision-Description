@@ -6,6 +6,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using  IO;
 using Unity.VisualScripting;
+using System.Threading.Tasks;
+using System.Collections.Generic;
 
 /// <summary>
 /// Input handler script.
@@ -24,6 +26,10 @@ public class InputScript : MonoBehaviour
     private Toggle _detailToggle;
     [SerializeField]
     private GameObject _panel;
+    [SerializeField]
+    private GameObject sendingPanel;
+    [SerializeField]
+    private TMP_InputField BatchInput;
 
     private int _maxImgSize = 524;
 
@@ -33,6 +39,30 @@ public class InputScript : MonoBehaviour
     {
         ImportScript.onImportSettings += SetupInputFields;
         SetupInputFields(); 
+    }
+
+    private async Task sendRequest (){
+        Debug.Log("sending Request");
+        await RESTClient.instance.sendGPT4PostRequest(Convert.ToBase64String(DataScript.image.EncodeToJPG()));
+        Debug.Log("sended Request");
+        ExportScript.instance.saveData();
+    }
+
+    public async void sendBatchRequest(){
+        sendingPanel.SetActive(true);
+        var Tasklist = new List<Task>();
+        int.TryParse(BatchInput.text,out int result);
+        if(result > 1 ){
+            for (int i = 0; i < result; i++)
+            {
+                Tasklist.Add(sendRequest());
+            }
+        }
+        else{
+            await sendRequest();
+        }
+        await Task.WhenAll(Tasklist);
+        sendingPanel.SetActive(false);
     }
 
     private void SetupInputFields(){
@@ -58,6 +88,7 @@ public class InputScript : MonoBehaviour
             _currImage.sprite = Sprite.Create(DataScript.image,new Rect(0, 0, DataScript.image.width, DataScript.image.height),Vector2.zero);
         }
     }
+    
     void OnDestroy()
     {
         _detailToggle.onValueChanged.RemoveAllListeners();
