@@ -57,11 +57,12 @@ public class InputScript : MonoBehaviour
             {
                 Tasklist.Add(sendRequest());
             }
+            await Task.WhenAll(Tasklist);
         }
         else{
             await sendRequest();
         }
-        await Task.WhenAll(Tasklist);
+        
         sendingPanel.SetActive(false);
     }
 
