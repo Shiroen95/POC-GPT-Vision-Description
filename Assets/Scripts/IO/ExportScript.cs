@@ -30,7 +30,8 @@ public class ExportScript {
         var requestJson = JsonConvert.SerializeObject(DataScript.request);
         var responseJson = JsonConvert.SerializeObject(DataScript.response);
         var jpgImageByteArray = DataScript.image.EncodeToJPG();
-        var folderName = $"/{DateTime.UtcNow:yyyy-MM-ddTHH-mm-ss}";
+        var folderName = $"/{DateTime.UtcNow:yyyy-MM-ddTHH-mm-ss.ffffff}";
+        Debug.Log("saved at: "+baseDataPath+folderName);
         Directory.CreateDirectory(baseDataPath+folderName);
         WriteBinaryToFile(baseDataPath+folderName+"/image.jpg",jpgImageByteArray);
         WriteStringToFile(baseDataPath+folderName+"/request.json",requestJson);
