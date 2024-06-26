@@ -44,10 +44,10 @@ public class RESTClient {
             JsonConvert.SerializeObject(imageDTO), 
             Encoding.UTF8,
             "application/json"));
-       var stringContent = await response.Content.ReadAsStringAsync();     
-       DataScript.response = JsonConvert.DeserializeObject<BaseResponseDTO>(stringContent);  
-       UnityEngine.Debug.Log(stringContent);
-       UnityEngine.Debug.Log("Done!"); 
-
+            var stringContent = await response.Content.ReadAsStringAsync();   
+            lock(this){       
+                DataScript.response = JsonConvert.DeserializeObject<BaseResponseDTO>(stringContent); 
+                ExportScript.instance.saveData();
+            }
     }
 }
