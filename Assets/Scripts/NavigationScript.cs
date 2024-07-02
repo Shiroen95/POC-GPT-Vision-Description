@@ -17,7 +17,7 @@ public class NavigationScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        SceneManager.LoadSceneAsync("Scenes/SampleScene",LoadSceneMode.Additive);
+        SceneManager.LoadSceneAsync("Scenes/PictureScene",LoadSceneMode.Additive);
         _currScene = (int)SceneType.Camera;
     }
 
@@ -38,7 +38,7 @@ public class NavigationScript : MonoBehaviour
                 return path += "OutputScene";
             default:
             case SceneType.Camera:
-                 return path += "SampleScene";
+                 return path += "PictureScene";
         }
     }
 }
