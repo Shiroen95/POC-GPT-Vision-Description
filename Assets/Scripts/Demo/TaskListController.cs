@@ -20,19 +20,15 @@ public class TaskListController : MonoBehaviour
         
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void addTask(){
-        var newTask = GameObject.Instantiate(taskObject);
+        var task = DemoDataScript.Instance.addCleaningTask(new CleaningTask("Test","Test"));
+        var newTask = Instantiate(taskObject,scrollViewContent.transform);
+        newTask.GetComponent<TaskObjectData>().task = task.Item2;
+        newTask.GetComponent<TaskObjectData>().index = task.Item1;
         newTask.SetActive(true);
-        //newTask.transform.parent =  scrollViewContent.transform;
     }
 
     public void showTask(GameObject gameObject){
-
+        Debug.Log(gameObject.GetComponent<TaskObjectData>().index);
     }
 }
