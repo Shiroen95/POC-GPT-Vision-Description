@@ -1,13 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class TaskListController : MonoBehaviour
 {
     [SerializeField]
     private Button addTaskBtn;
-
     [SerializeField]
     private GameObject taskObject;
     [SerializeField]
@@ -20,7 +20,7 @@ public class TaskListController : MonoBehaviour
         
     }
 
-    public void addTask(){
+    public void addTask_old(){
         var task = DemoDataScript.Instance.addCleaningTask(new CleaningTask("Test","Test"));
         var newTask = Instantiate(taskObject,scrollViewContent.transform);
         newTask.GetComponent<TaskObjectData>().task = task.Item2;
@@ -28,7 +28,13 @@ public class TaskListController : MonoBehaviour
         newTask.SetActive(true);
     }
 
+    public void addTask(){
+        DemoDataScript.Instance.currModifyMode = modifyMode.create;
+        SceneManager.LoadSceneAsync("Scenes/PictureScene",LoadSceneMode.Additive);
+    }
+
     public void showTask(GameObject gameObject){
+        DemoDataScript.Instance.currModifyMode = modifyMode.edit;
         Debug.Log(gameObject.GetComponent<TaskObjectData>().index);
     }
 }
