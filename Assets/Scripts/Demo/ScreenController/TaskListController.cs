@@ -1,5 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
+using Demo.DataObject;
+using Demo.DTO;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -36,7 +38,8 @@ public class TaskListController : MonoBehaviour
 
     public void showTask(GameObject gameObject){
         DemoDataScript.Instance.currModifyMode = modifyMode.edit;
-        Debug.Log(gameObject.GetComponent<TaskObjectData>().index);
+        DemoDataScript.Instance.setCurrentCleaningTask(gameObject.GetComponent<TaskObjectData>().index);
+        SceneManager.LoadSceneAsync("Scenes/Demo/ModifyTaskScene",LoadSceneMode.Additive);
     }
 }
 }
