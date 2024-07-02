@@ -1,3 +1,5 @@
+using Demo.DataObject;
+using Demo.DTO;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -16,6 +18,11 @@ namespace Demo.ScreenController{
         private GameObject _userInputScreen;
         [SerializeField]
         private GameObject _taskScreen;
+
+        [SerializeField]
+        private TaskScreenObjectData _taskScreenObjectData;
+
+        private CleaningTask currentTask = null;
         void Start()
         {
             _selectionScreen.SetActive(false);
@@ -25,15 +32,29 @@ namespace Demo.ScreenController{
 
             switch (DemoDataScript.Instance.currModifyMode){
                 case modifyMode.edit:
+                    currentTask = DemoDataScript.Instance.currCleaningTask;
                     _taskScreen.SetActive(true);
                     break;
                 case modifyMode.create:
-                    _selectionScreen.SetActive(true);
+                    //_selectionScreen.SetActive(true);
+                    currentTask = new CleaningTask();
+                    _taskScreen.SetActive(true);
                     break;
                 case modifyMode.none:
                     SceneManager.UnloadSceneAsync("Scenes/Demo/ModifyTaskScene");
                     break;
             }
+            fillTaskScreen();
+        }
+        public void saveData(){
+            if(DemoDataScript.Instance.currModifyMode == modifyMode.create)
+                DemoDataScript.Instance.addCleaningTask(currentTask);
+            SceneManager.UnloadSceneAsync("Scenes/Demo/ModifyTaskScene");
+        }
+
+        public void fillTaskScreen(){
+            _taskScreenObjectData.headlineIf.text = currentTask.Name;
+            _taskScreenObjectData.descriptionIf.text = currentTask.Description;
         }
     }
 }
