@@ -686,7 +686,20 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 138332832}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 673952786}
+        m_TargetAssemblyTypeName: Demo.ScreenController.ModifyTaskSceneController,
+          Assembly-CSharp
+        m_MethodName: setInteractionMode
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &138332832
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3642,7 +3655,20 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1004539608}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 673952786}
+        m_TargetAssemblyTypeName: Demo.ScreenController.ModifyTaskSceneController,
+          Assembly-CSharp
+        m_MethodName: setInteractionMode
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 2
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1004539608
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4993,7 +5019,20 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1859086744}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 673952786}
+        m_TargetAssemblyTypeName: Demo.ScreenController.ModifyTaskSceneController,
+          Assembly-CSharp
+        m_MethodName: setInteractionMode
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 3
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1859086744
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5289,7 +5328,20 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1953177694}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 673952786}
+        m_TargetAssemblyTypeName: Demo.ScreenController.ModifyTaskSceneController,
+          Assembly-CSharp
+        m_MethodName: nextStep
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1953177694
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5767,7 +5819,20 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2083660235}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 673952786}
+        m_TargetAssemblyTypeName: Demo.ScreenController.ModifyTaskSceneController,
+          Assembly-CSharp
+        m_MethodName: nextStep
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2083660235
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6022,7 +6087,20 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2114911172}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 673952786}
+        m_TargetAssemblyTypeName: Demo.ScreenController.ModifyTaskSceneController,
+          Assembly-CSharp
+        m_MethodName: setInteractionMode
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2114911172
 MonoBehaviour:
   m_ObjectHideFlags: 0

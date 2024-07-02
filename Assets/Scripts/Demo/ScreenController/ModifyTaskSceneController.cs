@@ -31,7 +31,7 @@ namespace Demo.ScreenController{
                 InteractionMode.semi1Method, new [] {Screen.picture,Screen.userInput,Screen.taskScreen}
             },
             {
-                InteractionMode.semi1Method, new [] {Screen.picture,Screen.userInput,Screen.taskScreen}   
+                InteractionMode.semi2Method, new [] {Screen.picture,Screen.userInput,Screen.taskScreen}   
             },
             {
                 InteractionMode.fullAutoMethod, new [] {Screen.picture,Screen.taskScreen}
@@ -88,24 +88,24 @@ namespace Demo.ScreenController{
             DemoDataScript.Instance.currModifyMode = modifyMode.none;
             SceneManager.UnloadSceneAsync("Scenes/Demo/ModifyTaskScene");
         }
-        public void fillTaskScreen(){
+        private void fillTaskScreen(){
             _taskScreenObjectData.headlineIf.text = currentTask.Name;
             _taskScreenObjectData.descriptionIf.text = currentTask.Description;
         }
 
-        [SerializeField]
-        private void nextStep(){
+        public void nextStep(){
             try{
-                openScreen(interactionRoutes[currentInteractionMode][currentStep++]);
+                openScreen(interactionRoutes[currentInteractionMode][currentStep+1]);
+                currentStep++;
             }
             catch(IndexOutOfRangeException){
-                currentStep--;
+                Debug.Log("outofRange");
+                currentStep --;
             }
         }
-        [SerializeField]
-        private void setInteractionMode(InteractionMode mode){
-           currentInteractionMode = mode;
-           openScreen(0);
+        public void setInteractionMode(int mode){
+           currentInteractionMode = (InteractionMode)mode;
+           openScreen(interactionRoutes[currentInteractionMode][0]);
         }
 
 
