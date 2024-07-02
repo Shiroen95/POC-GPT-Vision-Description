@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+namespace Demo.ScreenController{
 public class TaskListController : MonoBehaviour
 {
     [SerializeField]
@@ -37,4 +38,5 @@ public class TaskListController : MonoBehaviour
         DemoDataScript.Instance.currModifyMode = modifyMode.edit;
         Debug.Log(gameObject.GetComponent<TaskObjectData>().index);
     }
+}
 }
