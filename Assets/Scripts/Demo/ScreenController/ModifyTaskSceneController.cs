@@ -1,5 +1,6 @@
 using Demo.DataObject;
 using Demo.DTO;
+using Unity.Tutorials.Core.Editor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -47,10 +48,13 @@ namespace Demo.ScreenController{
             fillTaskScreen();
         }
         public void saveData(){
-            currentTask.Name = _taskScreenObjectData.headlineIf.text;
-            currentTask.Description = _taskScreenObjectData.descriptionIf.text;
-            if(DemoDataScript.Instance.currModifyMode == modifyMode.create)
-                DemoDataScript.Instance.addCleaningTask(currentTask);
+            if(_taskScreenObjectData.headlineIf.text.IsNotNullOrEmpty()){
+                currentTask.Name = _taskScreenObjectData.headlineIf.text;
+                currentTask.Description = _taskScreenObjectData.descriptionIf.text;
+
+                if(DemoDataScript.Instance.currModifyMode == modifyMode.create)
+                    DemoDataScript.Instance.addCleaningTask(currentTask);
+            }
             SceneManager.UnloadSceneAsync("Scenes/Demo/ModifyTaskScene");
         }
 
