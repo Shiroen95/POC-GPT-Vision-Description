@@ -16,11 +16,23 @@ public class TaskListController : MonoBehaviour
     [SerializeField]
     private GameObject scrollViewContent;
 
+    void OnEnable(){
+        DemoDataScript.Instance.onAddedNewTask += addTaskToTasklist;
+    }
+    void OnDisable(){
+        DemoDataScript.Instance.onAddedNewTask -= addTaskToTasklist;
+    }
 
     // Start is called before the first frame update
     void Start()
     {
         
+    }
+
+    private void addTaskToTasklist((int,CleaningTask) taskValue){
+        var newTask = Instantiate(taskObject,scrollViewContent.transform);
+        newTask.GetComponent<TaskObjectData>().task = taskValue.Item2;
+        newTask.GetComponent<TaskObjectData>().index = taskValue.Item1;
     }
 
     public void addTask_old(){

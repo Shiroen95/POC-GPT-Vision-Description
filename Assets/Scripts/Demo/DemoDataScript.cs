@@ -21,6 +21,8 @@ namespace Demo{
         public CleaningTask currCleaningTask {
             get => _currCleaningTaskIndex==-1 ? null : GetCleaningTask(_currCleaningTaskIndex);
         }
+        public delegate void OnAddedNewTask((int,CleaningTask) taskValue);
+        public event OnAddedNewTask onAddedNewTask;
 
         private DemoDataScript(){
             var loadedData = checkForInternalData();
@@ -49,6 +51,7 @@ namespace Demo{
             taskList.Add(index, cleaningTask);
             var returnValue = (index, cleaningTask);
             index++;
+            onAddedNewTask?.Invoke(returnValue);
             return returnValue;
         }
 
