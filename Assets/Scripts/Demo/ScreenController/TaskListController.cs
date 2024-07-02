@@ -33,15 +33,9 @@ public class TaskListController : MonoBehaviour
         var newTask = Instantiate(taskObject,scrollViewContent.transform);
         newTask.GetComponent<TaskObjectData>().task = taskValue.Item2;
         newTask.GetComponent<TaskObjectData>().index = taskValue.Item1;
-    }
-
-    public void addTask_old(){
-        var task = DemoDataScript.Instance.addCleaningTask(new CleaningTask("Test","Test"));
-        var newTask = Instantiate(taskObject,scrollViewContent.transform);
-        newTask.GetComponent<TaskObjectData>().task = task.Item2;
-        newTask.GetComponent<TaskObjectData>().index = task.Item1;
         newTask.SetActive(true);
     }
+
 
     public void addTask(){
         DemoDataScript.Instance.currModifyMode = modifyMode.create;
