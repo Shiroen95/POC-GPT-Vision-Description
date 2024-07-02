@@ -1577,6 +1577,7 @@ MonoBehaviour:
   _pictureScreen: {fileID: 1435334233}
   _userInputScreen: {fileID: 1896277624}
   _taskScreen: {fileID: 2032849848}
+  _taskScreenObjectData: {fileID: 2032849850}
 --- !u!1 &707909141
 GameObject:
   m_ObjectHideFlags: 0
@@ -1814,7 +1815,20 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 738415183}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 673952786}
+        m_TargetAssemblyTypeName: Demo.ScreenController.ModifyTaskSceneController,
+          Assembly-CSharp
+        m_MethodName: saveData
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &738415183
 MonoBehaviour:
   m_ObjectHideFlags: 0
