@@ -30,7 +30,7 @@ public class TaskListController : MonoBehaviour
 
     public void addTask(){
         DemoDataScript.Instance.currModifyMode = modifyMode.create;
-        SceneManager.LoadSceneAsync("Scenes/PictureScene",LoadSceneMode.Additive);
+        SceneManager.LoadSceneAsync("Scenes/Demo/ModifyTaskScene",LoadSceneMode.Additive);
     }
 
     public void showTask(GameObject gameObject){
