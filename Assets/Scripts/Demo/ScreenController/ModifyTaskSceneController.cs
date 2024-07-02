@@ -47,6 +47,8 @@ namespace Demo.ScreenController{
             fillTaskScreen();
         }
         public void saveData(){
+            currentTask.Name = _taskScreenObjectData.headlineIf.text;
+            currentTask.Description = _taskScreenObjectData.descriptionIf.text;
             if(DemoDataScript.Instance.currModifyMode == modifyMode.create)
                 DemoDataScript.Instance.addCleaningTask(currentTask);
             SceneManager.UnloadSceneAsync("Scenes/Demo/ModifyTaskScene");
