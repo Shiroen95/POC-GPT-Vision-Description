@@ -17,6 +17,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/InputScene.unity
     guid: 021a2c77dcd6c424aa66a6be16fff486
+  - enabled: 1
+    path: Assets/Scenes/Demo/TaskListScreen.unity
+    guid: 033ba32914b0841418d71e222ce86e3b
+  - enabled: 1
+    path: Assets/Scenes/Demo/ModifyTaskScene.unity
+    guid: 41beea2c5cdd9c447b0620085ae4472e
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
