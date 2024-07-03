@@ -5,6 +5,7 @@ using Demo.DataObject;
 using Demo.DTO;
 using Newtonsoft.Json;
 using Services;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -28,7 +29,7 @@ namespace Demo.ScreenController{
                 InteractionMode.semi1Method, new [] {Screen.picture,Screen.userInput,Screen.sendRequest,Screen.taskScreen}
             },
             {
-                InteractionMode.semi2Method, new [] {Screen.picture,Screen.sendRequest,Screen.userInput,Screen.sendRequest,Screen.taskScreen}   
+                InteractionMode.semi2Method, new [] {Screen.picture,Screen.userInput,Screen.sendRequest,Screen.taskScreen}   
             },
             {
                 InteractionMode.fullAutoMethod, new [] {Screen.picture,Screen.sendRequest,Screen.sendRequest,Screen.taskScreen}
@@ -150,13 +151,27 @@ namespace Demo.ScreenController{
 
             }
         } 
-        public void fillUserInputScreen(){
+        private void fillUserInputScreen(){
             if(DemoDataScript.Instance.currentInteractionMode == InteractionMode.semi1Method){
-
-            return;
-            }
-            
+            _userInputObjectData.tagsIf.gameObject.SetActive(true);
+            _userInputObjectData.tagList.SetActive(false);
+           }
+           else if(DemoDataScript.Instance.currentInteractionMode == InteractionMode.semi2Method){
+            generateTagList();
+            _userInputObjectData.tagsIf.gameObject.SetActive(false);
+            _userInputObjectData.tagList.SetActive(true);
+           }  
         }
+
+        private void generateTagList(){
+            var annotationStringList = DemoDataScript.Instance.annotationList.annotation.Split(",");
+            foreach(var annotation in annotationStringList){
+                var tag = Instantiate(_userInputObjectData.tagTemplate);
+                tag.GetComponent<TMP_Text>().text = annotation;
+                tag.SetActive(true);
+            }
+        }
+
         public void selectPicture(){
             PictureService.PickImage(524, setPicture);
         }
