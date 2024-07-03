@@ -2,7 +2,9 @@ using System;
 using System.Collections.Generic;
 using Demo.DataObject;
 using Demo.DTO;
+using Services;
 using Unity.Tutorials.Core.Editor;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -37,7 +39,6 @@ namespace Demo.ScreenController{
                 InteractionMode.fullAutoMethod, new [] {Screen.picture,Screen.taskScreen}
             }   
         };
-         
         private int currentStep = 0;
         private InteractionMode currentInteractionMode = InteractionMode.baseMethod;
         [SerializeField]
@@ -51,6 +52,8 @@ namespace Demo.ScreenController{
 
         [SerializeField]
         private TaskScreenObjectData _taskScreenObjectData;
+        [SerializeField]
+        private PictureObjectData _pictureObjectData;
 
         private CleaningTask currentTask = null;
         void Start()
@@ -107,8 +110,6 @@ namespace Demo.ScreenController{
            currentInteractionMode = (InteractionMode)mode;
            openScreen(interactionRoutes[currentInteractionMode][0]);
         }
-
-
         private void openScreen(Screen screen){
             _selectionScreen.SetActive(false);
             _pictureScreen.SetActive(false);
@@ -130,6 +131,16 @@ namespace Demo.ScreenController{
                     break;
 
             }
+        }
+    
+        public void takePicture(){
+            DemoDataScript.Instance.currImage = PictureService.PickImage(524);
+             _pictureObjectData.image.rectTransform.sizeDelta = 
+                new Vector2(DemoDataScript.Instance.currImage.width, DemoDataScript.Instance.currImage.height);
+            _pictureObjectData.image.sprite = Sprite.Create(
+                DemoDataScript.Instance.currImage,
+                new Rect(0, 0, DemoDataScript.Instance.currImage.width, DemoDataScript.Instance.currImage.height),Vector2.zero);
+            _pictureObjectData.image.enabled = true; 
         }
     }
 }

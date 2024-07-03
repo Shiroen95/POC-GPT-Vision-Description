@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using Demo.DTO;
+using UnityEngine;
 
 namespace Demo{
 
@@ -10,6 +11,8 @@ namespace Demo{
     }
 
     public class DemoDataScript{
+
+        public Texture2D currImage;
         public modifyMode currModifyMode = modifyMode.none;
         private int index;
         private Dictionary<int,CleaningTask> taskList;
