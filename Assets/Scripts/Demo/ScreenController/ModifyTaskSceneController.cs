@@ -131,14 +131,14 @@ namespace Demo.ScreenController{
             }
         } 
         public void selectPicture(){
-            DemoDataScript.Instance.currImage = PictureService.PickImage(524);
-            setPicture();
+            PictureService.PickImage(524, setPicture);
         }
         public void takePicture(){
-            DemoDataScript.Instance.currImage = PictureService.TakePicture(524);
-            setPicture();
+            PictureService.TakePicture(524, setPicture);
         }
-        private void setPicture(){
+        private void setPicture(Texture2D input){
+            DemoDataScript.Instance.currImage = input;
+            Debug.Log(_pictureObjectData.image);
             _pictureObjectData.image.rectTransform.sizeDelta = 
                 new Vector2(DemoDataScript.Instance.currImage.width, DemoDataScript.Instance.currImage.height);
             _pictureObjectData.image.sprite = Sprite.Create(
