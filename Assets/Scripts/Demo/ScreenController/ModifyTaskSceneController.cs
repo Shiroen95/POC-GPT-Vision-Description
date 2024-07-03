@@ -166,8 +166,8 @@ namespace Demo.ScreenController{
         private void generateTagList(){
             var annotationStringList = DemoDataScript.Instance.annotationList.annotation.Split(",");
             foreach(var annotation in annotationStringList){
-                var tag = Instantiate(_userInputObjectData.tagTemplate);
-                tag.GetComponent<TMP_Text>().text = annotation;
+                var tag = Instantiate(_userInputObjectData.tagTemplate, _userInputObjectData.tagTemplate.transform.parent);
+                tag.GetComponentInChildren<TMP_Text>().text = annotation;
                 tag.SetActive(true);
             }
         }
