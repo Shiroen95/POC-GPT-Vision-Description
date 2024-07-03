@@ -1,5 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
+
 using Demo.DataObject;
 using Demo.DTO;
 using UnityEngine;
@@ -38,12 +37,12 @@ public class TaskListController : MonoBehaviour
 
 
     public void addTask(){
-        DemoDataScript.Instance.currModifyMode = modifyMode.create;
+        DemoDataScript.Instance.currModifyMode = ModifyMode.create;
         SceneManager.LoadSceneAsync("Scenes/Demo/ModifyTaskScene",LoadSceneMode.Additive);
     }
 
     public void showTask(GameObject gameObject){
-        DemoDataScript.Instance.currModifyMode = modifyMode.edit;
+        DemoDataScript.Instance.currModifyMode = ModifyMode.edit;
         DemoDataScript.Instance.setCurrentCleaningTask(gameObject.GetComponent<TaskObjectData>().index);
         SceneManager.LoadSceneAsync("Scenes/Demo/ModifyTaskScene",LoadSceneMode.Additive);
     }

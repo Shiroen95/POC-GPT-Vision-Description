@@ -50,4 +50,18 @@ public class RESTClient {
                 ExportScript.instance.saveData();
             }
     }
+
+    public async Task<BaseResponseDTO> returnGPT4PostRequest(string base64Image, BaseImageDTO imageDTO){
+        var endpoint = settings.base_url + settings.versionURL;
+        addImageToRequest(base64Image, imageDTO); 
+        var response = await client.PostAsync(endpoint, 
+        new StringContent(
+            JsonConvert.SerializeObject(imageDTO), 
+            Encoding.UTF8,
+            "application/json"));
+            var stringContent = await response.Content.ReadAsStringAsync();   
+                
+        return JsonConvert.DeserializeObject<BaseResponseDTO>(stringContent); 
+
+    }
 }
