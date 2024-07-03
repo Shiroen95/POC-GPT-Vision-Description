@@ -41,7 +41,7 @@ namespace Services{
             if( path != null )
             {
                 // Create a Texture2D from the captured image
-                 texture = NativeCamera.LoadImageAtPath( path, maxSize );
+                 texture = NativeCamera.LoadImageAtPath( path, maxSize,false );
                 if( texture == null )
                 {
                     Debug.Log( "Couldn't load texture from " + path );
