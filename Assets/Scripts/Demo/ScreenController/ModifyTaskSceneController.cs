@@ -133,7 +133,7 @@ namespace Demo.ScreenController{
             }
         }
     
-        public void takePicture(){
+        public void selectPicture(){
             DemoDataScript.Instance.currImage = PictureService.PickImage(524);
              _pictureObjectData.image.rectTransform.sizeDelta = 
                 new Vector2(DemoDataScript.Instance.currImage.width, DemoDataScript.Instance.currImage.height);
