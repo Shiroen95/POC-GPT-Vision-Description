@@ -10,4 +10,6 @@ public class UserInputObjectData : MonoBehaviour
     public TMP_InputField tagsIf;
     [SerializeField]
     public Image image;
+    [SerializeField]
+    public GameObject tagTemplate;
 }
