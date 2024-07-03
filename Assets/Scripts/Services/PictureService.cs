@@ -27,11 +27,6 @@ namespace Services{
 
 
 
-
-
-
-
-
     public static void TakePicture( int maxSize,Action<Texture2D> callback )
     {
         Texture2D texture = null;
