@@ -1,7 +1,9 @@
 using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using Demo.DataObject;
 using Demo.DTO;
+using Newtonsoft.Json;
 using Services;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -14,13 +16,8 @@ namespace Demo.ScreenController{
             selection = 0,
             picture = 1,
             userInput = 2,
-            taskScreen = 3,
-        }
-        private enum InteractionMode {
-            baseMethod = 0,
-            semi1Method = 1,
-            semi2Method = 2,
-            fullAutoMethod = 3,
+            sendRequest = 3,
+            taskScreen = 4,
         }
         private Dictionary<InteractionMode,Screen[]> interactionRoutes = new Dictionary<InteractionMode, Screen[]>
         {
@@ -28,17 +25,16 @@ namespace Demo.ScreenController{
                 InteractionMode.baseMethod, new [] {Screen.taskScreen}
             },
             {
-                InteractionMode.semi1Method, new [] {Screen.picture,Screen.userInput,Screen.taskScreen}
+                InteractionMode.semi1Method, new [] {Screen.picture,Screen.userInput,Screen.sendRequest,Screen.taskScreen}
             },
             {
-                InteractionMode.semi2Method, new [] {Screen.picture,Screen.userInput,Screen.taskScreen}   
+                InteractionMode.semi2Method, new [] {Screen.picture,Screen.sendRequest,Screen.userInput,Screen.sendRequest,Screen.taskScreen}   
             },
             {
-                InteractionMode.fullAutoMethod, new [] {Screen.picture,Screen.taskScreen}
+                InteractionMode.fullAutoMethod, new [] {Screen.picture,Screen.sendRequest,Screen.sendRequest,Screen.taskScreen}
             }   
         };
         private int currentStep = 0;
-        private InteractionMode currentInteractionMode = InteractionMode.baseMethod;
         [SerializeField]
         private GameObject _selectionScreen;
         [SerializeField]
@@ -47,16 +43,22 @@ namespace Demo.ScreenController{
         private GameObject _userInputScreen;
         [SerializeField]
         private GameObject _taskScreen;
+        [SerializeField]
+        private GameObject _sendPanel;
 
         [SerializeField]
         private TaskScreenObjectData _taskScreenObjectData;
         [SerializeField]
         private PictureObjectData _pictureObjectData;
+        [SerializeField]
+        private UserInputObjectData _userInputObjectData;
+        [SerializeField]
+        private SendingController _sendingController;
 
         private CleaningTask currentTask = null;
         void Start()
         {
-            currentInteractionMode = InteractionMode.baseMethod;
+            DemoDataScript.Instance.currentInteractionMode = InteractionMode.baseMethod;
             currentStep = 0;
             _selectionScreen.SetActive(false);
             _pictureScreen.SetActive(false);
@@ -64,15 +66,15 @@ namespace Demo.ScreenController{
             _taskScreen.SetActive(false);
 
             switch (DemoDataScript.Instance.currModifyMode){
-                case modifyMode.edit:
+                case ModifyMode.edit:
                     currentTask = DemoDataScript.Instance.currCleaningTask;
                     _taskScreen.SetActive(true);
                     break;
-                case modifyMode.create:
+                case ModifyMode.create:
                     currentTask = new CleaningTask();
                     _selectionScreen.SetActive(true);
                     break;
-                case modifyMode.none:
+                case ModifyMode.none:
                     SceneManager.UnloadSceneAsync("Scenes/Demo/ModifyTaskScene");
                     break;
             }
@@ -83,30 +85,46 @@ namespace Demo.ScreenController{
                 currentTask.Name = _taskScreenObjectData.headlineIf.text;
                 currentTask.Description = _taskScreenObjectData.descriptionIf.text;
 
-                if(DemoDataScript.Instance.currModifyMode == modifyMode.create)
+                if(DemoDataScript.Instance.currModifyMode == ModifyMode.create)
                     DemoDataScript.Instance.addCleaningTask(currentTask);
             }
-            DemoDataScript.Instance.currModifyMode = modifyMode.none;
+            DemoDataScript.Instance.currModifyMode = ModifyMode.none;
             SceneManager.UnloadSceneAsync("Scenes/Demo/ModifyTaskScene");
         }
         private void fillTaskScreen(){
             _taskScreenObjectData.headlineIf.text = currentTask.Name;
             _taskScreenObjectData.descriptionIf.text = currentTask.Description;
         }
-
-        public void nextStep(){
+        public async void nextStepAsync(){
             try{
-                openScreen(interactionRoutes[currentInteractionMode][currentStep+1]);
+                var nextStep = interactionRoutes[DemoDataScript.Instance.currentInteractionMode][currentStep+1];
                 currentStep++;
+                if(nextStep == Screen.sendRequest){
+                     await requestStepAsync();
+                }
+                else{
+                openScreen(nextStep);
+                }
+                
             }
             catch(IndexOutOfRangeException){
                 Debug.Log("outofRange");
                 currentStep --;
             }
         }
+        private async Task requestStepAsync(){
+            _sendPanel.SetActive(true);
+            var jsonContent = await _sendingController.requestStep();
+            setData(DemoDataScript.Instance.currentRequestMode,jsonContent);
+            _sendPanel.SetActive(false);
+            nextStepAsync();   
+        }
+        public void setIfAnnotations(){
+            DemoDataScript.Instance.annotationList.annotation = _userInputObjectData.tagsIf.text;
+        }
         public void setInteractionMode(int mode){
-           currentInteractionMode = (InteractionMode)mode;
-           openScreen(interactionRoutes[currentInteractionMode][0]);
+           DemoDataScript.Instance.currentInteractionMode = (InteractionMode)mode;
+           openScreen(interactionRoutes[DemoDataScript.Instance.currentInteractionMode][0]);
         }
         private void openScreen(Screen screen){
             _selectionScreen.SetActive(false);
@@ -122,14 +140,23 @@ namespace Demo.ScreenController{
                     _pictureScreen.SetActive(true);
                     break;
                 case Screen.userInput:
+                    fillUserInputScreen();
                     _userInputScreen.SetActive(true);
                     break;
                 case Screen.taskScreen:
+                    fillTaskScreen();
                     _taskScreen.SetActive(true);
                     break;
 
             }
         } 
+        public void fillUserInputScreen(){
+            if(DemoDataScript.Instance.currentInteractionMode == InteractionMode.semi1Method){
+
+            return;
+            }
+            
+        }
         public void selectPicture(){
             PictureService.PickImage(524, setPicture);
         }
@@ -145,6 +172,19 @@ namespace Demo.ScreenController{
                 DemoDataScript.Instance.currImage,
                 new Rect(0, 0, DemoDataScript.Instance.currImage.width, DemoDataScript.Instance.currImage.height),Vector2.zero);
             _pictureObjectData.image.enabled = true; 
+            _userInputObjectData.image = _pictureObjectData.image;
+        }
+        private void setData(RequestMode requestMode, string jsonContent){
+            switch(requestMode){
+                case RequestMode.userTags:
+                case RequestMode.autoTags:
+                    DemoDataScript.Instance.annotationList 
+                        = JsonConvert.DeserializeObject<AnnotationList>(jsonContent);
+                    break;
+                case RequestMode.task:
+                    currentTask = JsonConvert.DeserializeObject<CleaningTask>(jsonContent);
+                    break;
+            }
         }
     }
 }

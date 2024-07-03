@@ -1,3 +1,5 @@
+using Newtonsoft.Json;
+
 namespace Demo.DTO{
     public class CleaningTask{
         
@@ -7,8 +9,9 @@ namespace Demo.DTO{
             this.Name = Name;
             this.Description = Description;
         }
-
+        [JsonProperty("headline")]
         public string Name{get;set;}
+        [JsonProperty("body")]
         public string Description{get;set;}
 
     }
