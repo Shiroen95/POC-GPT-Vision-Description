@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using Demo.DataObject;
 using Demo.DTO;
 using Services;
-using Unity.Tutorials.Core.Editor;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -81,7 +79,7 @@ namespace Demo.ScreenController{
             fillTaskScreen();
         }
         public void saveData(){
-            if(_taskScreenObjectData.headlineIf.text.IsNotNullOrEmpty()){
+            if(_taskScreenObjectData.headlineIf.text !=""){
                 currentTask.Name = _taskScreenObjectData.headlineIf.text;
                 currentTask.Description = _taskScreenObjectData.descriptionIf.text;
 
@@ -131,11 +129,17 @@ namespace Demo.ScreenController{
                     break;
 
             }
-        }
-    
+        } 
         public void selectPicture(){
             DemoDataScript.Instance.currImage = PictureService.PickImage(524);
-             _pictureObjectData.image.rectTransform.sizeDelta = 
+            setPicture();
+        }
+        public void takePicture(){
+            DemoDataScript.Instance.currImage = PictureService.TakePicture(524);
+            setPicture();
+        }
+        private void setPicture(){
+            _pictureObjectData.image.rectTransform.sizeDelta = 
                 new Vector2(DemoDataScript.Instance.currImage.width, DemoDataScript.Instance.currImage.height);
             _pictureObjectData.image.sprite = Sprite.Create(
                 DemoDataScript.Instance.currImage,

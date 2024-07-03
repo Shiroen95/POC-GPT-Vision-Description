@@ -1,4 +1,4 @@
-Library: L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
+Library: C:\Repos\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --platform=Android
 --backend=burst-llvm-16
 --target=ARMV8A_AARCH64
@@ -12,6 +12,7 @@ Library: L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs
 --assembly-defines=Assembly-CSharp;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
+--assembly-defines=NativeCamera.Runtime;
 --assembly-defines=NativeFilePicker.Runtime;
 --assembly-defines=NativeGallery.Runtime;
 --assembly-defines=Newtonsoft.Json;
@@ -46,11 +47,10 @@ Library: L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs
 --assembly-defines=Unity.XR.Management;
 --assembly-defines=UnityEngine;
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\Burst
---debug=LineOnly
---key-folder=L:/Unity/2022.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer
---decode-folder=L:\Uni\BA\POC\POC-GPT-Vision-Description\Library\Burst
---output=L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
+--temp-folder=C:\Repos\POC-GPT-Vision-Description\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.21f1-x86_64/Editor/Data/PlaybackEngines/AndroidPlayer
+--decode-folder=C:\Repos\POC-GPT-Vision-Description\Library\Burst
+--output=C:\Repos\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobForExtensions+ForJobStruct`1[[UnityEngine.Rendering.Universal.ZBinningJob, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.Rendering.Universal.ZBinningJob&, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--77fc393cb521ac129b1392d4eb94d29a
@@ -66,6 +66,7 @@ Library: L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs
 --assembly-defines=Assembly-CSharp;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
+--assembly-defines=NativeCamera.Runtime;
 --assembly-defines=NativeFilePicker.Runtime;
 --assembly-defines=NativeGallery.Runtime;
 --assembly-defines=Newtonsoft.Json;
@@ -100,11 +101,10 @@ Library: L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs
 --assembly-defines=Unity.XR.Management;
 --assembly-defines=UnityEngine;
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\Burst
---debug=LineOnly
---key-folder=L:/Unity/2022.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer
---decode-folder=L:\Uni\BA\POC\POC-GPT-Vision-Description\Library\Burst
---output=L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
+--temp-folder=C:\Repos\POC-GPT-Vision-Description\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.21f1-x86_64/Editor/Data/PlaybackEngines/AndroidPlayer
+--decode-folder=C:\Repos\POC-GPT-Vision-Description\Library\Burst
+--output=C:\Repos\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=UnityEngine.XR.Interaction.Toolkit.Utilities.BurstMathUtility, Unity.XR.Interaction.Toolkit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProjectOnPlane(Unity.Mathematics.float3&, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Mathematics.float3&, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Mathematics.float3&, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null)--1819bc9925667b008fd6c3e6019ccf71
