@@ -1143,7 +1143,7 @@ MonoBehaviour:
       - m_Target: {fileID: 673952786}
         m_TargetAssemblyTypeName: Demo.ScreenController.ModifyTaskSceneController,
           Assembly-CSharp
-        m_MethodName: takePicture
+        m_MethodName: selectPicture
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
