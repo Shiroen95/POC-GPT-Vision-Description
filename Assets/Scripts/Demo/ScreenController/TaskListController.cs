@@ -24,8 +24,8 @@ public class TaskListController : MonoBehaviour
         DemoDataScript.Instance.onAddedNewTask -= addTaskToTasklist;
         DemoDataScript.Instance.onFinishTask -= removeFromTasklist;
     }
-    void Start(){
-        DemoDataScript.Instance.checkForInternalData();
+    async void Start(){
+        await DemoDataScript.Instance.checkForInternalData();
     }
 
     private void addTaskToTasklist((int,CleaningTask) taskValue){
