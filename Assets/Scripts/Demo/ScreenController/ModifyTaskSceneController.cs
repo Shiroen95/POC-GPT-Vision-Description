@@ -69,6 +69,7 @@ namespace Demo.ScreenController{
             switch (DemoDataScript.Instance.currModifyMode){
                 case ModifyMode.edit:
                     currentTask = DemoDataScript.Instance.currCleaningTask;
+                    _taskScreenObjectData.finishBtn.SetActive(true);
                     _taskScreen.SetActive(true);
                     break;
                 case ModifyMode.create:
@@ -213,6 +214,12 @@ namespace Demo.ScreenController{
             }
             tagController.onSelect();
             DemoDataScript.Instance.annotationList.annotation = string.Join(",",selectedTags);
+        }
+        public void finishTask(){
+            DemoDataScript.Instance.finishCurrentCleaningTask();
+            DemoDataScript.Instance.currModifyMode = ModifyMode.none;
+            SceneManager.UnloadSceneAsync("Scenes/Demo/ModifyTaskScene");
+
         }
     }
 }
