@@ -80,13 +80,18 @@ namespace Demo{
         private string taskTextContent = "";
 
         private string autoTagsTextContent =    @"The picture shows a cleaning task that has to be done. There is one primary cleaning task with its corresponding object. Only use at max two most relevant object. The primary cleaning task can have sub tasks.
-                                            The object dominates the picture. Classify the object and the task and write annotaions for it. Only use at max most relevant object.
-                                            Try to use only use one word annotations. Return the annotaions in the following json format:
-                                            {""annotation"": ,}
-                                            Don't use a json list. Delimit the annotaions with a comma.
-                                            Return only the pure json, without any commenting syntax.";
+                                                The object dominates the picture. Classify the object and the task and write annotaions for it. Only use at max most relevant object.
+                                                Try to use only use one word annotations. Return the annotaions in the following json format:
+                                                {""annotation"": ,}
+                                                Don't use a json list. Delimit the annotaions with a comma.
+                                                Return only the pure json, without any commenting syntax.";
 
-        private string userTagsTextContent ="";
+        private string userTagsTextContent =    @"The picture shows a cleaning task that has to be done. There is one primary cleaning task with its corresponding object. The primary cleaning task can have sub tasks.
+                                                Classify possible objects and the task and write annotaions for it.
+                                                Try to use only use one word annotations. Return the annotaions in the following json format:
+                                                {""annotation"": ,}
+                                                Don't use a json list. Delimit the annotaions with a comma.
+                                                Return only the pure json, without any commenting syntax.";
         private DemoDataScript(){
             var loadedData = checkForInternalData();
             if(loadedData != null)
