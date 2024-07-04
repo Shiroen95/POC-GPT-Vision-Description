@@ -11,7 +11,7 @@ namespace Demo.DataObject{
         public CleaningTask task;
 
         [NonSerialized]
-        public int index;
+        public int index = -1;
 
         public void OnEnable(){
             dataText.text = task.Name;

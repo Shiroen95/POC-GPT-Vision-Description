@@ -76,6 +76,8 @@ namespace Demo{
         }
         public delegate void OnAddedNewTask((int,CleaningTask) taskValue);
         public event OnAddedNewTask onAddedNewTask;
+        public delegate void OnFinishTask(int index);
+        public event OnFinishTask onFinishTask;
 
         private string taskTextContent = "";
 
@@ -121,6 +123,11 @@ namespace Demo{
             index++;
             onAddedNewTask?.Invoke(returnValue);
             return returnValue;
+        }
+        public void finishCurrentCleaningTask(){
+            taskList.Remove(_currCleaningTaskIndex);
+            onFinishTask?.Invoke(_currCleaningTaskIndex);
+            _currCleaningTaskIndex=-1;
         }
 
         public (int,CleaningTask) modifyCleaningTask(CleaningTask cleaningTask, int index){

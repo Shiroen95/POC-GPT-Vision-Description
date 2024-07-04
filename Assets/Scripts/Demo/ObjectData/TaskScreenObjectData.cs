@@ -8,5 +8,7 @@ namespace Demo.DataObject{
         public TMP_InputField headlineIf;
         [SerializeField]
         public TMP_InputField descriptionIf;
+        [SerializeField]
+        public GameObject finishBtn;
     }
 }

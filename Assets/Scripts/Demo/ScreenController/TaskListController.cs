@@ -1,6 +1,7 @@
 
 using Demo.DataObject;
 using Demo.DTO;
+using Unity.XR.CoreUtils;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -17,9 +18,11 @@ public class TaskListController : MonoBehaviour
 
     void OnEnable(){
         DemoDataScript.Instance.onAddedNewTask += addTaskToTasklist;
+        DemoDataScript.Instance.onFinishTask += removeFromTasklist;
     }
     void OnDisable(){
         DemoDataScript.Instance.onAddedNewTask -= addTaskToTasklist;
+        DemoDataScript.Instance.onFinishTask -= removeFromTasklist;
     }
 
     // Start is called before the first frame update
@@ -33,6 +36,15 @@ public class TaskListController : MonoBehaviour
         newTask.GetComponentInChildren<TaskObjectData>().task = taskValue.Item2;
         newTask.GetComponentInChildren<TaskObjectData>().index = taskValue.Item1;
         newTask.SetActive(true);
+    }
+
+    private void removeFromTasklist(int index){
+        foreach(Transform child in scrollViewContent.transform){
+            if(child.GetComponentInChildren<TaskObjectData>().index == index){
+                Destroy(child.gameObject);
+                return;
+            }
+        }
     }
 
 
