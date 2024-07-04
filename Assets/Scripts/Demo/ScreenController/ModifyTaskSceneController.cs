@@ -162,7 +162,6 @@ namespace Demo.ScreenController{
             _userInputObjectData.tagList.SetActive(true);
            }  
         }
-
         private void generateTagList(){
             var annotationStringList = DemoDataScript.Instance.annotationList.annotation.Split(",");
             foreach(var annotation in annotationStringList){
@@ -172,9 +171,8 @@ namespace Demo.ScreenController{
                 tag.SetActive(true);
                 }
             }
-            DemoDataScript.Instance.annotationList.annotation="";
+            DemoDataScript.Instance.annotationList.annotation = "";
         }
-
         public void selectPicture(){
             PictureService.PickImage(524, setPicture);
         }
@@ -214,7 +212,7 @@ namespace Demo.ScreenController{
                 selectedTags.Remove(tagController.tagText.text);
             }
             tagController.onSelect();
-            selectedTags.ForEach(x => Debug.Log(x));
+            DemoDataScript.Instance.annotationList.annotation = string.Join(",",selectedTags);
         }
     }
 }
