@@ -70,6 +70,7 @@ namespace Demo.ScreenController{
                 case ModifyMode.edit:
                     currentTask = DemoDataScript.Instance.currCleaningTask;
                     _taskScreenObjectData.finishBtn.SetActive(true);
+                    _taskScreenObjectData.backBtn.SetActive(false);
                     _taskScreen.SetActive(true);
                     break;
                 case ModifyMode.create:
@@ -164,6 +165,7 @@ namespace Demo.ScreenController{
            }  
         }
         private void generateTagList(){
+            resetTagList();
             var annotationStringList = DemoDataScript.Instance.annotationList.annotation.Split(",");
             foreach(var annotation in annotationStringList){
                 if(annotation != ""){
@@ -173,6 +175,14 @@ namespace Demo.ScreenController{
                 }
             }
             DemoDataScript.Instance.annotationList.annotation = "";
+        }
+        
+        private void resetTagList(){
+            foreach(Transform child in _userInputObjectData.tagTemplate.transform.parent){
+                if(child != _userInputObjectData.tagTemplate.transform){
+                    Destroy(child.gameObject);
+                }
+            }
         }
         public void selectPicture(){
             PictureService.PickImage(524, setPicture);
@@ -195,6 +205,7 @@ namespace Demo.ScreenController{
             switch(requestMode){
                 case RequestMode.userTags:
                 case RequestMode.autoTags:
+                    
                     DemoDataScript.Instance.annotationList 
                         = JsonConvert.DeserializeObject<AnnotationList>(jsonContent);
                     break;
@@ -223,6 +234,10 @@ namespace Demo.ScreenController{
         }
    
         public void returnToLastUserStep(){
+            if(!_selectionScreen.activeSelf && currentStep == 0){
+                openScreen(Screen.selection);
+                return;
+            }
             try{
                 var lastStep = interactionRoutes[DemoDataScript.Instance.currentInteractionMode][currentStep-1];
                 currentStep--;
