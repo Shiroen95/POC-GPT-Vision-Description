@@ -48,7 +48,6 @@ Library: L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs
 --assembly-defines=UnityEngine;
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\Burst
---debug=LineOnly
 --key-folder=L:/Unity/2022.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=L:\Uni\BA\POC\POC-GPT-Vision-Description\Library\Burst
 --output=L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burst_generated
@@ -103,7 +102,6 @@ Library: L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs
 --assembly-defines=UnityEngine;
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\Burst
---debug=LineOnly
 --key-folder=L:/Unity/2022.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=L:\Uni\BA\POC\POC-GPT-Vision-Description\Library\Burst
 --output=L:\Uni\BA\POC\POC-GPT-Vision-Description\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burst_generated
