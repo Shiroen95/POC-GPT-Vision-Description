@@ -30,8 +30,8 @@ public class TaskListController : MonoBehaviour
 
     private void addTaskToTasklist((int,CleaningTask) taskValue){
         var newTask = Instantiate(taskObject,scrollViewContent.transform);
-        newTask.GetComponent<TaskObjectData>().task = taskValue.Item2;
-        newTask.GetComponent<TaskObjectData>().index = taskValue.Item1;
+        newTask.GetComponentInChildren<TaskObjectData>().task = taskValue.Item2;
+        newTask.GetComponentInChildren<TaskObjectData>().index = taskValue.Item1;
         newTask.SetActive(true);
     }
 
