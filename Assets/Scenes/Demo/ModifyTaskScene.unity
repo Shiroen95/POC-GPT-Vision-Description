@@ -7700,6 +7700,7 @@ MonoBehaviour:
   headlineIf: {fileID: 1206031441}
   descriptionIf: {fileID: 1776558011}
   finishBtn: {fileID: 1879505359}
+  backBtn: {fileID: 736853713}
 --- !u!1 &2047556142
 GameObject:
   m_ObjectHideFlags: 0
