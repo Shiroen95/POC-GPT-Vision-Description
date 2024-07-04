@@ -221,5 +221,26 @@ namespace Demo.ScreenController{
             SceneManager.UnloadSceneAsync("Scenes/Demo/ModifyTaskScene");
 
         }
+   
+        public void returnToLastUserStep(){
+            try{
+                var lastStep = interactionRoutes[DemoDataScript.Instance.currentInteractionMode][currentStep-1];
+                currentStep--;
+                if(lastStep == Screen.sendRequest){
+                    _sendingController.resetStep();
+                    returnToLastUserStep();
+                    return;
+                }
+                else{
+                openScreen(lastStep);
+                }
+                
+            }
+            catch(IndexOutOfRangeException){
+                DemoDataScript.Instance.currModifyMode = ModifyMode.none;
+                SceneManager.UnloadSceneAsync("Scenes/Demo/ModifyTaskScene");
+                currentStep --;
+            }
+        }
     }
 }

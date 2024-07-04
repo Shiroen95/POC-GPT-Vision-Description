@@ -30,6 +30,10 @@ public class SendingController : MonoBehaviour
         return await sendRequestAsync();  
     }
 
+    public void resetStep(){
+        currStep--;
+    }
+
     private async Task<string> sendRequestAsync(){ 
             var response = await RESTClient.instance.returnGPT4PostRequest(
                 Convert.ToBase64String(
