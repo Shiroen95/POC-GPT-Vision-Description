@@ -24,11 +24,8 @@ public class TaskListController : MonoBehaviour
         DemoDataScript.Instance.onAddedNewTask -= addTaskToTasklist;
         DemoDataScript.Instance.onFinishTask -= removeFromTasklist;
     }
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+    void Start(){
+        DemoDataScript.Instance.checkForInternalData();
     }
 
     private void addTaskToTasklist((int,CleaningTask) taskValue){

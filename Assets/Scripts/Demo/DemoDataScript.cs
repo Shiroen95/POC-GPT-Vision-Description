@@ -1,8 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using Demo.DTO;
 using Networking.DTO;
+using Newtonsoft.Json;
 using UnityEngine;
 
 namespace Demo{
@@ -95,23 +97,24 @@ namespace Demo{
                                                 Don't use a json list. Delimit the annotaions with a comma.
                                                 Return only the pure json, without any commenting syntax.";
         private DemoDataScript(){
-            var loadedData = checkForInternalData();
-            if(loadedData != null)
-            {
-                taskList = loadedData;
-                index = loadedData.Count;
-            }
-            else
-                createNewDataList();
+            createNewDataList();
         }
 
         private void createNewDataList(){
             taskList = new Dictionary<int,CleaningTask>();
             index = 0;
         }
-
-        private Dictionary<int,CleaningTask> checkForInternalData(){
-            return null;
+        private void createFromSave(Dictionary<int,CleaningTask> taskList){
+            this.taskList = taskList;
+            foreach (var item in taskList)
+            {
+                onAddedNewTask?.Invoke((item.Key,item.Value));
+            }
+            index = taskList.Count;
+        }
+        public async Task checkForInternalData(){
+            var data = await SaveFileController.LoadSaveFromDevice();
+            createFromSave(data);
         }
         public void setCurrentCleaningTask(int index){
             if(taskList.ContainsKey(index))
@@ -122,11 +125,13 @@ namespace Demo{
             var returnValue = (index, cleaningTask);
             index++;
             onAddedNewTask?.Invoke(returnValue);
+            SaveFileController.SaveFileToDevice(taskList);
             return returnValue;
         }
         public void finishCurrentCleaningTask(){
             taskList.Remove(_currCleaningTaskIndex);
             onFinishTask?.Invoke(_currCleaningTaskIndex);
+            SaveFileController.SaveFileToDevice(taskList);
             _currCleaningTaskIndex=-1;
         }
 
