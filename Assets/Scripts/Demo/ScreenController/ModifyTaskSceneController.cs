@@ -29,7 +29,7 @@ namespace Demo.ScreenController{
                 InteractionMode.semi1Method, new [] {Screen.picture,Screen.userInput,Screen.sendRequest,Screen.taskScreen}
             },
             {
-                InteractionMode.semi2Method, new [] {Screen.picture,Screen.userInput,Screen.sendRequest,Screen.taskScreen}   
+                InteractionMode.semi2Method, new [] {Screen.picture,Screen.sendRequest,Screen.userInput,Screen.sendRequest,Screen.taskScreen}   
             },
             {
                 InteractionMode.fullAutoMethod, new [] {Screen.picture,Screen.sendRequest,Screen.sendRequest,Screen.taskScreen}
