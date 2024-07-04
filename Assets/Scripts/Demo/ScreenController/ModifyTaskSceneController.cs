@@ -55,8 +55,8 @@ namespace Demo.ScreenController{
         private UserInputObjectData _userInputObjectData;
         [SerializeField]
         private SendingController _sendingController;
-
         private CleaningTask currentTask = null;
+        private List<string> selectedTags = new List<string>();
         void Start()
         {
             DemoDataScript.Instance.currentInteractionMode = InteractionMode.baseMethod;
@@ -166,10 +166,13 @@ namespace Demo.ScreenController{
         private void generateTagList(){
             var annotationStringList = DemoDataScript.Instance.annotationList.annotation.Split(",");
             foreach(var annotation in annotationStringList){
+                if(annotation != ""){
                 var tag = Instantiate(_userInputObjectData.tagTemplate, _userInputObjectData.tagTemplate.transform.parent);
                 tag.GetComponentInChildren<TMP_Text>().text = annotation;
                 tag.SetActive(true);
+                }
             }
+            DemoDataScript.Instance.annotationList.annotation="";
         }
 
         public void selectPicture(){
@@ -200,6 +203,18 @@ namespace Demo.ScreenController{
                     currentTask = JsonConvert.DeserializeObject<CleaningTask>(jsonContent);
                     break;
             }
+        }
+        public void onTagClicked(GameObject tag){
+            var tagController = tag.GetComponent<TagController>();
+            if(!tagController.selected)
+            {
+                selectedTags.Add(tagController.tagText.text);
+            }
+            else{
+                selectedTags.Remove(tagController.tagText.text);
+            }
+            tagController.onSelect();
+            selectedTags.ForEach(x => Debug.Log(x));
         }
     }
 }
