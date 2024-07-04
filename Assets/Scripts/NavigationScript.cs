@@ -13,6 +13,11 @@ public enum SceneType{
 public class NavigationScript : MonoBehaviour
 {
 
+    [SerializeField]
+    private GameObject UIPanel;
+    [SerializeField]
+    private GameObject BasePanel;
+
     private int _currScene;
     // Start is called before the first frame update
     void Start()
@@ -20,9 +25,13 @@ public class NavigationScript : MonoBehaviour
         if(Debug.isDebugBuild) {
             SceneManager.LoadSceneAsync("Scenes/PictureScene",LoadSceneMode.Additive);
            _currScene = (int)SceneType.Camera;
+           UIPanel.SetActive(true);
+           BasePanel.SetActive(false);
         }
         else{
             SceneManager.LoadSceneAsync("Scenes/Demo/TaskListScreen",LoadSceneMode.Additive);
+            UIPanel.SetActive(false);
+            BasePanel.SetActive(true);
         }
     }
 
