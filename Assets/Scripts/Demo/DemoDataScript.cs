@@ -114,7 +114,8 @@ namespace Demo{
         }
         public async Task checkForInternalData(){
             var data = await SaveFileController.LoadSaveFromDevice();
-            createFromSave(data);
+            if(data != null)
+                createFromSave(data);
         }
         public void setCurrentCleaningTask(int index){
             if(taskList.ContainsKey(index))

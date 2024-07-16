@@ -26,8 +26,11 @@ namespace Demo{
             }
 
             public static async Task<Dictionary<int,CleaningTask>> LoadSaveFromDevice()
-            {       var jsonData = "";
-                    using (StreamReader r = new StreamReader(savePath+"/taskList.json"))
+            {       
+                    if(!Directory.Exists(savePath))
+                        return null;
+                    var jsonData = "";
+                    using (StreamReader r = new StreamReader(File.Open(savePath+"/taskList.json", FileMode.OpenOrCreate)))
                     {
                         jsonData = await r.ReadToEndAsync();
                     }
