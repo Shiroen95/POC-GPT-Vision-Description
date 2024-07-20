@@ -80,7 +80,6 @@ namespace Services{
             });
             return;
     #else
-            Texture2D texture = null;
             NativeCamera.Permission permission = NativeCamera.TakePicture( ( path ) =>
             {
                 Debug.Log( "Image path: " + path );
