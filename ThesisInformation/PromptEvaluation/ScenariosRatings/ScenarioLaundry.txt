@@ -1,0 +1,7 @@
+[I]		Headline: Must contain doing laundry/filling washing maschine 
+[II]	Main Objectiv do laundry/fill washing maschine
+[III]	Sort laundry.
+[IV]	Load and unload laundry. 
+[V]		Select and start the desired wash cycle.
+[VI]	Hang up laundry or put in the dumble dryer.
+[VII]	Put laundry back.
