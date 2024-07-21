@@ -1,0 +1,1460 @@
+Rating: 1;1;1;1;1 Extras:Mirror Cleaning; Counter and Shelf Wiping; Trash disposal
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-26-30.506268
+{
+"headline": "Bathroom Sink and Surrounding Area Cleaning",
+"body": "
+To ensure a clean and hygienic bathroom space, commence by clearing out any personal items from the sink's surface 
+and surrounding shelves. This allows for thorough cleaning access. Once the area is decluttered, 
+proceed with the following sub-tasks:
+
+1. Sink Cleaning: Apply a bathroom cleaner to the basin of the sink, targeting any visible residue or grime. 
+With a non-abrasive sponge, scrub the sink in circular motions, focusing on the drain and any stains. 
+Rinse thoroughly with water and wipe dry with a clean microfiber cloth to prevent water spots.
+
+2. Faucet and Fixtures: Using the same bathroom cleaner, spray faucets and handles. 
+Let it sit for a brief moment before scrubbing with a soft brush or sponge to address any buildup. 
+Rinse or wipe clean and dry with a cloth to restore shine.
+
+3. Counter and Shelf Wiping: Using a suitable surface cleaner, spray the counter, 
+including the top and inner area of any cabinets or drawers. Wipe down with a sponge or cloth,
+ ensuring to reach into corners and edges where dust and debris can accumulate. 
+ Carefully approach items affixed to the wall, such as soap dispensers or toothbrush holders, to avoid dislodging them.
+
+4. Mirror Cleaning: Spray a streak-free glass cleaner onto the mirror, 
+ensuring to cover the entire surface evenly. Using a clean, lint-free cloth or paper towel, 
+wipe the mirror using a 'Z' pattern motion to eliminate smudges and streaks.
+
+5. Trash Removal: Ensure the trash bin is emptied and replace the liner if necessary. 
+Wipe the exterior of the bin if there are any spots or splashes.
+
+After completing each sub-task, return any items previously removed to their rightful place, 
+organizing them neatly to maintain a tidy appearance. Always rinse cleaning tools and allow them to dry before storage.
+ Final inspection of the area is recommended to ensure no spots were missed and the bathroom is left in an immaculate condition."
+}
+----------------------------------------
+Rating: 1;1;1;1;1 Extras:Mirror Cleaning; 
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-28-55.848041
+{ 
+  "headline": "Bathroom Sink Cleaning",
+  "body": "The primary goal is to thoroughly clean and organize the bathroom sink area. 
+  Begin by removing all items from the countertop, including toiletries and bottles. 
+  Use a bathroom cleaner to spray the sink, countertops, and faucet, and leave the cleaner to sit for a few minutes 
+  to break down grime and soap scum. Meanwhile, wipe down each item you removed with a damp cloth. 
+  Scrub the sink, faucet, and countertops with a non-abrasive sponge, paying extra attention to any stains or residues.
+   Rinse with water and dry with a clean cloth to prevent water spots. Return the items neatly to the countertop,
+    discarding any empty or unnecessary containers. Lastly, clean the mirror using a glass cleaner and a lint-free cloth 
+    to remove any splatters and to ensure a streak-free finish."
+}
+----------------------------------------
+Rating: 1;1;1;1;1 Extras:Mirror Cleaning; 
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-29-00.647973
+{"headline":"Bathroom Sink and Surrounding Area Cleaning",
+"body":"The primary goal is to clean and organize the bathroom sink and its surrounding area. 
+First, clear the countertop by removing all items such as toothbrushes, toiletries, and containers. Subsequently, 
+use a bathroom cleaner or a mixture of baking soda and vinegar to scrub the sink including the faucet 
+to remove any grime or soap scum. Rinse thoroughly with water and dry with a clean cloth. Next,
+ wipe the mirror with a glass cleaner to eliminate any spots or stains. Finally, reorganize the removed items, 
+ discarding any empty or unnecessary containers, and place the remaining items back neatly on the countertop or 
+ in the storage drawers."}
+----------------------------------------
+Rating: 1;1;1;1;1 Extras:Mirror Cleaning;Gloves;ventilation
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-29-11.030563
+{"headline":"Bathroom Sink Cleaning", 
+"body":"Begin by clearing any personal items from the sink area, such as toiletries and cosmetics. 
+Next, don gloves to protect your hands and apply an appropriate bathroom cleaner to the surface of the sink, 
+faucets, and counter. Allow the cleaner to sit for a few minutes to break down grime and soap scum. 
+Using a non-abrasive sponge or cloth, scrub the sink, paying special attention to the drain and faucet areas where 
+build-up is common. Rinse thoroughly with water and dry with a clean towel to prevent water spots.
+ For the mirror, use a glass cleaner and wipe with a microfiber cloth for a streak-free finish. 
+ Lastly, organize the items neatly when returning them to their place. 
+ Ensure the space is well-ventilated throughout the cleaning process."}
+----------------------------------------
+Rating: 1;1;1;1;1 Extras:Mirror Cleaning; Cabinet cleaning; Trash disposal; Towel replacement
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-29-22.058473
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "To ensure a hygienic and clean bathroom sink area, begin by removing all personal items and toiletries 
+from the sink countertop. Next, use a bathroom cleaner or a vinegar and water solution to spray down the sink, faucet,
+ and countertop. Use a non-abrasive sponge to scrub these areas thoroughly, paying special attention to any soap buildup 
+ or water spots. Rinse all surfaces with water and dry with a clean towel. For the mirror, use a glass cleaner and a 
+ lint-free cloth to wipe away any spots or stains. To finish, clean the cabinet fronts with an appropriate cleaner and a 
+ soft cloth. If necessary, organize the items removed and place them back neatly on the countertop. 
+ Dispose of any trash and replace hand towels with clean ones. Ensure the area is left tidy and dry."
+}
+----------------------------------------
+Rating: 1;1;1;1;1 Extras:Mirror Cleaning;
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-29-30.863195
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The main task is to ensure the bathroom sink area is cleaned thoroughly. 
+Start by removing all items from the sink, including any toiletries or containers. 
+Begin with rinsing the sink to remove loose debris. Apply a non-abrasive bathroom cleaner to the sink's
+ surface and use a sponge or soft cloth to scrub the sink, focusing on any spots with buildup.
+  Clean the faucet and handles with the appropriate cleaner, ensuring to buff away fingerprints and water spots.
+   Rinse the sink and fixtures thoroughly with water and dry with a clean towel. 
+   Lastly, clean the mirror above the sink using glass cleaner for a streak-free finish.
+    Return all items to their original place, organizing them neatly to complete the task."
+}
+----------------------------------------
+Rating: 1;1;1;1;1 Extras:;
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-29-42.002766
+{"headline":"Bathroom Sink Cleaning","body":"The primary goal is to thoroughly clean the bathroom sink and its surrounding area. 
+Ensure removal of any dirt, soap scum, or stains for a sparkling finish. 
+Sub-tasks include: 1. Clear off any items from the sink surface and surrounding shelves. 
+2. Apply a non-abrasive bathroom cleaner to the sink, taps, and countertops. 
+Allow it to sit for a few minutes to break down grime. 
+3. Using a sponge or cloth, scrub the surfaces in a circular motion, paying close attention to taps 
+and drains where grime accumulates. 
+4. Rinse all areas with warm water until the cleaner is completely washed away.
+ 5. Dry surfaces with a clean towel to prevent water spots. 
+ 6. Replace items neatly after cleaning the containers they were in if needed. 
+ Ensure that the cleaning process does not damage any items or surfaces, and verify that all areas are left dry and tidy."}
+----------------------------------------
+Rating: 1;1;1;1;1 Extras:Mirror Cleaning; tidy cleaning products;
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-29-51.317788
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The primary goal is to thoroughly clean and sanitize the bathroom sink. 
+Begin by removing any items from around the sink to ensure full access to all surfaces. 
+Use a bathroom cleaner or a vinegar and water solution to spray down the sink, tap, and counter area. 
+With a non-abrasive sponge, scrub the surfaces, focusing on any stains or soap scum. 
+Rinse with water and dry with a clean cloth. Pay special attention to the tap, polishing it to remove water spots. 
+For the sub-task, organize the removed items, discarding any empty or unnecessary containers, 
+and wipe them down before returning them to their places. Ensure hazardous materials, such as cleaning chemicals, 
+are stored safely out of reach if necessary. Lastly, clean the mirror with a glass cleaner for a streak-free finish."
+}
+----------------------------------------
+Rating: 1;1;1;1;1 Extras:cabinet cleaning;
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-30-02.421159
+{
+  "headline": "Bathroom Sink and Vanity Cleaning",
+  "body": "The main task involves thoroughly cleaning the bathroom sink and vanity area. 
+  First, clear off any personal items and toiletries from the sink and vanity surface. 
+  Wipe down all items with a disinfectant wipe before placing them aside. 
+  Next, using a bathroom cleaner, spray the sink, faucet, and countertop, and allow the cleaner to sit for the prescribed 
+  amount of time. Scrub the sink with a non-scratch sponge, focusing on any stains or buildup near the drain. 
+  Clean the faucet with an appropriate cleaner to remove water spots and buildup; 
+  an old toothbrush can be useful for hard-to-reach places. Rinse the sink and faucet with water, 
+  and dry with a microfiber cloth to prevent water spots. Proceed to wipe down the vanity surface, 
+  including the cabinet doors and handles, with an all-purpose cleaner. Following the cleaning, 
+  replace the items in an organized manner, ensuring that the space remains decluttered. 
+  Finally, dispose of any trash or debris that was collected during the cleaning process."
+}
+----------------------------------------
+Rating: 1;1;1;1;1 Extras:Mirror Cleaning; Weekly Cleaning;
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-30-11.200994
+{ 
+"headline": "Bathroom Sink Cleaning", 
+"body": "Begin by clearing any items away from the sink area, including personal care products. 
+Next, wet the entire sink with warm water and apply a non-abrasive cleaner. 
+Using a soft sponge or cloth, scrub the sink basin, faucet, and handles. 
+Don't forget to clean the drain by removing any visible debris and using a brush if necessary. 
+After scrubbing, rinse thoroughly with water. For the mirror, spray glass cleaner and wipe down with a paper towel or
+ microfiber cloth for a streak-free finish. Lastly, organize personal care products back neatly onto the shelf or in 
+ the storage area. Repeat the cleaning process weekly to maintain a hygienic and sparkling bathroom." 
+}
+----------------------------------------
+Rating: 1;1;1;1;1 Extras:Mirror Cleaning;
+Number 11 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-30-24.989330
+{"headline":"Bathroom Sink Cleaning","body":"
+1. Clear the Sink Area: Remove all personal items, containers, 
+and bottles from the sink top and surrounding area to provide unobstructed access to all surfaces.
+
+2. Scrub the Sink: Apply a non-abrasive bathroom cleaner or a mixture of baking soda and water 
+to the entire surface of the sink. Use a soft sponge or a cloth to scrub the basin, the faucet, and the handles.
+ Pay close attention to the drain and the area around it where residue tends to accumulate.
+
+3. Rinse and Dry: Thoroughly rinse the sink with water to remove all the cleaning product and any loosened grime. 
+Use a clean, dry microfiber towel or a squeegee to dry all surfaces, preventing water spots and streaks.
+
+4. Clean the Mirror: Spray glass cleaner on the mirror and wipe it down with a microfiber cloth in a circular motion 
+to remove any water spots or fingerprints without leaving streaks.
+
+5. Organize and Replace Items: Wipe down all personal items with a damp cloth before placing them back around the sink area. 
+Keep the counter organized to maintain a tidy appearance and to make subsequent cleaning easier.
+
+6. Final Touches: Take a step back and inspect the area for any missed spots or items that need reorganizing. 
+Ensure the sink and its surroundings are spotless and orderly."}
+----------------------------------------
+Rating: 1;1;1;1;1 Extras:Mirror Cleaning;towel replacement; Shelf cleaning;
+Number 12 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-30-38.512648
+{"headline":"Bathroom Sink Cleaning","body":
+"To ensure a clean and hygienic bathroom, follow these steps to clean the sink area:
+ 1. 
+Clear the Sink Area: Remove all personal items, bottles, and containers from around the sink to 
+ensure you have clear access for cleaning.
+ 2. Apply Cleaner: Use a bathroom cleaner suitable for sinks, 
+spraying it thoroughly on the sink surfaces including the faucet. Allow it to sit for a few minutes to break down 
+soap scum and grime.
+ 3. Scrub the Sink: With a non-abrasive sponge, gently scrub the surface of the sink, paying 
+special attention to areas with buildup. Use an old toothbrush to clean around the faucet and any hard-to-reach areas.
+ 4. 
+Rinse Thoroughly: After scrubbing, rinse the sink with water to wash away the cleaner and any loose debris.
+ Ensure that you rinse all areas, leaving no cleaner residue behind.
+ 5. 
+ Dry and Shine: Use a clean microfiber cloth or paper towel to dry the sink completely, which helps prevent water spots. 
+ For extra shine, you can buff the faucet and surrounding areas with a dry cloth.
+ 6. 
+ Replace Items: Once the sink is dry, replace all the items you removed, organizing them neatly to maintain a tidy appearance.
+ 
+ Remember to clean the mirror, shelf, and surrounding areas if necessary, using glass cleaner for the mirror and 
+ a suitable cleaner for other surfaces. Finally, dispose of any trash or debris and replace the hand towel with a fresh one."}
+----------------------------------------
+Rating: 1;1;1;1;1 Extras:Mirror Cleaning; Polishing;floor sweeping;
+Number 13 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-30-41.706121
+{"headline":"Bathroom Sink Cleaning","body":"The primary goal is to clean and sanitize the bathroom sink area. 
+Begin by removing all items from the sink and surrounding counter. Use an all-purpose cleaner or a vinegar-water solution to 
+spray down the sink, faucet, and countertop. Scrub the sink with a non-abrasive sponge, paying extra attention to any soap scum 
+or water spots. Rinse thoroughly with water. Use a disinfecting wipe or spray to sanitize the faucet handles and any other 
+high-touch areas. Dry with a clean microfiber cloth to prevent water spots. Replace the items neatly on the counter, 
+discarding any empty containers or unnecessary clutter. For sub-tasks: Clean the mirror with glass cleaner and a lint-free cloth, 
+polish the faucet and fixtures with a suitable metal cleaner to restore shine, and sweep or mop the floor if needed."}
+----------------------------------------
+Rating: 1;1;1;1;1 Extras:Mirror Cleaning; Shelve cleaning;
+Number 14 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-30-55.326868
+{"headline":"Bathroom Sink Cleanliness Maintenance","body":"
+The primary goal is to ensure that the bathroom sink area is thoroughly cleaned and organized. 
+This involves several sub-tasks:
+ 
+1. Clearing the Countertop: Remove all personal items, containers, 
+and toiletries from the top of the sink and surrounding areas to get ready for cleaning.
+ 
+2.Scrubbing the Sink: Use a bathroom cleaner or a vinegar and baking soda mixture to scrub the sink basin. 
+Focus on any stains or soap scum, and rinse thoroughly with water afterward.
+ 
+3.Cleaning the Faucet: Wipe down the faucet with a cleaner suitable for its material (chrome, stainless steel, etc.) and use an
+ old toothbrush or a specialized brush to remove buildup around the edges and in crevices.
+ 
+4. Wiping Down Surfaces: Clean the countertop, handle surfaces, and any shelves or mirrors with a glass cleaner or a
+ multi-surface spray. Dry with a microfiber cloth to avoid streaks.
+ 
+ 5. Organizing Toiletries: Once the surfaces are dry, return the items to the countertop or shelves in an organized manner, 
+ considering daily usability and aesthetics.
+ 
+ 6. Final Inspection: Double-check for any missed spots or leftover residue. Ensure the area looks clean, smells fresh, 
+ and is arranged neatly for a pleasant bathroom experience."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Countertop cleaning.
+Number 15 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-31-04.238689
+{"headline":"Bathroom Sink Cleaning","body":"The main task is to thoroughly clean the bathroom sink and surrounding area.
+ Sub-tasks include:
+ 1. Clearing the Sink Area: Remove all personal items such as toothbrushes, tubes, and bottles from the 
+ sink counter and place them aside.
+ 2. Scrubbing the Sink: Use a bathroom cleaner and a non-abrasive sponge to scrub the sink 
+ basin, focusing on any soap scum or water spots. Rinse thoroughly with water.
+ 3. Cleaning the Faucet: Apply a small amount 
+ of bathroom cleaner on a cloth and polish the faucet, paying attention to remove any buildup around the edges.
+ 4. Wiping Down
+  Counters: After the sink is clean, take a disinfectant wipe or spray, and wipe down the countertop and surrounding tiled areas
+   to remove any residue or dirt.
+ 5. Organizing Personal Items: Once the sink and countertop are dry, organize and replace the
+    personal items neatly, discarding any empty or unnecessary containers.
+ 6. Cleaning the Mirror: Use glass cleaner and 
+    a microfiber cloth to clean the mirror, making sure to leave no streaks for a polished finish.
+ 7. Final Touches: Take
+     a step back and inspect the area. Touch up any spots if necessary, and ensure that everything is in order for a pristine
+      bathroom sink area."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Disinfecting;Ventilation;Gloves.
+Number 16 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-31-18.465799
+{"headline":"Bathroom Sink Cleaning","body":"The primary goal of the task is to ensure that the bathroom sink area is clean,
+ organized, and hygienic. The cleaning process involves multiple sub-tasks which are to be completed in an orderly manner.
+ 
+ 1. Clearing the Sink Area: Begin by removing any objects from around the sink such as toothpaste, soap bottles, shaving 
+ equipment, and any other personal care products. Place these items temporarily on a clean surface while you clean.
+ 
+ 2. Scrubbing the Sink: Using a bathroom cleaner and a non-abrasive sponge or cloth, thoroughly scrub the sink basin. 
+ Pay special attention to the drain opening and the faucet. For hard-to-remove stains or buildup, consider using a specialized
+  cleaning agent or a paste of baking soda and water.
+ 3. Cleaning the Faucet: Apply a small amount of the bathroom cleaner
+   directly onto the faucet and use an old toothbrush or a cleaning brush to scrub around the edges, underside, and handle where
+    grime often accumulates.
+ 4. Wiping Surfaces: After scrubbing, use a damp microfiber cloth to wipe down the surface of the
+     sink, the countertop, and the faucet. Ensure all soap scum and residue is removed. Rinse the cloth frequently to avoid
+      spreading dirt.
+ 5. Drying: Use a dry, clean cloth or paper towel to dry all surfaces to prevent water spots and streaks
+      .
+ 6. Organizing Items: Once the sink area is dry, place the personal care products back around the sink. Organize the
+       items neatly and dispose of any empty containers or unnecessary clutter.
+ 7. Cleaning the Mirror: If applicable, 
+       spray glass cleaner onto the mirror and wipe it down with a clean cloth or paper towels, working from the top to the 
+       bottom in an 'S' pattern to prevent streaking.
+ 8. Disinfecting: As a final step, use disinfecting wipes or spray to 
+       sanitize the handles and other high-touch areas.
+ Ensure that you follow the cleaning product instructions and safety
+        guidelines, wear gloves, and keep the bathroom ventilated during cleaning."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Gloves.
+Number 17 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-31-25.371548
+{"headline":"Bathroom Sink Cleaning","body":"Task: Ensure the bathroom sink is thoroughly cleaned, removing all stains, residues,
+ and clutter. Subtasks: 1. Clear the area: Remove all personal items, such as toothbrushes, soap dispensers, and toiletries from 
+ the sink and surrounding counter space. 2. Apply cleaner: Use a bathroom cleaner suitable for sinks. Spray generously over the
+  entire surface of the sink, including the faucet and handles. Allow it to sit for the time specified by the product instructions
+   to break down soap scum and limescale. 3. Scrub: After the cleaner has set, use a non-scratch sponge or cloth to scrub the sink
+    vigorously, focusing on any stains or buildup around the drain and faucet areas. 4. Rinse: Thoroughly rinse away cleaner and
+     any loosened residue with water until the sink is spotless and free of any soap or cleaner. 5. Dry: Use a clean, dry cloth 
+     to wipe down the sink, faucet, and handles, ensuring they are dry and shiny. 6. Organize: Neatly replace all personal items, 
+     discarding any that are empty or no longer needed. Ensure the counter is clutter-free. How-to: For stubborn stains, consider 
+     using baking soda as a gentle abrasive. Sprinkle around the stained area, let it sit for a few minutes, then scrub and rinse.
+      For maintaining a hygienic environment, disinfect the sink and surrounding area with an appropriate disinfectant. Always 
+      wear gloves to protect your hands when using cleaning products."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Trash disposal;tidy cleaning products.
+Number 18 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-31-31.378526
+{ "headline": "Bathroom Sink Cleaning", "body": "The primary goal is to thoroughly clean and organize the bathroom sink area. 
+Begin by decluttering the countertop, removing all personal items, and categorizing them into those to be discarded and those to
+ keep. Next, wipe down the sink basin, faucet, and countertop with a suitable bathroom cleaner to remove soap scum, toothpaste
+  residue, and water stains. Use a soft brush for harder-to-remove deposits. Afterwards, clean the mirror with glass cleaner for 
+  a streak-free shine. Organize the personal items you've decided to keep by placing them neatly on the shelves or in the vanity 
+  cabinet. Lastly, empty the trash bin, replace the liner, and return all cleaning supplies to their appropriate storage
+   locations." }
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Countertop cleaning;Mirror cleaning.
+Number 19 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-31-41.058524
+{
+"headline":"Bathroom Sink Cleaning",
+"body":"To ensure a clean and hygienic bathroom sink area, follow these steps: Begin by removing all personal items from the 
+sink and countertop. Then, using a disinfectant cleaner, thoroughly scrub the sink basin, faucet, and handles. Next, wipe down 
+the countertop with a suitable cleaning product for the surface type, making sure to get into corners and edges. Clean the mirror 
+with a streak-free glass cleaner for a clear and shining finish. Lastly, organize personal items neatly or store them in the 
+vanity cabinets to maintain tidiness. Remember to regularly rinse and wipe down the sink after use to prevent buildup and prolong
+ the cleanliness of the bathroom sink area."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Countertop cleaning.
+Number 20 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-31-50.611655
+{"headline":"Bathroom Sink Cleaning", "body":"Ensure personal items are removed from the sink area. Clean the basin with a
+ non-abrasive cleaner, using a soft sponge to remove soap scum and water spots. Rinse the basin thoroughly with warm water and dry
+  with a soft cloth. Wipe the faucet and handles with a cleaner suitable for the finish, and polish to prevent water spots.
+   Sanitize the countertop with a disinfectant spray, and use glass cleaner on the mirror to remove any smudges or spots. 
+   Lastly, organize personal items back neatly, ensuring the space remains clutter-free."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 21 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-32-00.753364
+{"headline":"Bathroom Sink Cleaning", "body":"To ensure the bathroom sink area is clean and hygienic, start by removing all 
+personal items from around the sink. Next, apply a bathroom cleaner to the sink basin, faucets, and countertop. Use a sponge or
+ cloth to scrub the surfaces thoroughly, paying extra attention to areas with buildup or stains. Rinse the surfaces with water 
+ and dry with a clean towel. For the mirror, use a glass cleaner and a lint-free cloth to wipe away any spots or smudges. 
+ Reorganize the items neatly around the sink once the surfaces are dry."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;tidy cleaning products.
+Number 22 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-32-12.325524
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The primary goal of this task is to ensure the bathroom sink and its surrounding area are clean and hygienic. Begin by
+ clearing out any personal items from the sink area to prevent them from getting wet or damaged. Use a bathroom cleaner and a
+  non-abrasive sponge to scrub the sink basin, focusing on removing any soap residue, water spots, or buildup. Rinse thoroughly#
+   with water after scrubbing. Wipe the faucet and handles with a suitable cleaner and a microfiber cloth, polishing them to
+    prevent water spots. Next, clean the countertop around the sink, removing any debris or splashes. If there is a mirror above 
+    the sink, spray it with glass cleaner and wipe it down with a squeegee or paper towels for a streak-free finish. Lastly, 
+    organize the personal items neatly on the shelf or counter and dispose of any unnecessary clutter. Ensure that the cleaning 
+    products are stored safely after use."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Cabinet cleaning.
+Number 23 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-32-22.765364
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The main task is to thoroughly clean the bathroom sink area. Start by removing all items from the countertop and sink. 
+With a bathroom cleaner, spray the countertop, sink, and faucet, and let it sit for a few minutes to break down soap scum and 
+grime. Use a non-abrasive sponge to scrub the surfaces, paying extra attention to any soap deposits or toothpaste residue. For
+ the faucet, use an old toothbrush to remove buildup around the edges and in crevices. Rinse all surfaces with water and dry with
+  a microfiber cloth for a streak-free finish. Replace the items neatly, discarding any unnecessary or expired products. 
+  Additionally, ensure to clean the interior of the sink cabinet by removing items, wiping the inside with a damp cloth, and 
+  organizing contents before putting them back. Lastly, clean the mirror using glass cleaner and a clean microfiber cloth to 
+  remove any spots or streaks."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 24 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-32-32.054168
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The main task is to thoroughly clean the bathroom sink area. Begin by removing any personal items from the sink and 
+counter space. Then, using suitable bathroom cleaner, spray and scrub the sink, faucet, and countertop, ensuring to remove any 
+soap residue, water spots, and buildup. Use a non-scratch sponge for surfaces to avoid any damage. Rinse everything with warm
+ water and wipe down with a microfiber cloth for a streak-free finish. As a sub-task, clean the mirror with a glass cleaner to
+  remove any spots or streaks, and finally, reorganize the personal items neatly back on the counter."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Countertop cleaning;tidy cleaning products.
+Number 25 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-32-44.500977
+{"headline":"Bathroom Sink Cleaning","body":"The primary goal is to clean and organize the bathroom sink area, including the sink, countertop, and the immediate surrounding space.1. Clear the countertop: Remove all personal care products, containers, and miscellaneous items from the countertop.
+ 2. Clean the sink: Use a bathroom cleaner or a mixture of baking soda and vinegar to scrub the sink. Rinse thoroughly with water.
+ 3. Wipe the countertop: After cleaning the sink, use a disinfectant wipe or a spray cleaner with a cloth to wipe down the countertop, ensuring to remove any soap scum, water spots, or other stains.
+ 4. Clean the faucet: Use a cleaner or a vinegar-soaked cloth to remove water stains and buildup around the faucet.
+ 5. Organize items: Return the items to the countertop in an organized fashion, possibly using organizers or caddies to maintain order and make daily use more efficient.
+ 6. Clean the mirror: Use a glass cleaner to wipe down the mirror for a streak-free finish.
+ 7. Final touches: Check the area for any remaining items that need to be put back in their place or disposed of, completing the task with a well-organized and clean bathroom sink area."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Trash disposal;Ventilation;Gloves.
+Number 26 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-32-54.292306
+{"headline":"Bathroom Sink Cleaning","body":"The main task is to clean and sanitize the bathroom sink area to maintain hygiene and cleanliness.
+ Sub-tasks:
+ 1. Remove all items from the sink area, including personal care products and containers.
+ 2. Rinse the sink with warm water to remove any loose debris or residue.
+ 3. Apply a non-abrasive bathroom cleaner to the sink surface, faucet, and handles. Allow it to sit for a few minutes to break down grime.
+ 4. Using a soft sponge or cloth, gently scrub the surface of the sink, the faucet, and the handles to remove soap scum and build-up.
+ 5. Rinse thoroughly with water until all the cleaner is washed away.
+ 6. Dry the sink and fixtures with a clean, soft towel to prevent water spots.
+ 7. Wipe down the mirror and any other surfaces with glass cleaner.
+ 8. Return all items to their original positions and discard or replace any empty containers.
+ 9. Dispose of any collected trash, and replace the trash bag if necessary.
+ Remember always to use gloves for protection and ensure adequate ventilation while cleaning with chemicals."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Gloves;Mirror cleaning;Tidying up;Trash disposal;towel replacement;tidy cleaning products.
+Number 27 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-33-03.624705
+{ 
+"headline": "Bathroom Sink Cleaning", 
+"body": "Begin by removing any items from around the sink area, including any toiletries and containers. Ensure to wear gloves 
+for hygiene. Start with cleaning the sink basin using a bathroom cleaner; apply the cleaner, let it sit for a minute, then scrub
+ with a sponge, paying extra attention to any stains or residue buildup around the faucet or drain. Rinse thoroughly with water
+  and wipe down the surface with a clean, dry cloth. Next, clean the faucet and handles with a mild soap solution, using an old
+   toothbrush for hard-to-reach areas. Wipe them dry to prevent water spots. Proceed to tidy up the counter space, using a damp 
+   cloth to wipe any spills or dust. Lastly, clean the mirror using a glass cleaner and a lint-free cloth for a streak-free 
+   finish. Organize the removed items neatly back in their place. Dispose of any trash and replace used towels with clean ones.
+    Ensure all products and tools used in cleaning are put away properly." 
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Floor sweeping. 
+Number 28 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-33-12.130552
+{
+"headline":"Bathroom Sink Cleaning",
+"body":"The primary goal is to thoroughly clean and organize the bathroom sink area. Start by removing all items from the sink 
+and surrounding countertop. Wipe down the sink, faucet, and countertop with a bathroom cleaner and a non-abrasive sponge to
+ remove grime and soap residue. For tougher stains, use a cleaning brush or an old toothbrush to scrub gently. Rinse thoroughly
+  with water and dry with a clean cloth. Next, clean the mirror using glass cleaner and a microfiber cloth to avoid streaks. 
+  Organize the items you removed earlier, discarding any empty or unnecessary objects, before placing them back neatly. Finally,
+   sweep or mop the floor around the sink to complete the task."
+}
+----------------------------------------
+Rating:1;1;1;1;1 
+Number 29 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-33-21.438582
+{headline:"Clean and Organize Bathroom Sink Area", body:"Start by clearing off any personal items from the sink and counter area,
+ such as toiletries and grooming devices. Wipe down the sink and countertop using a bathroom cleaner and a microfiber cloth to 
+ remove any residue or stains. Clean the faucet and handles with a disinfectant wipe to remove fingerprints and water spots. 
+ Next, address any spilled products or clutter on the shelves above the sink, wiping them down as well. Finally, organize the
+  personal items neatly, disposing of any empty or unnecessary containers to maintain a tidy appearance."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Countertop cleaning;Cabinet cleaning;Gloves;tidy cleaning products.
+Number 30 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-33-35.479237
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "Primary Goal: Ensure the bathroom sink area is clean and organized. Sub-tasks: 1. Clear the countertop – Remove all
+ items from the sink's countertop, including toiletries and any small objects. 2. Scrub the sink – Using a bathroom cleaner, 
+ thoroughly scrub the sink basin to remove soap scum, toothpaste residue, and any stains. Rinse with water afterward. 
+ 3. Wipe the countertop – Use a disinfectant wipe or a cloth with an all-purpose cleaner to clean the countertop surface. 
+ 4. Clean the faucet and handles – With a cleaner appropriate for the faucet's material, polish the faucet and handles to 
+ remove water spots and fingerprints. 5. Reorganize items – Once cleaning is complete, replace items on the countertop neatly, 
+ discarding any unnecessary or empty containers. 6. Clean the cabinet – Wipe down the exterior of the sink cabinet with a damp 
+ cloth and mild cleaner, paying attention to handles and drawer fronts. For best results, use gloves to protect your hands and
+  work in a ventilated area. Dispose of cleaning materials properly after completing the tasks."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Shelve cleaning;Countertop cleaning.
+Number 31 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-33-43.754620
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "Task: Thorough cleaning of the bathroom sink and its surroundings. 1. Clear the sink area by removing all personal items
+, such as toothbrushes, shaving razors, and toiletries. 2. Apply a non-abrasive bathroom cleaner to the sink basin, faucet, and 
+handles. Allow it to sit for the recommended time as per the product instructions to dissolve any mineral deposits and grime. 
+3. Scrub the basin with a soft-bristled brush, paying special attention to the faucet and drain areas to ensure all residue is 
+removed. Rinse thoroughly with water. 4. Wipe down the surrounding countertop, shelving, and mirrored surfaces with a suitable
+ glass cleaner to remove any watermarks and fingerprints. 5. Dry all areas with a clean microfiber cloth to prevent water spots
+  and to give a polished finish. 6. Replace all personal items neatly, discarding any empty containers or products no longer in 
+  use. Ensure the task is completed with a final inspection for any missed spots or remaining clutter."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Floor sweeping;towel replacement;Gloves;Ventilation.
+Number 32 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-33-58.108703
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The main task involves thoroughly cleaning the bathroom sink and its surrounding area. Ensure the following sub-tasks are completed:
+
+1. Clear the Sink Area: Remove all personal items, such as bottles, toothbrushes, and containers, from the sink area. Place them aside in a safe location.
+
+2. Scrub the Sink: Use a non-abrasive sponge and a suitable bathroom cleaner to scrub the inside of the sink. Pay attention to the faucet and handles, where grime often accumulates. Rinse thoroughly with water afterward.
+
+3. Wipe Down Countertop: Once the sink is clean, use a disinfectant wipe or a cloth with a mild cleaning solution to wipe down the countertop around the sink. Ensure that you remove any water stains, soap scum, or residue.
+
+4. Clean the Mirror: Spray glass cleaner onto a microfiber cloth and gently wipe the mirror above the sink to remove any spots, streaks, or fingerprints.
+
+5. Organize Personal Items: Once the area is dry, replace the personal items neatly back onto the countertop, discarding any empty or unnecessary containers.
+
+6. Final Touches: Empty the trash bin if present, sweep or mop the surrounding floor area, and replace any used towels with fresh ones.
+
+Always wear gloves to protect your hands and ensure proper ventilation in the bathroom while cleaning with chemicals. 
+"
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Wall tile cleaning;Cabinet cleaning;Trash disposal;Towel replacement;
+Number 33 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-52-22.701192
+{"headline":"Bathroom Sink Cleaning","body":"The primary goal is to clean and organize the sink area in the bathroom. This involves several sub-tasks:
+ 1. Clearing the Sink Area: Remove all personal items, toiletries, and containers from the sink area to allow for thorough cleaning.
+ 2. Scrubbing the Sink: Apply a bathroom cleaner to the sink and faucet. Use a non-abrasive sponge to scrub the sink basin, the faucet, and the handles. Pay special attention to any limescale or soap scum buildup, which may require additional bathroom cleaner and soaking time. Rinse thoroughly with water.
+ 3. Cleaning the Countertop: Wipe down the countertop surface with a disinfectant spray and a clean cloth. Ensure you clean behind and around the sink as well.
+ 4. Organizing Items: Once the sink and countertop are dry, neatly arrange the personal items and toiletries back in place. Consider using organizing trays or containers to keep the area tidy.
+ 5. Wiping Mirrors and Tile: Use glass cleaner to wipe down the mirror for a streak-free finish. Additionally, clean any splashes or stains on the tile surrounding the sink.
+ 6. Emptying Trash and Wiping Drawers: Empty the trash bin if present and use a damp cloth to wipe the inside and outside of any drawers or cabinets, including handles.
+ 7. Final Touches: Replace any used towels with fresh ones and ensure that the area is well-organized, leaving the bathroom clean and inviting."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Cabinet cleaning.
+Number 34 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-52-30.600827
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "To ensure a thoroughly clean bathroom sink area, start by removing all personal items such as bottles, toothbrushes,
+ and other toiletries from the sink countertop and shelves. Next, using a mild bathroom cleaner, spray the sink, faucet, and 
+ countertop. Allow the cleaner to sit for the prescribed amount of time according to the product instructions to break down
+  grime and soap scum. In the meantime, clean the mirror with an appropriate glass cleaner to remove any spots and streaks,
+   working from top to bottom. Return to the sink and use a non-abrasive sponge or cloth to scrub the surfaces, paying particular
+    attention to the faucet which can collect buildup. Rinse thoroughly with water and dry with a clean towel to prevent water 
+    spots. Finally, wipe down the exterior and interior of the cabinet drawers and doors with a multi-surface cleaner. Replace 
+    all items neatly, discarding any unnecessary or empty containers to maintain organization and cleanliness."
+}
+----------------------------------------
+Rating:1;1;1;1;0,5 Extras:disinfecting;Mirror cleaning.
+Number 35 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-52-36.919296
+{"headline":"Bathroom Sink Cleaning",
+"body":"The primary goal is to clean and organize the bathroom sink area. Begin by removing all items from the sink and 
+surrounding areas. Next, clean the sink thoroughly using a bathroom cleaner and sponge, focusing on removing any soap scum, 
+stains, or toothpaste residue. Rinse the sink and polish the faucet and handles. Wipe down the countertop, shelves, and any 
+other surfaces with a disinfectant wipe. Organize the items you removed earlier, discarding expired or unnecessary objects, 
+and neatly place them back. Lastly, clean the mirror with a glass cleaner for a streak-free finish."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Countertop cleaning;Mirror cleaning.
+Number 36 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-52-47.879977
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "To ensure a clean and hygienic bathroom environment, the primary task is to thoroughly clean the sink area. Start by
+ removing any items from the sink counter and placing them aside. Wipe down the counter with a disinfectant cleaner to remove 
+ dust, soap scum, and water spots. Next, focus on the sink itself by applying a non-abrasive cleaner. Scrub the basin with a 
+ soft sponge, paying attention to the faucet and handles where grime tends to accumulate. Rinse the sink thoroughly with warm
+  water and dry with a clean microfiber cloth to prevent streaks. Finally, clean the mirror above the sink using glass cleaner
+   for a streak-free finish. Replace all items neatly on the counter once the cleaning is complete."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 37 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-52-57.107240
+{
+"headline":"Bathroom Sink Cleaning",
+"body":"The primary goal is to clean and disinfect the bathroom sink and its surrounding area. First, remove all items from
+ around the sink, including any toiletries or containers. Use an appropriate bathroom cleaner to spray down the sink, faucet,
+  and countertop, ensuring you also clean around and beneath any fixtures. Scrub the surfaces with a non-abrasive sponge to 
+  remove soap scum, toothpaste residues and water stains. Rinse thoroughly with water, and dry all surfaces with a clean cloth
+   to prevent water spots. Finally, clean the mirror using glass cleaner for a streak-free finish and return all items to their
+    places."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;Floor sweeping.
+Number 38 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-53-07.336110
+{
+"headline":"Bathroom Sink Cleaning",
+"body":"The primary goal is to clean and organize the bathroom sink area, including the sink itself, the countertop, and the
+ mirror. Begin by removing all personal items from the countertop and sink area and wipe them down to remove any dust or residue.
+  Clean the sink basin with a non-abrasive cleaner, focusing on any soap scum or stains. Rinse thoroughly and dry with a clean
+   cloth. Use glass cleaner on the mirror, wiping in a circular motion to avoid streaks. Organize the personal items neatly,
+    discarding any empty containers or unnecessary clutter. Finally, sweep or mop the floor around the sink area to ensure it is
+     free of debris."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:disinfecting;Mirror cleaning;Trash disposal.
+Number 39 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-53-17.896781
+{
+  "headline": "Bathroom Sink Cleaning",
+  "body": "The primary goal is to clean and organize the bathroom sink area, ensuring it is hygienic and tidy. Begin by removing
+   all personal items from the sink countertop and shelving units. Using a bathroom cleaner, thoroughly spray and scrub the sink,
+    including the faucet and handles, to remove grime and soap scum. Rinse with water and dry with a clean cloth. Wipe down the 
+    countertop and shelves with a disinfectant wipe, allowing surfaces to air dry. Return items neatly, discarding expired or 
+    unnecessary products. Lastly, clean the mirror with a glass cleaner for a streak-free finish, and empty the trash receptacle
+     to complete the task."
+}
+----------------------------------------
+Rating:1;1;1;1;1 
+Number 40 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-53-27.552535
+{
+"headline":"Bathroom Sink Cleaning",
+"body":"The primary goal is to thoroughly clean and disinfect the bathroom sink area. Start by removing all items from the 
+sink and surrounding countertop. Wipe down all surfaces with a bathroom cleaner to remove soap scum, toothpaste residue, and 
+water spots. Follow up with a disinfectant to sanitize the sink, faucet, and handles. For any mineral buildup around the faucet 
+or drain, use a specialized cleaner or a mix of vinegar and baking soda to break down the deposits. Rinse all areas with water
+ and dry with a clean cloth to prevent streaks. Replace the items neatly, discarding any empty or unnecessary containers to
+  maintain a clutter-free space."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Countertop cleaning;Shelve cleaning;Preventing mildew.
+Number 41 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-53-39.490413
+{ "headline": "Bathroom Sink Cleaning", "body": "The primary goal is to achieve a clean and hygienic bathroom sink area. 
+The task includes the following sub-tasks: 1. Clear the sink area of any personal items, toiletries, and debris. 2. Apply an
+ appropriate cleaner to the sink's basin, faucet, and handles. Allow it to sit for the recommended time to dissolve grime and
+  soap scum. 3. Scrub the sink with a non-abrasive sponge or cloth, paying special attention to spots with buildup. 4. Rinse 
+  the sink thoroughly with water to remove all cleaning agents. 5. Wipe down the faucet and handles with a microfiber cloth to 
+  prevent water spots and maintain shine. 6. Clean the countertop and any shelving around the sink, removing dust and spills
+   with a suitable cleaning spray and cloth. 7. Replace the items back neatly, discarding any empty containers or unnecessary
+    clutter. Ensure that cleaning is done systematically and areas are dried to prevent mildew formation." }
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Countertop cleaning;floor sweeping;Gloves.
+Number 42 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-53-50.451789
+{headline:"Bathroom Sink Cleaning", body:"Begin by decluttering any items on and around the sink area, such as toothpaste, 
+soap, or personal care products, and placing them aside. Once the area is cleared, follow these steps: 1. Rinse the sink with 
+warm water to loosen debris. 2. Apply a non-abrasive bathroom cleaner or a mixture of baking soda and vinegar to the sink's 
+surface. 3. Use a soft sponge to gently scrub the sink, pay attention to the faucet and handles where grime often accumulates. 
+4. Wipe down the counter and any shelving with a clean cloth and an all-purpose cleaner. 5. Clean the mirror with a glass 
+cleaner, using a microfiber cloth for a streak-free shine. 6. Rinse the sink thoroughly with water and dry with a clean towel.
+ 7. Return all decluttered items neatly to their original place. Dispose of any unwanted items or trash. 8. Sweep and mop the 
+ floor, especially around the sink area, to remove any cleaning product residue or dirt. Ensure all tasks are performed with 
+ proper safety measures, such as wearing gloves."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Cabinet cleaning;Mirror cleaning;Wiping surfaces.
+Number 43 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-53-59.670787
+{ "headline": "Bathroom Sink Cleaning", "body": "Primary Goal: Ensure the bathroom sink is thoroughly cleaned and sanitized. 
+1. Remove all personal items from around the sink. This includes toiletry, containers, and any miscellaneous items that may have
+ accumulated. 2. Wet the sink with warm water and apply a non-abrasive cleaner suitable for bathroom surfaces. 3. Using a sponge
+  or soft cloth, scrub the sink focusing on areas with grime buildup or soap scum. 4. Rinse the sink thoroughly with water,
+   ensuring all cleaning agent residues are washed away. 5. Dry the sink with a clean, soft towel to prevent water spots. 
+   6. Clean and wipe down the faucet and handles with a suitable cleaner and dry them to a shine. 7. If the sink has a cabinet, 
+   like the one shown, organize the items inside it and wipe down the cabinet surfaces, both inside and out, with a suitable 
+   cleaner. 8. Lastly, clean the mirror and any other surfaces in the vicinity such as countertops or shelves, removing any 
+   splatters or fingerprints." }
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Countertop cleaning;Disinfecting.
+Number 44 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-54-11.131262
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The primary goal is to deep clean the bathroom sink and surrounding area to achieve a hygienic and sparkling finish. 
+Sub-tasks include: 1. Clearing the sink area: Remove all personal items, toiletries, and containers from around the sink to a 
+separate location. 2. Scrubbing the sink: Using a bathroom cleaner and a non-abrasive scrubbing tool, thoroughly clean the sink
+ basin, focus on removing any soap scum or stains. Rinse with water. 3. Wiping fixtures: Clean the faucet and handles with a 
+ cloth and disinfecting spray to remove any grime and water spots. 4. Cleaning countertops: Wipe down the surrounding countertop
+  with an appropriate cleaning spray and a microfiber cloth to remove any spills or residues. 5. Disinfecting: Use a 
+  disinfectant to spray all the cleaned areas, including the sink, fixtures, and countertops, to kill any remaining germs. 
+  Leave it on for the recommended time before wiping off. 6. Organizing: Once cleaning is complete, replace all items neatly 
+  around the sink, discarding any unnecessary or expired products. Ensure the area is dry and polished. Use caution not to 
+  directly spray electrical items such as shavers or toothbrush chargers. Always follow the cleaning products' instructions 
+  for safe and effective usage."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;Shelve cleaning;Cabinet cleaning;Gloves;tidy cleaning products.
+Number 45 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-54-17.899347
+{
+"headline":"Bathroom Sink and Counter Cleaning",
+"body":"Main Task: Clean and organize the bathroom sink area. Sub-tasks: 1. Clear the countertop of all personal items and 
+toiletries. 2. Use a bathroom cleaner and a microfiber cloth to scrub the countertop and sink thoroughly, paying extra attention
+ to soap deposits and water spots. 3. Clean the mirror with a glass cleaner to remove any splashes or fingerprints. 
+ 4. Wipe down any shelving, making sure to dust and remove any debris. 5. Organize personal items neatly, discarding any empty
+  containers or unnecessary items. 6. Finish by cleaning the cabinet fronts with a suitable cleaner and replacing any items in
+   their designated spots. Ensure to use cleaning gloves throughout the process and wash tools after use."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Cabinet cleaning;Mirror cleaning;Ventilation.
+Number 46 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-54-31.042656
+{"headline":"Bathroom Sink Cleaning","body":"Begin by clearing the sink area of any personal items, such as bottles or 
+containers, ensuring they are placed aside safely. Proceed to rinse the sink basin with warm water to loosen any dirt or debris.
+ Apply an appropriate amount of bathroom cleaner to the surface of the sink and use a non-abrasive sponge to scrub gently in a 
+ circular motion, paying extra attention to the faucet and drain where grime typically accumulates. After scrubbing, rinse the 
+ sink thoroughly with warm water and dry it with a clean microfiber towel to prevent water spots. Wipe down the exterior of the
+  sink cabinet and handles with a suitable disinfectant. For the mirror, use a glass cleaner and a squeegee or paper towel to
+   remove any watermarks or fingerprints. Return the items to their original place, ensuring they are cleaned as well if
+    necessary. Make sure to ventilate the area during and after the cleaning process to rid the bathroom of any cleaning fumes."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Disinfecting;Countertop cleaning;Wall tile cleaning;Shelve cleaning.
+Number 47 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-54-41.244890
+{"headline":"Bathroom Sink Cleaning","body":"The primary goal of this task is to thoroughly clean and sanitize the bathroom sink area. Sub-tasks include: 
+ 1. Clearing the Sink: Remove all items from around and on the sink to provide unobstructed access for cleaning. Place items aside in a safe location.
+ 2. Scrubbing the Sink: Use a non-abrasive scrubber and a mixture of warm water and mild detergent to scrub the sink's basin, faucet, and handles. Rinse thoroughly with water afterwards.
+ 3. Disinfecting: Apply a bathroom disinfectant spray to all surfaces, including the sink, faucet, handles, and countertop. Allow it to sit for the recommended time before wiping down with a clean, damp cloth.
+ 4. Polishing Fixtures: Dry and polish the faucet and handles with a microfiber cloth for a streak-free finish.
+ 5. Cleaning Surrounding Area: Wipe down the countertop, adjacent tiles, and any shelving with a suitable cleaner. Ensure to clean any soap dishes or dispensers as well.
+ 6. Replacing Items: Once every surface is clean and dry, carefully replace all items back in their original positions.
+ 7. Final Inspection: Do a final check to ensure no spots or stains were missed, and the area is left tidy and hygienic."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Disinfecting;Mirror cleaning;towel replacement.
+Number 48 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-54-53.838851
+{"headline":"Bathroom Sink Cleaning",
+"body":"The primary goal is to thoroughly clean and sanitize the bathroom sink area. 
+
+1. Clear the Sink Area: Remove all personal items, toiletries, and any other objects from on and around the sink to clear the space for cleaning. 
+
+2. Scrubbing the Sink Basin: 
+   a. Wet the entire sink basin.
+   b. Apply a generous amount of bathroom cleaner or baking soda and vinegar mixture.
+   c. Use a non-abrasive scrubbing sponge to clean the basin in a circular motion, focusing on any stains or soap scum.
+   d. Rinse thoroughly with water.
+
+3. Cleaning the Faucet and Handles:
+   a. Spray or apply a bathroom cleaner to the faucet and handles.
+   b. Use a small cleaning brush or an old toothbrush to scrub around the fixtures. 
+   c. Wipe down and polish with a microfiber cloth for a streak-free finish.
+
+4. Disinfecting the Sink Area:
+   a. Apply a disinfectant spray to all surfaces, including the countertop and backsplash.
+   b. Let the disinfectant sit for the time recommended by the product instructions.
+   c. Wipe off with a clean, damp cloth.
+
+5. Organizing Personal Items:
+   a. Clean and wipe down personal items before placing them back around the sink.
+   b. Arrange items neatly to maintain a clutter-free environment.
+
+6. Final Touches:
+   a. Wipe down any mirrors or glass surfaces with a glass cleaner.
+   b. Dispose of any garbage or debris collected.
+   c. Replace any used towels with clean ones and ensure the area is dry and safe to use."}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;restocking supplies.
+Number 49 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-54-59.831487
+{"headline":"Bathroom Sink Cleaning","body":"The main objective is to thoroughly clean the bathroom sink area to maintain hygiene and orderliness. Sub-tasks include decluttering the countertop, cleaning the sink basin, and organizing items appropriately. 
+ 1. Remove all items from the sink's countertop and evaluate which items need to be returned, discarded, or stored elsewhere. 
+ 2. Wipe down the countertop with a suitable cleaner to remove any dirt, spilled products, or water stains. 
+ 3. Apply a non-abrasive cleaning agent to the sink basin, scrub gently with a soft sponge or brush, focusing on any build-up around the drain or faucet. Rinse thoroughly. 
+ 4. Use glass cleaner on the mirror to remove any water spots or fingerprints, buffing to a streak-free shine. 
+ 5. Finally, replace only necessary items on the countertop, such as soap dispensers and toothbrush holders, ensuring they are clean before putting them back. Store away or discard other non-essential items to reduce clutter."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Disinfecting;Mirror cleaning;Floor sweeping.
+Number 50 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-55-09.196856
+{
+"headline":"Clean and Organize Bathroom Sink Area",
+"body":"Start by removing all items from the sink and surrounding areas, including toothbrushes, toiletries, and any other 
+objects. Wipe down the sink, faucet, and countertop with a bathroom cleaner and a microfiber cloth to remove soap scum and 
+stains. For the faucet and handles, use a cleaner with descaling properties if there's any lime build-up. Rinse thoroughly with
+ water. Use disinfectant wipes to sanitize the surfaces, especially around the drain and faucet base. Clean the mirror with a
+  glass cleaner for a streak-free shine. Organize the removed items, discarding any empty or unused products, and neatly place
+   the remaining items back in their designated spots. Ensure that the area is dry and free of cleaning residue before putting 
+   things back. Lastly, sweep the floor and mop if necessary to complete the task."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Cabinet cleaning;Mirror cleaning;Instructions
+Number 51 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-55-24.969663
+{ 
+  "headline": "Bathroom Sink Cleaning", 
+  "body": "Primary Goal: Ensure the bathroom sink area is thoroughly cleaned and organized. 
+
+  Sub-Tasks: 
+ 
+  1. Clearing the sink area: Remove all personal care products, containers, and any other items from the sink countertop. Place them aside safely to prevent any damage.
+ 
+  2. Cleaning the sink: Use a bathroom cleaner or a mixture of baking soda and vinegar to scrub the sink basin. Pay attention to the faucet and handles, using a toothbrush for hard-to-reach areas. Rinse thoroughly with water afterwards.
+  
+  3. Wiping down the countertop: After the sink is cleaned, use a disinfectant wipe or a cloth with multi-surface cleaner to wipe down the entire countertop, including the area around the sink and behind the faucet.
+  
+  4. Cleaning the mirror: Spray glass cleaner onto the bathroom mirror and use a clean, lint-free cloth to wipe it down until it’s streak-free.
+  
+  5. Reorganizing items: Once the countertop is dry, return the personal care products and containers to their designated places, making sure to organize items for a neat appearance.
+  
+  6. Cleaning Cabinet fronts: Gently wipe down the cabinet fronts with a damp cloth, and if there are any fingerprints or stains, use a mild cleaner suitable for the material. Dry with a soft cloth.
+  
+  Instructions: Start with sub-task 1 to create an uncluttered space for cleaning. For sub-task 2, make sure to wear gloves to protect your hands. Apply cleaners evenly and allow them to sit for a few minutes to break down grime before scrubbing. When cleaning the mirror in sub-task 4, use horizontal and then vertical strokes for an even clean. In sub-task 6, be gentle to avoid scratching the surface. After completing all sub-tasks, inspect your work to ensure everything is clean and tidy."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Gloves;ventilation;tidy cleaning products.
+Number 52 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-55-30.112082
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The primary goal is to thoroughly clean and sanitize the bathroom sink area, including the sink itself, the countertop, and the mirror above the sink. 
+
+Sub-task 1: Clear the countertop of any personal items, toiletries, and debris. Place these items aside so the area can be cleaned.
+
+Sub-task 2: Using a bathroom cleaner or a vinegar and water solution, spray the sink, countertops, and faucet. With a non-abrasive sponge, scrub the surfaces to remove soap scum, toothpaste residue, and any other grime. Rinse the surfaces with water and dry with a clean cloth.
+
+Sub-task 3: Apply a glass cleaner to the mirror and wipe with paper towels or a microfiber cloth to remove any spots and streaks for a streak-free shine.
+
+Sub-task 4: Organize the items that were removed from the countertop, dispose of any unnecessary items, and place the remaining items back neatly.
+
+Throughout the process, wear gloves to protect your hands and ensure you're working in a well-ventilated area. Lastly, dispose of or wash cleaning cloths as appropriate."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;tidy cleaning products.
+Number 53 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-55-40.122400
+{"headline":"Bathroom Sink Cleaning","body":"Your primary goal is to thoroughly clean the bathroom sink and its
+ surrounding area, including the countertop and the mirror above the sink. Begin by removing all personal items
+  from the countertop to ensure every surface is accessible. Use a bathroom cleaner or a mixture of vinegar and
+   water to spray down the sink, countertop, and faucet. Scrub the sink basin with a non-scratch sponge, 
+   focusing on any soap deposits or water spots. Rinse with water and dry with a clean towel.
+ Next, clean the faucet with a gentle scrubber or a toothbrush to remove buildup around the edges and base.
+  Polish with a microfiber cloth for a streak-free finish. Wipe down the countertop with the same solution and
+   dry it off, ensuring no cleaning solution remains on surfaces that will come into contact with personal items.
+ Finally, clean the mirror with a glass cleaner or a vinegar-water solution. Spray the mirror lightly and use a
+  clean microfiber cloth to wipe the surface in a circular motion to avoid streaks. Replace your personal items
+   neatly on the countertop. Dispose of any cleaning materials used and wash your hands after completing the
+    task."}
+----------------------------------------
+Rating:1;1;1;1;1 
+Number 54 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-55-51.389545
+{ "headline": "Bathroom Sink Cleaning", "body": "To ensure the bathroom sink area is clean and hygienic, follow 
+these steps: 1. Clear the sink area: Begin by removing all items from around the sink, such as toiletries, 
+containers, and any other objects. 2. Apply cleaner: Use a bathroom cleaner suitable for the sink material and
+ liberally spray it over the sink and the faucet. Allow it to sit for a few minutes to dissolve grime and soap 
+ scum. 3. Scrub the sink: With a non-scratch sponge or cloth, scrub the sink thoroughly, paying extra attention
+  to any stains or build-up around the faucet. 4. Clean the faucet: Use a toothbrush or a specialized cleaning
+   tool to scrub around the faucet handles and any hard-to-reach areas. 5. Rinse the sink: After scrubbing,
+    rinse the sink and fixtures with warm water to wash away the cleaner and any loosened dirt. 6. Dry and
+     polish: Use a clean microfiber cloth or towel to dry the sink and fixtures to prevent water spots and to 
+     bring out a shine. 7. Organize: Before placing items back on or around the sink, wipe them down with a
+      damp cloth to remove dust and residue. Organize them neatly to maintain a tidy appearance. Repeat these
+       steps regularly to maintain a clean bathroom environment." }
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 55 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-56-00.194455
+{"headline":"Bathroom Sink Cleaning","body":"The primary goal is to clean and disinfect the bathroom sink area.
+ Sub-tasks include decluttering the countertop, cleaning the mirror, scrubbing the sink, and organizing the
+  items neatly. First, remove all items from the countertop. Use a bathroom cleaner to spray the sink and
+   countertop, and let it sit for a few minutes to break down grime and soap scum. Wipe the surfaces with a
+    sponge or cloth, paying extra attention to the faucet and handles where grime tends to accumulate. Rinse
+     with water and dry with a clean towel. To clean the mirror, use a glass cleaner and a microfiber cloth to
+      avoid streaks. Finally, return the items to the countertop in an organized manner, discarding any 
+      unnecessary products."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Wiping surfaces.
+Number 56 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-56-08.903386
+{"headline":"Bathroom Sink Cleaning","body":"To ensure the bathroom sink is clean and hygienic, begin by
+ removing all items from the sink area. This includes any toiletries, bottles, or containers. Next, rinse 
+ the sink with warm water to loosen any dirt and grime. Apply a bathroom cleaner or a baking soda and vinegar
+  solution to the sink surfaces, including the faucet and handles. Scrub gently with a soft sponge or cloth,
+   paying extra attention to any stains or buildup. Rinse thoroughly with warm water and dry with a clean towel.
+    Replace items neatly, discarding any empty or unnecessary containers. For the mirror, use a glass cleaner
+     and a microfiber cloth to wipe away any spots or streaks for a streak-free finish. Finally, ensure the
+      area around the sink, including the counter and the front of the cabinetry, is wiped down and free of
+       water spots or soap residue."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Countertop cleaning;Final touches.
+Number 57 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-56-19.952423
+{"headline":"Bathroom Sink Cleaning","body":"The main task is to thoroughly clean the bathroom sink and its surroundings. This includes several sub-tasks: 
+ 1. Clear the sink area - Remove all items from the top and around the sink. Place them aside so you can clean the surfaces without obstructions.
+ 2. Scrub the sink - Use a bathroom cleaner suitable for the sink material and scrub with a non-abrasive sponge or brush. Pay special attention to the faucet and drain, where grime often accumulates.
+ 3. Clean the countertop - Wipe the countertop with a suitable cleaner and a microfiber cloth for a streak-free finish.
+ 4. Organize the items - Before placing items back, consider discarding any empty or outdated products, then organize and return the remaining items neatly.
+ 5. Clean the mirror - Use glass cleaner and a clean microfiber cloth to wipe the mirror, avoiding streaks.
+ 6. Final touches - Take a step back and inspect your work. Make any additional touches necessary, such as straightening towels or wiping down any spills on the cabinet or tiles."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Drain cleaning;Mirror cleaning.
+Number 58 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-56-29.175428
+{
+  "headline": "Bathroom Sink Cleaning",
+  "body": "The primary goal is to thoroughly clean and sanitize the bathroom sink area. Begin by removing all 
+  personal items from around the sink to provide clear access. Use a bathroom cleaner suitable for ceramic and
+   tile surfaces to spray the sink, faucet, and countertop. Allow the cleaner to sit for a few minutes to break
+    down soap scum and grime. With a non-abrasive sponge, scrub these areas in a circular motion, paying extra
+     attention to the faucet and drain where buildup is common. Rinse all surfaces with water and wipe them down
+      with a clean, dry cloth to prevent water spots. Replace personal items neatly after cleaning. As a
+       sub-task, check the drain for any clogs or slow drainage and use a plunger or drain cleaner as needed
+        to ensure water flows freely. Lastly, clean the mirror with a glass cleaner and a microfiber cloth to
+         remove any splashes or fingerprints."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Cabinet cleaning;Mirror cleaning;tidy cleaning products.
+Number 59 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-56-41.039141
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The primary goal is to thoroughly clean and sanitize the bathroom sink area. Begin by removing any
+ personal items and toiletries from the sink and surrounding areas to clear the space for cleaning. Use a
+  bathroom cleaner spray or an appropriate disinfectant to generously apply on the sink, faucet, and countertop.
+   Allow it to sit for a few minutes to break down soap scum and bacteria.
+
+Next, scrub the sink with a non-abrasive sponge or cloth, focusing on any stains or buildup around the drain, 
+faucet, and handles. If needed, use an old toothbrush to get into tight spaces or along grout lines. Rinse the
+ area thoroughly with water and dry with a clean towel or microfiber cloth for a streak-free finish.
+
+For the cabinet fronts, use a mild soap solution with a damp cloth to wipe down, removing any fingerprints or
+ spills. Dry with a towel to prevent warping of the material.
+
+Replace the items neatly, taking the opportunity to discard expired products or clutter. Lastly, clean the
+ mirror using glass cleaner and a lint-free cloth, working in a circular motion to avoid streaks. Make sure
+  the cleaning materials are washed and stored properly after the task is completed."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:mirror cleaning;Cabinet cleaning;Floor sweeping.
+Number 60 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-56-53.449701
+{
+"headline": "Bathroom Sink and Counter Cleaning",
+"body": "The main task is to thoroughly clean and organize the bathroom sink and counter area. 
+
+Step 1: Clear the Counter
+- Remove all personal items, toiletries, and bottles from the sink and counter area and set them aside.
+  
+Step 2: Cleaning the Sink
+- Apply a non-abrasive bathroom cleaner to the basin of the sink.
+- Use a soft sponge or cloth to scrub the basin, focusing on any stains or residue.
+- Rinse thoroughly with water, ensuring no cleaner residue remains.
+  
+Step 3: Disinfecting Faucets and Handles
+- Spray disinfectant on the faucet and handles.
+- Wipe them down with a microfiber cloth, ensuring to clean underneath and around the handles.
+
+Step 4: Wiping Down the Counter
+- After the sink basin is clean, use the bathroom cleaner to spray the counter area.
+- Wipe the counter with a clean cloth or sponge, paying attention to the areas around the sink and the edges where debris can accumulate.
+
+Step 5: Cleaning the Mirror
+- Use a glass cleaner to spray the mirror. Wipe with a lint-free cloth or paper towel in a circular motion to avoid streaks.
+
+Step 6: Reorganizing the Counter
+- Before placing items back on the counter, evaluate whether they are all necessary.
+- Wipe down each item with a damp cloth to remove dust or residue.
+- Organize the items neatly, possibly using a tray or organizer for smaller items to reduce clutter.
+
+Step 7: Cleaning the Cabinet Fronts
+- Use a mild cleaner and a soft cloth to wipe down the front of the cabinets, including the handles.
+
+Finish by sweeping or mopping the floor if necessary to ensure the whole bathroom area is clean and inviting."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 61 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-56-57.935405
+{"headline":"Bathroom Sink Cleaning","body":"The primary goal is to clean and organize the bathroom sink area.
+ Start by removing all items from the counter and shelves. Next, use a bathroom cleaner to spray down the sink,
+  faucet, and counter area. With a non-abrasive sponge, scrub the surfaces to remove soap scum, toothpaste
+   residue, and water spots. Rinse the sink and wipe down the surfaces with a microfiber cloth for a streak-free
+    finish. Clean the mirror using a glass cleaner and a lint-free cloth to ensure it is free of streaks and
+     spots. Lastly, neatly arrange the removed items back in their places, discarding any empty containers or
+      unnecessary clutter to maintain a tidy appearance."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 62 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-57-09.627162
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The primary objective is to clean and sanitize the bathroom sink area. Begin by removing all items 
+from the sink countertop to clear the workspace. Utilize a bathroom cleaner spray to cover the sink basin, 
+countertop, and faucet, and let it sit for a minute to break down grime and soap residue. With a non-abrasive
+ sponge, scrub the basin, targeting any stains or buildup around the drain. Use an old toothbrush to clean 
+ around the faucet and in crevices where dirt often accumulates. Rinse thoroughly with water until all cleaner
+  is washed away. Wipe down the countertop, faucet, and exterior of the sink with a microfiber cloth for a
+   streak-free finish. Replace the items neatly on the countertop. As an additional sub-task, clean the mirror
+    above the sink using glass cleaner and a clean cloth to remove any spots and ensure it is streak-free."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Disinfecting;Floor sweeping.
+Number 63 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T12-57-18.324536
+{"headline":"Bathroom Sink Cleaning","body":"The primary goal is to clean and sanitize the bathroom sink area. 
+Begin by removing all items from the countertop and sink to clear the space. Use a bathroom cleaner or a mixture
+ of vinegar and water to clean the sink, faucet, and countertop. Ensure to scrub the basin, rinse thoroughly,
+  and wipe down with a clean cloth to avoid water spots. Clean the mirror with a glass cleaner and a microfiber
+   cloth for a streak-free finish. Sanitize the handles and frequently touched surfaces with a disinfectant. 
+   Place back all items neatly, discarding any unnecessary or empty containers. Finally, sweep and mop the floor
+    around the sink area to complete the task."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Disinfecting;Wiping surfaces;Gloves;Ventilation.
+Number 64 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T16-01-59.620615
+{"headline":"Bathroom Sink Cleaning","body":"Objective: Ensure the bathroom sink and surrounding area are thoroughly cleaned and organized.
+ 1. Clear the Sink Area: Begin by removing all products, containers, and any personal items from the sink and the edges. These should be set aside in a container or on a clean towel so they can be easily put back after cleaning.
+ 2. Scrub the Sink: Use a bathroom cleaner suitable for the sink material. Apply the cleaner and gently scrub the entire sink, including the faucet and handles, with a non-abrasive sponge or cloth. Pay special attention to any stains or soap scum.
+ 3. Rinse Thoroughly: After scrubbing, rinse the sink and fixtures thoroughly with water, making sure to remove all traces of the cleaning product. If necessary, use a handheld shower head or a cup to pour water around the sink's edges to rinse effectively.
+ 4. Dry and Shine: Using a clean microfiber cloth, dry the sink and fixtures. Buff the sink and faucet to a shine, ensuring they are streak-free and shiny.
+ 5. Clean the Surrounding Area: Wipe down the countertop, sink cabinet, and any shelves with an appropriate cleaner. Make sure to clean into the corners, under any items, and around the sink's base, where grime tends to collect.
+ 6. Reorganize Items: Once the sink and surrounding area are dry, replace the items you removed earlier, organizing them neatly and disposing of any empty containers or unnecessary clutter.
+ 7. Disinfect: As an optional final step, use a disinfectant spray to give an added layer of germ protection.
+ Note: Always wear gloves to protect your hands from cleaners and ensure the room is well-ventilated during the cleaning process."}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;Countertop cleaning;Vanity cleaning;floor sweeping.
+Number 65 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T16-02-05.415631
+{"headline":"Bathroom Sink and Vanity Cleaning","body":"The primary goal is to clean and organize the bathroom 
+sink and vanity area. Begin by removing all personal items from the sink and countertop, cleaning each one as 
+necessary before setting them aside. With a bathroom cleaner, spray and wipe down the sink, focusing on stains
+ or toothpaste residue. Rinse thoroughly and dry with a clean cloth. Next, clean the mirror with glass cleaner
+  to remove any spots or streaks. For the countertop, use a disinfectant to wipe down the surface, including
+   the area around the sink. Reorganize the personal items neatly, discarding any empty or unnecessary 
+   containers. For the vanity cabinet, remove items and wipe down the drawers and shelves with a damp cloth.
+    Replace items in an orderly fashion. Lastly, sweep or mop the floor around the sink and vanity area to 
+    complete the task."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Cabinet cleaning;Restocking supplies.
+Number 66 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T16-02-19.653027
+{
+"headline":"Bathroom Sink Cleaning",
+"body":"The primary goal is to ensure the bathroom sink area is thoroughly cleaned and organized. 
+
+Sub-tasks:
+1. Clearing the Area: Remove all personal items, toiletries, and containers from the sink counter. Ensure that the items are placed in a safe location to prevent damage or spillage.
+2. Cleaning the Sink: Wet the sink with warm water and apply a non-abrasive bathroom cleaner. Use a sponge or soft cloth to scrub the sink gently, paying close attention to the faucet and drain areas where grime often accumulates. Rinse thoroughly with water and wipe dry with a clean cloth to prevent water spots.
+3. Wiping Surfaces: Using a disinfectant spray or wipes, clean the countertop, faucet, and handles to remove any soap scum, toothpaste residue, and to disinfect the surfaces. Buff dry with a microfiber cloth for a streak-free finish.
+4. Cleaning the Mirror: Spray glass cleaner on the mirror avoiding direct contact with the frame and use a clean, lint-free cloth to wipe in a circular motion until clear and streak-free.
+5. Organizer and Drawer Cleanout: Empty the organizer and drawers, wipe down the insides with a damp cloth containing mild soap, discard expired or unnecessary items, and organize the remaining items back into the organizer/drawers neatly.
+6. Restocking Supplies: Ensure that soap dispensers or dishes are filled and place a fresh hand towel for use.
+
+After completing these tasks, replace all personal items and toiletries in a tidy manner. The end result should be a clean, hygienic, and visually appealing sink area."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Floor sweeping.
+Number 67 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-09-27.107093
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "To ensure the bathroom sink area is clean and hygienic, perform the following tasks: Begin by removing
+ any items from the sink and counter surfaces. Clean the mirror using a glass cleaner and a microfiber cloth to
+  avoid streaks. Proceed to scrub the sink with a non-abrasive cleaner, focusing on removing any soap residue 
+  and water spots. Clean the faucet and handles with a disinfectant spray and wipe down. Organize the items on
+   the counter and replace them neatly. Lastly, mop the floor around the sink area to complete the task."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Wiping surfaces;Drain cleaning;Gloves;Cabinet cleaning;Bathtub cleaning;tidy cleaning products.
+Number 68 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-09-35.406200
+{"headline":"Clean and Organize Bathroom Sink Area","body":"The primary goal is to ensure the bathroom sink area is clean, organized, and hygienic. Begin by removing all personal items and toiletries from the sink and surrounding area. Utilize an appropriate bathroom cleaner to scrub the sink, including the faucet and handles, ensuring to remove soap scum, stains, and any buildup. Rinse thoroughly with warm water. 
+
+Next, clean the mirror above the sink using glass cleaner to remove any spots or streaks. Proceed to wipe down the counter, shelves, and any other surfaces with a disinfecting wipe or a cloth dampened with a multi-purpose cleaner, paying special attention to any spills or residue.
+
+Organize personal items and toiletries, discarding any empty or unnecessary containers, and neatly arrange them back on the shelves or in the storage space provided. Ensure the area under the sink, if visible, is also tidy and visually appealing. 
+
+Lastly, check the sink's drainage to ensure it is clear of any obstruction. If needed, use a plunger or a non-corrosive drain cleaner to unclog. Wipe down the exterior of cabinets, and if applicable, clean the bathtub's edge that is adjacent to the sink area. Dispose of any used cleaning materials appropriately and wash your hands thoroughly after completing the cleaning process."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Trash disposal.
+Number 69 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-11-54.183201
+{
+"headline":"Bathroom Sink Cleaning",
+"body":"Primary Task: Clean and organize the bathroom sink area. 1. Remove all items from the sink countertop.
+ Sort them into those to be kept or discarded. 2. Use a bathroom cleaner spray on the sink basin and countertop.
+  Scrub with a non-scratch sponge, then rinse thoroughly. 3. Wipe down the mirror with a glass cleaner and a
+   microfiber cloth for a streak-free finish. 4. Clean the faucet and handles with a cloth and disinfectant.
+    Remove water spots and fingerprints. 5. Organize the items neatly on the countertop or store them
+     appropriately. 6. Take out any trash related to the cleaning process and replace the bin liner.
+      Ensure that all tasks are done methodically and with care to maintain the bathroom's hygiene and 
+      appearance."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Cabinet cleaning.
+Number 70 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-11-59.196642
+{
+"headline":"Bathroom Sink Cleaning",
+"body":"The main task is to clean and organize the bathroom sink area. Begin by removing all items from the 
+sink and surrounding area. Use a bathroom cleaner to spray and scrub the sink, faucet, and countertop. Rinse
+ thoroughly with water. Wipe down all surfaces with a microfiber cloth for a streak-free finish. Next, clean
+  the mirror using glass cleaner, ensuring no smudges or fingerprints remain. Once all surfaces are clean,
+   return the items to their places, organizing them neatly. Finally, wipe down the exterior of the cabinet
+    doors with a damp cloth. If there are any spills or marks inside the drawers, remove items, clean the
+     interior, and place items back orderly."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Cabinet cleaning.
+Number 71 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-12-09.103019
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The primary goal is to clean and sanitize the bathroom sink area. Start by removing all personal items
+ from the top of the sink and the surrounding area. Use a bathroom cleaner to spray down the sink, faucet, and
+  counter. Scrub the surface with a non-abrasive sponge to remove soap scum, toothpaste residue, and any other
+   buildup. Rinse thoroughly with water and dry with a clean cloth. For the faucet, use a toothbrush to clean
+    around the edges and hard-to-reach areas. Finally, wipe down the exterior and interior of the sink cabinet
+     using a disinfectant. Replace the items neatly, disposing of any unneeded or expired products."
+}
+----------------------------------------
+Rating:1;1;1;1;1 
+Number 72 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-12-20.344210
+{
+"headline":"Bathroom Sink Cleaning",
+"body":"Primary Goal: Ensure the sink, countertop, and surrounding area are clean and organized. 
+ Sub-task 1: Clearing - Remove all personal items from the countertop and sink area. These should be set aside in a safe spot to avoid any damage. 
+ Sub-task 2: Scrubbing - Use a bathroom cleaner and sponge to scrub the sink, focusing on any stains or residue buildup. Rinse thoroughly with water afterwards. 
+ Sub-task 3: Disinfecting - Apply a disinfectant to the sink and countertop surfaces to eliminate germs. Follow the disinfectant’s instructions for application time before wiping it off. 
+ Sub-task 4: Drying - Use a clean microfiber cloth to dry the surfaces and prevent water spots. 
+ Sub-task 5: Organizing - Once the sink and countertops are dry, return the personal items, organizing them neatly to ensure the area remains tidy and accessible."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Countertop cleaning;Mirror cleaning;Final touches;Disinfecting;
+Number 73 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-12-34.199532
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The main task is to thoroughly clean the bathroom sink and surrounding area. Sub-tasks include: 
+
+1. Clearing the Sink Area: Remove all personal care products and items from the sink counter and shelves, ensuring that these items are placed in a secure location during cleaning.
+
+2. Scrubbing the Sink: Apply a bathroom cleaner suited for ceramic surfaces to the sink basin. Using a non-abrasive sponge, scrub the basin in a circular motion to remove any stains or buildup. Pay attention to the faucet and handles, as they often accumulate grime.
+
+3. Cleaning the Countertop: If the countertop is cluttered, first declutter, then use a suitable cleaning spray and a microfiber cloth to wipe down the countertop and the shelving above the sink. Be sure to clean underneath any items and in the corners where dust might collect.
+
+4. Polishing the Mirror: Spray glass cleaner onto a clean microfiber cloth and gently wipe the mirror to remove any water spots or fingerprints, working from top to bottom to prevent streaking.
+
+5. Disinfecting: Use a disinfectant spray on the sink, countertop, and faucet to kill any bacteria and provide a sanitary surface. Allow to sit for the recommended duration before wiping off according to the product's instructions.
+
+6. Restocking and Organizing: Once all surfaces are dry, replace the items on the countertop and shelves neatly, discarding any unnecessary items to maintain an organized appearance.
+
+7. Final Touches: Inspect the area for any missed spots or remaining residue and give it a final wipe if necessary. Replace any towels or rugs that were removed during the cleaning process.
+
+Note: Always wear gloves to protect your hands while using cleaning chemicals and ensure the room is well-ventilated."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Cabinet cleaning.
+Number 74 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-12-40.647866
+{"headline":"Bathroom Sink Cleaning","body":"The primary goal is to thoroughly clean the bathroom sink area,
+ including the sink basin, faucet, countertop, and cabinet fronts. Begin by removing all items from the
+  countertop and organize them into categories such as toiletries, cleaning supplies, and miscellaneous items.
+   Dust off any loose dirt from the items before setting them aside. Next, use a bathroom cleaner spray to coat 
+   the basin, faucet, and countertop. Let the cleaner sit for the recommended time to break down grime and soap
+    scum. Scrub the sink basin and faucet with a non-abrasive sponge, paying special attention to any mineral
+     deposits around the faucet. Wipe the countertop with a clean cloth to ensure all dirt and cleaner residue 
+     is removed. Use glass cleaner on the mirror to remove any spots or streaks. Lastly, clean the cabinet
+      fronts with a mild soap solution, wiping them down with a soft cloth, and dry immediately to avoid 
+      watermarks. Replace the items on the countertop in an organized manner, discarding any unnecessary or
+       expired products to maintain a tidy appearance."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Disinfecting;Final touches.
+Number 75 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-12-54.173377
+{"headline":"Bathroom Sink Cleanup","body":"The main task is to thoroughly clean and organize the bathroom sink area. 
+
+Sub-task 1: Clear Clutter. Remove all personal care products, cleaning supplies, and any other items placed on the sink and surrounding area.
+
+Sub-task 2: Clean Sink Basin. Using a bathroom cleaner and sponge, scrub the sink basin, focusing on any soap scum or stains. Rinse thoroughly with water and dry with a clean cloth.
+
+Sub-task 3: Clean Faucet and Handles. Apply a small amount of cleaner to the faucet and handles. Use a scrub brush or an old toothbrush to scrub around the base and any crevices where grime may have accumulated. Rinse and dry with a microfiber cloth.
+
+Sub-task 4: Wipe Down Countertop. Clear any residue and water spots from the countertop surrounding the sink with a damp cloth and cleaner suitable for the surface material.
+
+Sub-task 5: Organize Items. Once the cleaning is complete, return the necessary items to the countertop, but ensure to organize them neatly to maintain a clutter-free appearance.
+
+Sub-task 6: Clean the Mirror. Use glass cleaner and a microfiber cloth to clean the mirror, making sure to remove any spots or streaks for a clear reflection.
+
+Sub-task 7: Disinfect Touch Points. Use disinfectant wipes to clean any frequently touched surfaces, such as the faucet handles, drawer pulls, and light switches, to maintain a hygienic environment.
+
+Sub-task 8: Final Touches. Take a step back to inspect the sink area. Make any further adjustments needed to ensure the space is clean, organized, and inviting. Dispose of any trash or cleaning supplies used during the task."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 76 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-12-58.708846
+{"headline":"Bathroom Sink Cleaning","body":"Begin by removing all personal items from the sink area, including 
+any bottles or containers on the sink itself and the shelf above it. Next, use a bathroom cleaner or a mixture
+ of vinegar and baking soda to thoroughly scrub the sink basin, faucet, and handle. Use a non-abrasive sponge
+  or cloth to avoid scratching the surfaces. Rinse well with warm water and dry with a clean towel. Clean the
+   mirror above the sink using a glass cleaner and a microfiber cloth for a streak-free finish. Lastly, organize
+    the personal items back neatly, ensuring the sink area is left clutter-free and spotless."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Cabinet cleaning.
+Number 77 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-13-11.748056
+{ "headline": "Bathroom Sink Cleaning", "body": "The primary goal is to ensure the bathroom sink area is clean
+ and organized. Start by removing all personal items from the sink and surrounding area. Use a non-abrasive 
+ cleaner and a microfiber cloth or sponge to gently scrub the sink basin, faucet, and handles, rinsing 
+ thoroughly afterward. Wipe down the countertop and any shelving with the cleaner. Sanitize with a disinfectant
+  spray, and dry all surfaces with a clean cloth. Finally, organize items neatly back in their place. Ensure to
+   clean the mirror with a glass cleaner for a streak-free finish. For the cabinet, empty contents, wipe down
+    shelves, and reorganize items before closing." }
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 78 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-13-19.135019
+{
+"headline":"Bathroom Sink Cleaning",
+"body":"The main task is to thoroughly clean the bathroom sink and its surrounding area. First, clear all 
+personal items and toiletries from the sink and shelf areas. Next, use a bathroom cleaner to spray down the
+ sink, faucet, and countertop. With a non-abrasive sponge, scrub the surfaces, focusing on any spots with 
+ build-up or stains. Rinse the sink and wipe it dry with a clean cloth. For the faucet, use a small brush to
+  clean around the edges and base. Clean the mirror using a glass cleaner and a lint-free cloth for a
+   streak-free finish. Lastly, organize the toiletries and personal items back on the shelf, ensuring they are
+    clean and orderly."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 79 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-13-29.894327
+{
+"headline":"Bathroom Sink and Area Cleaning",
+"body":"Begin by clearing out any personal items from the sink area to prevent them from getting wet or damaged.
+ Then, use a bathroom cleaner to spray down the sink, faucet, countertop, and surrounding areas. Allow the 
+ cleaner to sit for a few minutes to break down soap scum and buildup. Next, scrub the sink and countertop with 
+ a non-abrasive sponge to remove dirt and stains, paying special attention to the faucet to remove water spots. 
+ Rinse thoroughly with water and dry with a clean microfiber cloth for a streak-free finish. Finally, clean the
+  mirror using a glass cleaner and a separate cloth, wiping in a circular motion, and organizing personal items
+   neatly after the cleaning is complete."
+}
+----------------------------------------
+Rating:1;1;1;1;0,5 
+Number 80 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-13-43.186386
+{
+"headline":"Bathroom Sink Cleaning",
+"body":"The main task is to thoroughly clean the bathroom sink area. This includes decluttering the countertops, scrubbing the sink, polishing the fixtures, and organizing personal care products. Here's how to perform these tasks: 
+
+1. Clear the countertop of any personal care products, cosmetics, and other items. Wipe them down with a disinfectant wipe or a damp cloth and set aside.
+
+2. Apply a bathroom cleaner to the sink and fixtures. Allow it to sit for the time specified on the cleaning product's instructions to break down soap scum and limescale.
+
+3. Using a non-abrasive sponge or cloth, scrub the sink basin, paying special attention to the drain and any crevices where grime can accumulate.
+
+4. Clean the fixtures with a sponge or cloth, ensuring to rinse and polish them to prevent water spots and restore shine. For tougher stains or buildup, consider using an old toothbrush for detailed scrubbing.
+
+5. Rinse the sink and fixtures thoroughly with water and wipe down with a clean, dry cloth for a streak-free finish.
+
+6. Replace and neatly organize the personal care products, ensuring that only frequently used items are left out to maintain a decluttered appearance.
+
+7. Dispose of or store away any unnecessary items or trash to finalize the cleaning process.
+
+Regular maintenance can prevent the buildup of soap scum and limescale, making the cleaning process easier and faster in the future."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning.
+Number 81 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-13-49.268560
+{"headline":"Clean and Organize Bathroom Sink Area","body":"Begin by removing all items from the sink and 
+countertop area. Clean the sink with a bathroom cleaner and a non-abrasive sponge, focusing on any stains or
+ soap scum. Rinse thoroughly with water. Wipe down the countertop with a disinfectant, ensuring to clean around
+  the faucet and the soap dish. Dry with a clean cloth. Organize the removed items, discarding any empty bottles
+   or unnecessary items, and place the remaining items neatly back on the countertop or in the storage space
+    provided by the sink's cabinet. Lastly, clean the mirror with a glass cleaner to leave it streak-free.
+     Ensure to replenish any hand soap or hygiene products if needed."}
+----------------------------------------
+Rating:1;1;1;1;1
+Number 82 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-14-01.079133
+{"headline":"Bathroom Sink Cleanup","body":"To ensure a thorough clean of the bathroom sink, follow these steps: 
+ 1. Remove all items from the sink area, including toiletries and any containers or bottles. Place them aside on a towel to clear the workspace.
+ 2. Rinse the sink with warm water to dampen the surface and remove loose debris.
+ 3. Apply a non-abrasive bathroom cleaner to the basin, faucet, and handles, allowing it to sit for the recommended time to break down grime and soap scum.
+ 4. Using a soft sponge or cloth, gently scrub the surfaces in a circular motion, paying particular attention to any crevices and the base of the faucet.
+ 5. Rinse the cleaner off with warm water, ensuring all residue is gone and the surfaces are shiny and clear.
+ 6. Dry the sink and fixtures with a clean microfiber cloth to prevent water spots.
+ 7. Replace all items neatly, discarding any empty bottles or unnecessary clutter to maintain a tidy appearance.
+ This process should be performed regularly to keep the bathroom hygienic and visually appealing."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 83 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-14-09.229458
+{"headline":"Bathroom Sink Cleaning","body":"The primary goal is to clean and sanitize the bathroom sink area.
+ Start by removing all items from the sink and surrounding area, including any toiletries and containers. Wipe
+  down the sink, faucet, and countertop with a disinfectant cleaner, paying special attention to grime build-up 
+  around the faucet and drain. Use a non-scratching scrubber for stubborn stains. Clean the mirror above the
+   sink with a glass cleaner for a streak-free shine. Finally, organize the removed items, discard any empty or
+    unnecessary containers, and place the remaining items back neatly. Ensure to clean the storage area below 
+    the sink: remove items, wipe the interior with a cleaner, and organize the items before placing them back."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Trash disposal;Gloves;Ventilation.
+Number 84 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-14-23.910834
+{ "headline": "Bathroom Sink Cleaning", "body": "The main task involves thoroughly cleaning the bathroom sink 
+and its surroundings to ensure hygiene and tidiness. Subtasks include: 1. Clearing the sink area of any personal
+ items, cosmetics, or toiletries. 2. Using a bathroom cleaner, spray the sink, faucets, and countertop, and let
+  it sit for the recommended time to disinfect and break down grime. 3. Scrub the sink basin with a non-abrasive
+   sponge, paying special attention to the drain and faucet areas to remove soap scum and limescale. Rinse with
+    warm water. 4. Wipe down the countertop, faucet, and handles with a microfiber cloth to polish and remove
+     any cleaner residue. 5. Clean the mirror using glass cleaner and a lint-free cloth, following a 
+     top-to-bottom zigzag pattern to avoid streaks. 6. Replace the removed items neatly, discarding any 
+     unnecessary or expired products to reduce clutter. 7. Lastly, take the trash out and sweep or mop the
+      floor if needed, to complete the bathroom cleaning process. For best results, ensure proper ventilation
+       while cleaning and wear protective gloves. Proper maintenance involves repeating this task weekly or as
+        needed to maintain a clean and safe bathroom environment." }
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Countertop cleaning;Mirror cleaning.
+Number 85 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-14-30.811664
+{"headline":"Bathroom Sink Cleaning","body":"The primary goal is to thoroughly clean the bathroom sink area, 
+ensuring it is hygienic and free from any dirt or grime. Sub-tasks include: 1. Clearing the sink area of any
+ personal items, toiletries, and debris. This will involve organizing items and possibly discarding old or
+  unused products. 2. Scrubbing the sink basin with a mild cleaner to remove soap scum, toothpaste residue, 
+  and water spots. Use a soft sponge to avoid scratching the surface. 3. Cleaning the faucet and handles with 
+  a disinfectant spray or wipes, making sure to polish them for a spotless finish. 4. Wiping down the countertop
+   and sink cabinet with an all-purpose cleaner, paying close attention to spills and stains. 5. Taking care
+    of the mirror by using a glass cleaner to eliminate any streaks or fingerprints. Ensure the products used
+     are suitable for each surface and always rinse thoroughly after cleaning. Additionally, maintain a safe
+      environment by keeping the floor dry to prevent slipping accidents."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Floor sweeping.
+Number 86 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-14-40.477835
+{"headline":"Bathroom Sink Cleaning", "body":"Begin by removing all items from around the sink to clear the 
+area for cleaning. Ensure to handle items carefully if they are fragile. Use a bathroom cleaner suitable for
+ ceramics to spray the sink basin and faucet. Allow it to sit for a moment to break down any soap scum and 
+ lime deposits. Using a non-abrasive sponge or cloth, scrub the basin, concentrating on areas with visible 
+ stains or build-up. Rinse thoroughly with water until all soap residue is gone. For the faucet and handles,
+  use a suitable cleaner and a soft brush or cloth to clean around the edges and crevices. Dry the sink and 
+  faucet with a clean towel to prevent water spots. If necessary, use a glass cleaner for the mirror to remove
+   any splashes or marks. Place the items back around the sink neatly, discarding or replacing any empty
+    containers or items that are not needed. Lastly, sweep and mop the floor around the bathroom area to
+     complete the task."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Shelve cleaning;Mirror cleaning;Gloves;Ventilation.
+Number 87 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-14-52.422506
+{"headline":"Bathroom Sink Cleaning","body":"The primary goal is to ensure the bathroom sink and surrounding 
+area are clean and tidy. Sub-tasks include: 1. Clearing the sink area: Remove all personal items, toiletries,
+ and containers from the sink counter. Keep them aside to replace after cleaning. 2. Cleaning the sink: Use a
+  bathroom cleaner spray and a sponge to scrub the sink basin. Pay special attention to the faucet and drain 
+  areas. Rinse thoroughly with water. For stubborn stains or buildup, use a specific stain remover or create
+   a paste with baking soda and water for a gentle abrasive. 3. Wiping the counter and shelves: After clearing 
+   them off, spray a non-abrasive cleaner and use a cloth to wipe down the countertop and any shelving. Dry 
+   with a clean towel. 4. Cleaning the mirror: Spray glass cleaner on the mirror and use a microfiber cloth
+    to wipe until streak-free. 5. Reorganizing items: Once the cleaning is complete, dry the area if necessary,
+     and carefully place all personal items back on the counter or shelves. Dispose of any trash or empty 
+     containers that were set aside during the cleaning process. Remember to use gloves for protection and 
+     ensure the room is well-ventilated while cleaning."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Disinfecting;Gloves.
+Number 88 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-15-01.406304
+{"headline":"Bathroom Sink Cleaning","body":"The primary goal is to thoroughly clean and sanitize the bathroom
+ sink area. Sub-tasks include: 1. Clearing any personal items from the sink area to ensure it is unobstructed.
+  2. Using a bathroom cleaner, spray down the sink basin, faucet, and countertop. Use a non-abrasive sponge to 
+  scrub the surface, paying extra attention to any grime or soap scum buildup. 3. Rinse the area thoroughly with
+   water and dry with a clean cloth to prevent water spots. 4. For persistent stains, apply a suitable cleaning 
+   agent and let it sit for the recommended time before scrubbing and rinsing. 5. Clean the mirror above the 
+   sink using glass cleaner and a lint-free cloth, using circular motions to avoid streaking. 6. Replace all
+    personal items neatly, discarding any empty containers or unnecessary clutter. 7. Disinfect any commonly
+     touched surfaces such as faucet handles. Use gloves while cleaning for protection and wash hands after 
+     completing the task."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Shelve cleaning.
+Number 89 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-15-11.214431
+{ "headline": "Bathroom Sink Cleaning", "body": "1. Clear the sink area. Remove all personal items, such as
+ toothbrushes and skincare products, and place them aside. 2. Rinse the sink with warm water to wash away loose
+  debris. 3. Apply a bathroom cleaner appropriate for the sink material, covering the entire sink and faucet. 
+  4. Scrub the sink and faucet with a non-scratch sponge or cloth, paying extra attention to the drain region
+   and any buildup around the faucet. 5. Use an old toothbrush or a small cleaning brush to get into crevices 
+   and around the faucet handles. 6. Rinse the sink thoroughly with warm water, ensuring all cleaning product
+    is washed away. 7. Dry the sink and faucet with a clean towel to prevent water spots. 8. Wipe down the 
+    surrounding countertop and any shelving with a multi-surface cleaner and cloth. 9. Replace all personal
+     items neatly, discarding any unnecessary items. 10. Take this opportunity to wipe down and organize items 
+     before returning them to their place." }
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 90 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-15-19.831272
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The primary goal is to clean and organize the bathroom sink area. Begin by removing all items from the
+ countertop and shelves. Use a bathroom cleaner to thoroughly scrub the sink, including the faucet and handles,
+  ensuring to remove soap scum and water spots. Rinse with water and wipe dry with a clean cloth. Next, clean 
+  the countertop and shelving with a suitable cleaner, wipe down, and dry. Assess and wipe clean the exterior
+   of any containers, products, or dispensers that will be returned to the shelves or countertop. Discard any 
+   empty or expired products. Organize the items neatly when returning them to their places. Finally, clean the
+    mirror using a glass cleaner, taking care to leave no streaks or spots for a polished finish."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Shelve cleaning;Cabinet cleaning.
+Number 91 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-15-30.702463
+{ "headline": "Bathroom Sink Cleaning", "body": "The primary goal is to thoroughly clean and organize the 
+bathroom sink area. Begin by clearing all personal items from the sink counter, categorizing similar items
+ together for reorganization later. Wipe down the sink basin with a bathroom cleaner, focusing on removing 
+ soap scum and water spots. For hard-to-remove stains, use a non-scratch scouring pad. Rinse the sink thoroughly
+  with warm water and dry with a microfiber cloth for a streak-free finish. Clean the faucet and handles using
+   a descaling agent if necessary. Proceed to clean and organize the shelving area, wiping each shelf with a
+    damp cloth and putting back the items neatly, ensuring frequently used products are easily accessible.
+     Lastly, clean the exterior and interior of the cabinet drawers, removing debris and possibly using drawer
+      liners for easy maintenance. Dispose of any expired or unnecessary items found during the process. 
+      These sub-tasks will collectively result in a clean and organized bathroom sink area." }
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 92 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-15-39.663271
+{
+"headline":"Clean and Organize Bathroom Sink",
+"body":"Begin by clearing the countertop of any personal items such as toiletries, toothbrushes, and containers.
+ Wipe down the surface with a suitable bathroom cleaner and a microfiber cloth to remove grime and soap scum.
+  Next, clean the sink basin using a non-abrasive cleaner, focusing on the removal of any stains or toothpaste
+   residue. Make sure to scrub the faucet and handles to restore shine. Finally, reorganize the items on the 
+   countertop neatly, discarding any empty containers or unnecessary clutter. For the mirror, use glass cleaner 
+   and a squeegee or cloth to create a streak-free finish. Ensure the area around the sink is dry and free of 
+   debris to conclude the task."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Gloves;Ventilation;Disinfecting.
+Number 93 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-15-53.864060
+{"headline":"Bathroom Sink Cleaning",
+"body":"For the primary task of cleaning the bathroom sink, begin by removing all personal items such as
+ toothbrushes, razors, and toiletries from the sink area. Ensure to wear gloves for hygiene purposes.
+ 
+
+Sub-task 1: Clear the Sink Surface
+- Wipe down the sink surface with a damp cloth to remove any loose debris and hair.
+- Apply an appropriate amount of bathroom cleaner on the sink surface, and gently scrub with a non-abrasive sponge to avoid scratching the surface.
+- Rinse the sink thoroughly with water and dry with a clean cloth to prevent water spots.
+
+Sub-task 2: Clean the Faucet and Handles
+- Spray a multi-purpose cleaner onto the faucet and handles. Use an old toothbrush to scrub hard-to-reach areas around the faucet and handles to remove grime and build-up.
+- Rinse and polish the faucet and handles with a microfiber cloth for a streak-free shine.
+
+Sub-task 3: Organize Sink Area
+- Once cleaning is complete, return personal items to the sink area. Consider organizing them in a way that keeps the space clear and prevents clutter from accumulating. Use organizers or trays if helpful.
+
+Sub-task 4: Disinfect Surfaces
+- As a final step, use a disinfectant spray on all surfaces to kill any remaining germs, focusing on touchpoints like faucet handles. Allow it to sit for the recommended time before wiping down if necessary.
+
+Remember to ventilate the area properly during and after cleaning to dissipate any fumes from cleaning agents."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Cabinet cleaning;Trash disposal.
+Number 94 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-15-59.872887
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The primary goal is to clean the bathroom sink and surrounding area. Start by removing any items on 
+the sink surface and shelf, such as toiletries and containers. Then, use a bathroom cleaner and sponge to scrub 
+the sink, paying special attention to the faucet and drain to remove any buildup. Rinse with water and dry with
+ a clean cloth. Wipe down the shelf and any items before placing them back neatly. Lastly, clean the mirror with
+  a glass cleaner and a microfiber cloth for a streak-free finish. Ensure to clean the exterior and interior of
+   the cabinet doors, using a suitable disinfectant. Dispose of any trash in the vicinity and replace the bin 
+   liner. For optimal results, maintain a routine for these cleaning tasks."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Wiping surfaces;Final touches;Gloves;Mirror cleaning.
+Number 95 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-16-17.169357
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "The primary goal is to thoroughly clean and disinfect the bathroom sink and its surrounding area. 
+
+Sub-task 1: Clearing the Sink Area
+- Remove all items from the countertop around the sink including any bottles, containers, and personal items.
+- Wipe these items with a damp cloth if they are dusty or dirty before putting them aside.
+
+Sub-task 2: Scrubbing the Sink
+- Wet the entire sink with warm water.
+- Apply a generous amount of bathroom cleaner or a mixture of baking soda and vinegar to the surface of the sink.
+- Use a non-abrasive scrubbing sponge or brush to work the cleaner into the sink, paying special attention to the faucet and drain which can accumulate grime.
+- Scrub around the edges where the sink meets the countertop and the area around the drain.
+- Rinse thoroughly with warm water to remove all cleaner residue.
+
+Sub-task 3: Cleaning the Faucet and Handles
+- Spray the faucet and handles with a bathroom cleaner or vinegar solution.
+- Using a small brush (an old toothbrush works well) to clean around the edges, crevices, and any textured surfaces.
+- Wipe down thoroughly with a clean cloth and rinse any remaining cleaner off with water.
+
+Sub-task 4: Wiping Down Countertop and Surfaces
+- After the sink is cleaned, wipe down the countertop, shelves, and any other surfaces with a multi-surface cleaner.
+- Dry with a clean towel to prevent water spots.
+- Replace the items that were removed from the countertop, organizing them neatly.
+
+Sub-task 5: Final Touches
+- Use a glass cleaner to clean the mirror above the sink.
+- Optionally, you can also mop the floor and clean other fixtures in the bathroom for a complete cleaning session.
+
+Safety tip: Always wear gloves to protect your hands from harsh chemicals and bacteria. Make sure the room is well-ventilated while using cleaning products."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Cabinet cleaning.
+Number 96 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-16-21.644211
+{"headline":"Bathroom Sink Cleaning","body":"Your primary task is to thoroughly clean the bathroom sink area. 
+Begin by removing all personal items from the sink counter and placing them aside in a safe location. Next, use
+ a bathroom cleaner to spray the sink, faucet, and countertop. Allow the cleaner to sit for the recommended time 
+ specified by the product's instructions to effectively break down grime and soap scum. In the meantime, wipe 
+ down the exterior of the sink cabinet using a damp cloth treated with a gentle cleaning solution. Once the sink
+  cleaner has settled, scrub the sink and faucet with a non-scratch sponge, paying special attention to any 
+  crevices where mold or grime might accumulate. Rinse the sink and faucet thoroughly with warm water until
+   all cleaner residue is gone. Dry the surfaces with a clean, soft towel to prevent water spots. Finally,
+    replace the personal items neatly, discarding any empty containers or items no longer needed. The sub-tasks 
+    include removing items, applying cleaner, scrubbing, rinsing, drying, and replacing items orderly."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 97 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-16-30.768526
+{
+"headline": "Bathroom Sink Cleaning",
+"body": "Main Task: Ensure the bathroom sink and surrounding area are thoroughly cleaned and sanitized. 
+Sub-Tasks: 1. Clear out any personal items and toiletries from the sink area to prevent them from getting wet or
+ damaged. 2. Rinse the sink with warm water to remove superficial dirt and debris. 3. Apply a bathroom cleaner
+  suitable for the sink material and scrub with a non-abrasive sponge or cloth in circular motions. Focus on 
+  areas with buildup. Rinse thoroughly. 4. Use glass cleaner to wipe down the mirror, being careful to leave no
+   streaks. 5. Sanitize the faucet and handles with disinfectant wipes or spray, ensuring all sides are clean.
+    6. Dry all surfaces with a clean microfiber cloth to prevent water spots. 7. Replace the personal items 
+    neatly, considering the organization for ease of use and aesthetics."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Shelve cleaning;Cabinet cleaning.
+Number 98 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-16-40.186009
+{
+"headline":"Bathroom Sink Cleaning",
+"body":"The primary goal is to clean and sanitize the bathroom sink area. Begin by removing all personal items
+ from around the sink, including any products on the sink counter and in the shelving unit above. Wipe down the
+  shelves with a mild cleaner to remove dust and grime. For the sink itself, use a bathroom cleaner and scrub
+   the basin with a non-abrasive sponge to remove soap scum and any stains. Don't forget to clean the faucet
+    and handles with a suitable cleaner to eliminate water spots and bacteria. Rinse the sink thoroughly with
+     water and dry with a clean towel to avoid water marks. The cabinet fronts and handles should also be wiped
+      down with disinfectant. Once everything is clean, replace the items neatly, discarding any empty or 
+      unnecessary products to maintain organization and cleanliness."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 99 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-16-49.815910
+{
+"headline":"Bathroom Sink Cleaning",
+"body":"To clean the bathroom sink area, start by removing all personal items from the sink and surrounding
+ countertop. Then, use a bathroom cleaner or a mixture of vinegar and baking soda to scrub the sink basin,
+  focusing on removing soap scum, toothpaste residue, and any water stains. Rinse thoroughly with water. Next,
+   clean the faucet and handles with the appropriate cleaner to restore shine and remove water spots. Wipe down
+    the mirror with a glass cleaner to eliminate any splatters or fingerprints. Lastly, organize personal items
+     back on the countertop if needed, taking the opportunity to discard expired products or unnecessary clutter.
+      For regular maintenance, perform this routine weekly to maintain a clean and hygienic bathroom sink area."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Countertop cleaning.
+Number 100 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T23-17-00.078357
+{
+"headline": "Bathroom Sink and Counter Cleaning",
+"body": "The primary goal for this task is to clean and sanitize the bathroom sink and counter area. Begin by
+ removing all items from the countertop. With a non-abrasive sponge, apply a bathroom cleaner to the sink and
+  countertop and scrub to remove any soap scum or stains. Rinse thoroughly with water. Use glass cleaner on the
+   mirror to remove any spots or streaks. Next, clean the faucet and handles with a disinfectant wipe or 
+   appropriate cleaner, ensuring all grime and fingerprints are removed. Dry all surfaces with a microfiber
+    cloth for a shiny finish. Finally, replace the items neatly on the countertop. The sub-tasks include 
+    reorganizing the products to streamline the appearance of the counter space."
+}
+----------------------------------------

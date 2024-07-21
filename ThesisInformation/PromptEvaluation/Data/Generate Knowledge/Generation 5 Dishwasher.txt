@@ -1,0 +1,297 @@
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-33-39.801347
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-33-49.982817
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-33-59.795418
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-34-10.291156
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-34-20.671400
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-34-31.225100
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-34-41.803149
+{annotation: dishwasher,cleaning}
+----------------------------------------
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-34-51.761700
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-35-02.724060
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-35-13.363053
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 11 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-35-23.463166
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 12 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-35-34.293350
+{annotation: "dishwasher,loading"}
+----------------------------------------
+Number 13 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-35-44.548730
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 14 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-35-55.614199
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 15 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-36-06.441225
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 16 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-36-16.305769
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 17 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-36-27.185862
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 18 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-36-37.562412
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 19 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-36-48.874713
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 20 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-37-00.176722
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 21 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-37-09.719397
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 22 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-37-20.643287
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 23 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-37-30.973217
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 24 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-37-42.065902
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 25 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-37-52.809746
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 26 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-38-02.796587
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 27 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-38-13.481285
+{annotation: "dishwasher,loading"}
+----------------------------------------
+Number 28 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-38-23.736866
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 29 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-38-34.352629
+{annotation: dishwasher,unload}
+----------------------------------------
+Number 30 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-38-45.143997
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 31 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-38-55.020465
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 32 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-39-05.791962
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 33 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-39-16.061222
+{annotation: dishwasher,dishes}
+----------------------------------------
+Number 34 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-39-26.759951
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 35 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-39-37.289935
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 36 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-39-47.267460
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 37 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-39-57.833843
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 38 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-40-08.190751
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 39 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-40-18.885575
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 40 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-40-29.620446
+{annotation: dishwasher,loading,plates,cutlery}
+----------------------------------------
+Number 41 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-40-39.536360
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 42 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-40-50.111894
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 43 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-41-00.915711
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 44 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-41-10.838177
+{annotation: dishwasher,load}
+----------------------------------------
+Number 45 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-41-21.393709
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 46 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-41-31.850771
+{annotation: dishwashing,dishes}
+----------------------------------------
+Number 47 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-41-42.351945
+{annotation: dishwasher,unload}
+----------------------------------------
+Number 48 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-41-53.112488
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 49 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-42-03.007301
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 50 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-42-13.859668
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 51 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-42-24.101111
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 52 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-42-34.866552
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 53 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-42-45.474736
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 54 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-42-55.497717
+{annotation: dishwasher,unload}
+----------------------------------------
+Number 55 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-43-06.312272
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 56 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-43-16.630903
+{annotation: dishwasher,dishes}
+----------------------------------------
+Number 57 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-43-27.121176
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 58 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-49-09.036122
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 59 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-49-12.818968
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 60 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-49-23.042919
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 61 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-49-33.161200
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 62 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-49-43.600943
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 63 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-49-54.079886
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 64 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-50-04.192958
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 65 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-50-14.340763
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 66 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-50-24.674916
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 67 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-50-35.109942
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 68 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-50-45.640812
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 69 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-50-56.519530
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 70 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-51-05.849379
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 71 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-51-16.506056
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 72 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-51-27.464857
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 73 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-51-37.024795
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 74 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-51-47.730085
+{annotation: "dishwasher,loading"}
+----------------------------------------
+Number 75 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-52-08.375520
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 76 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-52-18.654405
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 77 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-52-28.529525
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 78 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-52-39.083168
+{annotation: dishwasher,unload}
+----------------------------------------
+Number 79 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-52-49.936360
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 80 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-53-00.443637
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 81 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-53-10.446242
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 82 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-53-21.170136
+{annotation: dishwasher,clean}
+----------------------------------------
+Number 83 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-53-31.603116
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 84 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-53-41.974938
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 85 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-53-51.803131
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 86 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-54-02.424164
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 87 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-54-13.550317
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 88 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-54-23.034327
+{annotation: dishwasher,load}
+----------------------------------------
+Number 89 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-54-33.880287
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 90 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-54-44.395968
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 91 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-54-54.369679
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 92 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-55-04.926438
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 93 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-55-15.693956
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 94 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-55-25.650510
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 95 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-55-36.549377
+{annotation: dishwasher,unload}
+----------------------------------------
+Number 96 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-59-41.111663
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 97 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-59-50.774072
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 98 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-00-01.205796
+{annotation: dishwasher,loading}
+----------------------------------------
+Number 99 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-00-14.779789
+{annotation: dishwasher,unload}
+----------------------------------------

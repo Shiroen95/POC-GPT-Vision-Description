@@ -1,0 +1,164 @@
+Rating:1;1;1;1;1;1;1 Extras:Pre-treating stains;Floor sweeping.
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation laudry/2024-07-01T00-55-24.978359
+{"headline": "Laundry Organization and Cleaning", "body": "The main task involves organizing the laundry 
+area and washing clothes. Begin by sorting the clothes in the basket into different piles based on color
+ and fabric type to ensure proper washing care. Whites, darks, and colors should be separated. Check the
+  clothing labels for specific washing instructions. Pre-treat any stains on the clothes using a stain
+   remover. Next, load the sorted clothes into the washing machine, being careful not to overload it. 
+   Add the appropriate amount of laundry detergent, following the instructions on the detergent 
+   container. If the washing machine settings are visible and adjustable, set the machine to the correct
+    cycle based on the pile you are starting with (e.g., whites, delicates). Once the clothes are washed,
+     transfer them to the dryer, if available, or hang them up to air dry. Ensure that the area around 
+     the washing machine is clean and free of any spilled detergent or debris. If the floors are dirty,
+      sweep and mop the area to maintain a clean space. Lastly, fold or hang the clean clothes once they 
+      are dry."}
+----------------------------------------
+Rating:1;1;1;1;1;1;1
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation laudry/2024-07-01T00-55-36.901761
+{
+"headline": "Laundry Cleaning Task",
+"body": "The primary goal is to clean the laundry using the washing machine. 
+
+1. Sort the laundry in the basket by color and fabric type. Separate whites, lights, and darks, and divide delicate items from regular ones to prevent damage during washing.
+
+2. Check the pockets of all garments for items that may cause damage to the clothes or washing machine, such as coins, keys, or tissues.
+
+3. Load the sorted clothes into the washing machine, being careful not to overload it as this can affect the quality of the wash and the functioning of the machine.
+
+4. Pick an appropriate detergent. Use the one for whites with the white load and a color-safe detergent for colored clothes.
+
+5. Set the washing machine to the appropriate settings according to the fabric type. Heavier items like towels and bed linens often require a stronger wash cycle than delicate items.
+
+6. Once the settings are in place, start the washing machine. While the machine is running, clean the area around the washing machine, organizing detergents, and disposing of any trash or empty containers.
+
+7. After the washing cycle is completed, promptly remove the clothes from the washing machine to prevent wrinkles or odors. Hang the clothes to dry or use a dryer if available, using the correct heat setting for the fabric type.
+
+8. Fold or hang the clean laundry once it is dry and return it to the appropriate closets and drawers."
+}
+----------------------------------------
+Rating:1;1;1;1;1;1;1 Extras:Tidying up.
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation laudry/2024-07-01T00-55-46.229220
+{
+"headline": "Laundry Washing Task",
+"body": "The primary goal is to clean the clothes in the laundry basket. Begin by sorting the laundry in 
+the basket into different piles based on color and fabric type. Whites, colors, and delicates should be 
+separated to avoid dye transfer and to ensure proper washing care. Check all pockets for items and fasten
+ zippers and buttons to prevent damage. Select an appropriate wash cycle and water temperature for each 
+ pile of laundry. Use a suitable amount of laundry detergent, following the guidelines on the detergent's 
+ packaging. Once sorted and prepared, load the first pile into the washing machine, ensuring not to 
+ overload it, as this can result in less effective washing and rinsing. After loading, start the wash
+  cycle. Once the cycle is complete, promptly remove the clothes to prevent wrinkles or musty smells.
+   Clothes should either be transferred to a dryer with suitable settings for the fabric type or hung 
+   to dry. Repeat these steps for each pile until all laundry is washed. Ensure the laundry area is left
+    clean and tidy, wiping down the washing machine and surrounding areas to complete the task."
+}
+----------------------------------------
+Rating:1;1;1;1;1;1;1 Extras:Pre-treating stains.
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation laudry/2024-07-01T00-55-55.638710
+{
+"headline": "Laundry Cleaning Task",
+"body": "The primary goal is to clean the laundry. Start by sorting the clothes in the basket by color
+ and fabric type to prevent any damage or dye transfer during washing. Whites, darks, and colors should
+  be separated, as well as delicate fabrics. Check the labels on each clothing item for specific washing 
+  instructions. Pre-treat any stains by applying a stain remover or detergent directly to the affected
+   area. Once sorted, load the washing machine with one batch of sorted laundry, being careful not to
+    overload it. Add the appropriate amount of laundry detergent, considering the load size and soil 
+    level. Select the correct wash cycle based on the fabric type (e.g., delicate, normal, heavy-duty)
+     and color. After the washing cycle is complete, remove the clothes promptly to prevent wrinkles
+      and transfer them to the dryer or hang them to air dry, following the care instructions on the
+       labels. Clean the lint trap if using the dryer before starting it. Once drying is complete, fold or
+        hang the clothes immediately to minimize wrinkling. Return the cleaned laundry to the designated
+         storage area, and ensure the laundry area is tidy before concluding the task."
+}
+----------------------------------------
+Rating:1;1;1;1;1;1;1 Extras:Pre-treating stains.
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation laudry/2024-07-01T00-56-03.577247
+{
+"headline": "Laundry Washing Task",
+"body": "The primary goal of this task is to ensure all laundry is washed, dried, and organized. First,
+ sort the laundry into different categories like whites, colors, and delicates. Check the care labels on
+  each item to ensure they are washed according to the manufacturer’s guidelines. Pre-treat any stains by 
+  applying a stain remover or soaking in warm water. Load the washing machine without overfilling, using 
+  appropriate detergent and settings for the load. Once washed, hang the clothes to dry or use the dryer
+   if suitable for the fabric type. Finally, fold or hang the clean laundry and place it in the designated
+    area."
+}
+----------------------------------------
+Rating:1;1;1;1;1;1;1 Extras:Pre-treating stains;Tidying up;Wiping washing machine;Clean lint trap.
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation laudry/2024-07-01T00-56-16.893127
+{"headline":"Laundry Day: Organize and Wash Clothes","body":"Begin by sorting the clothes in the basket into different piles based on color and fabric type. Whites, darks, and colors should each have their own pile. Delicates such as lingerie and items that may shrink should be set aside for a separate wash. After sorting:
+
+1. Check the fabric care labels on each item to determine the correct washing machine settings.
+2. Empty all pockets and close any zippers to prevent snagging.
+3. Pre-treat any visible stains using appropriate stain remover.
+4. Load the washing machine with one pile of sorted clothes, being careful not to overload.
+5. Add laundry detergent according to the product instructions and the load size.
+6. Select the appropriate wash cycle (normal, gentle, or heavy duty) and temperature for the load.
+7. Once the wash cycle is complete, promptly transfer the clothes to the dryer or hang them up to air dry, depending on the fabric care instructions.
+8. Repeat the washing process for the remaining piles.
+9. After all clothes are washed and dried, fold or hang them and put them away in their designated places.
+
+Ensure to keep the laundry area clean and clutter-free. Wipe down the washing machine exterior and clean the lint trap in the dryer after each use."}
+----------------------------------------
+Rating:1;1;1;1;1;1;1 Extras:Pre-treating stains;Cleaning lint trap;Tidying up;Wiping washing machine.
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation laudry/2024-07-01T00-56-27.922547
+{
+"headline": "Laundry Cleaning Task",
+"body": "The primary goal is to wash a load of laundry. Start by sorting the laundry in the basket by
+ color and fabric type, separating whites, colors, and delicates. Check care labels to ensure proper
+  handling of each item. Pre-treat any visible stains using a stain remover or detergent. Load the sorted
+   clothes into the washing machine, taking care not to overload it. Add the appropriate amount of
+    detergent according to the product instructions and fabric load. Select the washing cycle based on the
+     type of fabric – use a gentle cycle for delicates and a stronger cycle for durable garments like
+      towels and bed linens. Once the cycle is complete, remove the clothes promptly to avoid wrinkles
+       and either hang them to dry or transfer to the dryer, again consulting care labels for drying
+        instructions. Clean the lint trap if using a dryer and select the appropriate setting. If 
+        necessary, fold or iron the clothes once dried. Keep the laundry area tidy by putting away the
+         detergent and cleaning supplies, and wiping down the surfaces of the washing machines."
+}
+----------------------------------------
+Rating:1;1;1;1;1;1;1 Extras:Cleaning lint trap.
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation laudry/2024-07-01T00-56-36.277659
+{ "headline": "Complete Laundry Cycle", "body": "For the main task, complete the laundry process using the
+ washing machine. Start with sorting the clothes in the laundry basket. Separate whites from colors to 
+ ensure proper cleaning and to avoid dye transfer. Always check the care labels on clothes for specific
+  instructions. Load the sorted clothes into the washing machine without overfilling, allowing sufficient
+   space for clothes to move freely. Add an appropriate amount of detergent as per the detergent 
+   instructions and laundry load. Choose the correct wash cycle setting specified for your fabric type.
+    Once the wash cycle is finished, promptly remove clothes and either place them in the dryer with 
+    suitable dryer settings or hang them to air dry if preferred. Make sure to clean the washer's lint
+     trap or any other debris after the cycle is complete. Fold or hang garments immediately after drying
+      to minimize wrinkles. If necessary, repeat the process for multiple loads." }
+----------------------------------------
+Rating:1;1;1;1;1;1;1 Extras:Tidying up;Wiping washing machine.
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation laudry/2024-07-01T00-56-47.029052
+{
+"headline": "Laundry Cleaning Task",
+"body": "The primary goal is to wash the laundry. Begin by sorting the clothes in the basket by colors and
+ fabrics. Whites, colors, and delicates should be separated. Check the labels for specific washing
+  instructions. Pre-treat any stains by gently applying a stain remover. Load the washing machine with one
+   batch, ensuring it's not overloaded, and add an appropriate amount of laundry detergent. Choose the
+    correct washing cycle based on the fabric type (e.g., whites, colors, delicates). Start the washing
+     machine and once the cycle is complete, transfer the clothes to the dryer or hang them up to dry,
+      considering the care labels. Repeat the process for subsequent batches of laundry. Ensure the 
+      laundry area is left tidy, wiping down the washing machine and surrounding surfaces to keep the
+       space clean and organized."
+}
+----------------------------------------
+Rating:1;1;1;1;1;1;1
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation laudry/2024-07-01T00-56-57.388795
+{
+"headline": "Laundry Washing Task",
+"body": "The primary goal is to properly wash a batch of laundry. Begin by sorting the laundry into 
+whites, colors, and delicates to prevent color bleeding and damage to fragile items. Ensure that the
+ washing machine is empty and clean before adding clothes. For the sub-tasks: 1. Load the washing machine 
+ with one sorted batch at a time, careful not to overload it. 2. Add the appropriate amount of detergent
+  for the load size and type of laundry. 3. Select the correct washing cycle according to fabric care 
+  instructions (e.g., normal, delicate, heavy-duty). 4. Start the washing machine and set a timer to
+   return when the cycle is complete. 5. Once the washing is done, remove the clothes promptly to prevent
+    wrinkles or musty smells, and transfer them to the dryer or hang them to air dry as suitable for the 
+    fabric type. Check the lint trap if using a dryer and clean it out before starting. 6. Fold or hang 
+    clean laundry promptly after drying to minimize wrinkles. Ensure the laundry area is tidy before and
+     after completing the task."
+}
+----------------------------------------

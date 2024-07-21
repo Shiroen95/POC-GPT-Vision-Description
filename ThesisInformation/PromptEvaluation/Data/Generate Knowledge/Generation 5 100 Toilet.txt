@@ -1,0 +1,300 @@
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-03-27.802127
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-03-38.186732
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-03-48.419465
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-03-58.378719
+{annotation: toilet,scrubbing}
+----------------------------------------
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-04-08.725476
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-04-19.080644
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-04-29.758412
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-04-39.882973
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-04-50.184399
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-05-01.050852
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 11 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-05-11.301123
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 12 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-05-22.054865
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 13 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-05-31.983812
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 14 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-05-42.192467
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 15 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-05-52.990077
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 16 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-06-03.026253
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 17 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-06-13.824604
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 18 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-06-23.771767
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 19 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-06-34.226490
+{annotation: toilet,scrubbing}
+----------------------------------------
+Number 20 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-06-44.831093
+{annotation: toilet,scrubbing}
+----------------------------------------
+Number 21 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-06-55.193394
+{annotation: toilet,disinfecting}
+----------------------------------------
+Number 22 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-07-05.812452
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 23 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-07-15.541180
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 24 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-14-26.076954
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 25 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-14-30.060655
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 26 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-14-39.751827
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 27 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-14-50.217812
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 28 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-15-00.421934
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 29 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-15-10.908049
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 30 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-15-20.814181
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 31 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-15-31.308323
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 32 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-15-42.058783
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 33 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-15-51.924179
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 34 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-16-02.746930
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 35 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-16-12.894627
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 36 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-16-23.618544
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 37 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-16-33.522093
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 38 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-16-44.202746
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 39 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-16-54.382815
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 40 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-17-04.758467
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 41 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-17-15.596570
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 42 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-17-25.461827
+{annotation: "toilet,cleaning"}
+----------------------------------------
+Number 43 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-17-35.693055
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 44 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-17-46.539806
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 45 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-17-56.609412
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 46 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-18-07.174948
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 47 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-18-17.211074
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 48 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-18-27.394903
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 49 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-18-38.010057
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 50 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-18-48.294040
+{annotation: toilet,scrubbing}
+----------------------------------------
+Number 51 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-18-58.944648
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 52 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-19-08.881251
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 53 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-19-19.326557
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 54 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-19-29.999385
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 55 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-19-40.116421
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 56 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-19-50.769780
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 57 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-20-00.743509
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 58 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-20-11.170770
+{annotation: toilet,scrubbing}
+----------------------------------------
+Number 59 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-20-21.641581
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 60 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-20-32.080539
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 61 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-20-42.858949
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 62 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-20-52.663655
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 63 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-21-03.001130
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 64 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-21-13.844476
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 65 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-21-24.027070
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 66 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-21-34.693438
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 67 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-21-44.687355
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 68 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-21-54.973999
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 69 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-22-05.618697
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 70 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-22-16.081186
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 71 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-22-26.811151
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 72 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-22-36.921190
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 73 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-22-47.267019
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 74 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-22-58.101374
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 75 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-23-08.554424
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 76 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-23-19.084542
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 77 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-23-28.995723
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 78 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-23-39.309081
+{annotation: Toilet,Cleaning}
+----------------------------------------
+Number 79 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-23-49.969118
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 80 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-24-00.240502
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 81 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-24-11.106200
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 82 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-24-20.987375
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 83 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-24-31.241097
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 84 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-24-41.939748
+{annotation: toilet,scale,cleaning}
+----------------------------------------
+Number 85 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-24-52.197801
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 86 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-25-02.896090
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 87 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-25-13.023979
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 88 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-25-24.238768
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 89 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-26-50.883988
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 90 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-27-01.350827
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 91 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-27-11.512726
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 92 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-27-21.395547
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 93 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-27-31.879127
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 94 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-27-42.531144
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 95 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-27-52.608770
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 96 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-28-03.388961
+{annotation: Toilet,Cleaning}
+----------------------------------------
+Number 97 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-28-13.471956
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 98 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-28-23.815361
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 99 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-28-34.733450
+{annotation: toilet,cleaning}
+----------------------------------------
+Number 100 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T23-28-45.158794
+{annotation: toilet,cleaning}
+----------------------------------------

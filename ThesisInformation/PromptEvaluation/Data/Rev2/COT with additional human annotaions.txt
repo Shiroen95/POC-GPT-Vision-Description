@@ -1,0 +1,1014 @@
+Rating:1;0;1;1;1 Extras:Mirror Cleaning;Countertop cleaning;Cabinet cleaning;Bathtub cleaning.
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-15-36.069959
+{
+  "headline": "Bathroom Sink and Counter Cleaning",
+  "body": "Clear the sink area of any personal items, toiletries, and containers. Wipe down the sink and faucet
+   with a suitable bathroom cleaner to remove soap scum and water spots. Clean the countertop surface and organize
+    items neatly or store them away. Ensure to clean the mirror to remove any splash marks or fingerprints. 
+    Lastly, tidy any visible areas around the sink, including the handles of the cabinets and the edges of the
+     bathtub if necessary."
+}
+----------------------------------------
+Rating:1;0;1;0,5;1 Extras:Vanity cleaning;Mirror cleaning;Bathtub cleaning.
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-22-18.121193
+{
+"headline": "Bathroom Sink and Vanity Cleaning",
+"body": "Clear off countertop and tidy up bathroom items. Clean the sink and faucet to remove any residue or water
+ spots. Organize items on the shelves and tidy up the vanity drawers. Wipe down all surfaces, including the 
+ mirror, to eliminate any streaks or splatters. Ensure the bathtub edge is clean and free from any personal care 
+ products."
+}
+----------------------------------------
+Rating:1;0,5;1;1;0 Extras:Mirror cleaning;Straighten towels.
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-22-27.041838
+{headline: "Bathroom Sink and Counter Clean-Up", body: "Remove all items from the countertop and organize
+ personal care products. Clean the sink and countertops with a suitable disinfectant. Wipe down the mirror to 
+ remove any spots. Finally, straighten towels and ensure the area looks orderly and neat."}
+----------------------------------------
+Rating:1;0;1;0;0 Extras:Mirror cleaning;tidying up.
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-22-38.115890
+{"headline":"Bathroom Sink and Counter Cleanup",
+"body":"Clear out and wipe down the sink area, removing any residue or spills. Organize personal care items on
+ the counter and shelves, ensuring products are neatly arranged and excess items are stored away. Clean the mirror
+  to remove any water spots or smudges. Tidy the area around the bath, if necessary, keeping surfaces clean and 
+  free of clutter for a fresh bathroom appearance."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Dusting surfaces;Mirror cleaning;Cabinet cleaning;Trash disposal.
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-22-48.765509
+{
+"headline": "Bathroom Sink and Vanity Area Cleaning",
+"body": "Clear out any personal items from the sink and vanity area. Clean the sink with a suitable bathroom 
+cleanser, scrubbing to remove any toothpaste residue or soap scum. Wipe down the faucet and handles to remove 
+water spots and fingerprints. Organize personal care products on the shelving, ensuring they are neatly arranged.
+ Dust any visible surfaces, including the edges of the mirror and the shelf underneath. Clean the mirror to a
+  streak-free shine. Lastly, wipe down the cabinet fronts and handles, and empty the trash bin if needed."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Floor sweeping.
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-23-01.156259
+{
+"headline": "Bathroom Sink and Countertop Cleaning",
+"body": "Clear and clean the bathroom sink and countertop. Firstly, remove all items from the sink and countertop
+ area. Next, scrub the sink with a non-abrasive cleaner to remove any soap scum, toothpaste residue, or stains. 
+ Clean the faucet and handles with a suitable cleaner and polish to restore shine. Wipe down the mirror with
+  glass cleaner to remove any splatters or fingerprints. Return the items to their designated places after 
+  decluttering any unnecessary products. Dispose of empty or expired products to maintain tidiness. Lastly, sweep
+   or vacuum the floor to ensure a complete clean bathroom appearance."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning. 
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-23-08.325486
+{
+"headline":"Bathroom Sink and Countertop Cleaning",
+"body":"Remove all items from the countertop and clean the surface with a suitable bathroom cleaner. Scrub the 
+sink to remove soap scum and water spots, rinse with water, and dry with a clean cloth. Clean the mirror with
+ glass cleaner to remove any spots or streaks. Lastly, organize the items neatly when replacing them on the
+  countertop."
+}
+----------------------------------------
+Rating:1;0,5;1;1;0 Extras:Countertop cleaning;Mirror cleaning;soap refilling;Shelve cleaning.
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-23-18.670908
+{
+"headline": "Bathroom Sink and Countertop Clean-Up",
+"body": "Clear the countertop of all toiletries and personal items. Wipe down the sink and countertop with a
+ suitable bathroom cleaner to remove soap scum and toothpaste residue. Clean the mirror to remove any watermarks
+  or fingerprints. Organize the toiletries and personal items neatly back onto the countertop or store them away 
+  for a decluttered appearance. If present, refill the soap dispenser. Lastly, dust the shelves and ensure all
+   items are orderly."
+}
+----------------------------------------
+Rating:1;0,5;1;0;1 Extras:Mirror cleaning;tidying up.
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-23-27.780993
+{
+"headline": "Bathroom Sink and Countertop Cleaning",
+"body": "Clear off and clean the countertop, sink, and mirror. Organize toiletries, wipe down the sink and faucet
+ to remove any soap scum and toothpaste residue. Clean the mirror to remove any marks or stains. Ensure the 
+ storage area under the sink is tidy and organized."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Replacing towels;Vanity cleaning;Floor sweeping.
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-23-39.044842
+{
+"headline": "Bathroom Sink and Surrounding Area Cleaning",
+"body": "Remove all personal items from the sink area for cleaning. Clean the sink basin with an appropriate 
+bathroom cleaner, scrubbing to remove any soap scum or grime. Wipe the mirror to remove any water spots or 
+fingerprints. Organize personal care products on the shelves, disposing of any empty or unnecessary items. 
+Clean and disinfect the handles and faucet. Straighten towels and replace if necessary. Ensure the vanity's
+ surface and drawers are wiped down and organized. Sweep and mop the floor, focusing on the area around the sink."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Trash disposal;soap refilling.
+Number 11 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-23-48.061192
+{
+"headline": "Bathroom Sink Cleanup",
+"body": "Clear the sink counter of all items, wipe down the sink counter and faucet with a suitable cleaner to
+ remove any stains or soap residue. Clean the mirror to remove any water spots or fingerprints. Organize personal
+  care items neatly in a storage area or on shelving. Empty the trash bin if necessary and replenish hand soap or
+   other supplies as needed."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Countertop cleaning;Cabinet cleaning.
+Number 12 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-23-58.302006
+{
+"headline": "Bathroom Sink and Counter Cleaning",
+"body": "Clear off countertop items and organize them. Scrub the sink with a bathroom cleaner to remove soap scum
+ and stains. Clean the mirror with a glass cleaner to ensure a streak-free shine. Wipe down the counter, faucet,
+  and handles with an all-purpose cleaner. Ensure the cabinet fronts are cleaned with a damp cloth. Replace items
+   neatly on the countertop, discarding any empty or unused products."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Countertop cleaning;Mirror cleaning;Cabinet cleaning.
+Number 13 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-24-12.537410
+De-clutter and Clean Bathroom Sink Area
+
+To ensure the bathroom sink area is thoroughly cleaned and organized, please attend to the following tasks:
+
+1. Clear all personal care products from the sink countertop and shelves, wiping down each item with a cloth to remove dust or residue before setting aside.
+2. With a disinfectant cleaner, scrub the sink and countertop, ensuring to remove any soap scum, stains, or debris buildup.
+3. Clean the faucet with a suitable cleaner, polish to a shine to remove water spots and fingerprints.
+4. Wipe down the mirror with a glass cleaner to eliminate any splatters and ensure a streak-free finish.
+5. Organize personal care items and discard any empty containers or unnecessary items.
+6. Lastly, clean the exterior and interior of the cabinets and drawers, using appropriate wood or laminate cleaner if necessary.
+
+{headline: De-clutter and Clean Bathroom Sink Area, body: Clear all personal care products from the sink countertop and shelves, wiping down each item before setting aside. Scrub the sink and countertop with a disinfectant cleaner. Clean the faucet and polish to remove water spots. Wipe down the mirror with a glass cleaner for a streak-free finish. Organize personal care items and discard any empty or unnecessary items. Clean the exterior and interior of the cabinets and drawers, using a suitable cleaner for the surface type.}
+----------------------------------------
+Rating:1;1;1;0;1 Extras:Mirror cleaning;tidying up.
+Number 14 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-24-17.593457
+{
+"headline": "Bathroom Sink and Surrounding Area Cleaning",
+"body": "Organize personal care items and clear the sink area. Clean the sink basin, faucet, and counter. Wipe 
+down the mirror, and organize or dispose of any unnecessary items on the shelving. Ensure the area is tidy and 
+hygienic."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Shelve cleaning;Mirror cleaning;Floor sweeping. 
+Number 15 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-24-30.156860
+{
+"headline": "Bathroom Sink and Surrounding Area Cleanup",
+"body": "Firstly, clear all products from the sink area and wipe down the shelves with a damp cloth, ensuring to
+ remove any residue or dust. Clean the sink basin with a suitable bathroom cleaner, scrub away any soap scum or 
+ stains, and rinse thoroughly. The faucet should be polished with a microfiber cloth and cleanser to remove water 
+ spots and fingerprints. The mirrored cabinet should be cleaned with glass cleaner to clear any smudges or 
+ watermarks. Organize and return the products, discarding any empty containers or items not in use. Sweep or
+  vacuum and mop the floor, especially around the base of the sink and bathtub, to ensure a complete clean-up.
+   Don't forget to also clean the exterior surfaces of the drawers and handles with an appropriate disinfectant."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Cabinet cleaning. 
+Number 16 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-24-39.570890
+{headline: "Bathroom Sink and Countertop Cleaning", body: "Clear and clean the sink, declutter the countertop, 
+organize the toiletries, clean the mirror, and wipe down the surrounding area. Begin by removing all items from
+ the countertop and sink area. Clean the sink with a suitable bathroom cleaner to remove any soap scum or stains. 
+ Sanitize the countertop and wipe down all surfaces, including the faucet and handles. Organize the toiletries,
+  discarding any empty containers and neatly arranging the remaining items. Use glass cleaner to remove any spots
+   from the mirror. Lastly, ensure to clean the exterior of the cabinet doors and the handles."}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;Cabinet cleaning.
+Number 17 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-24-48.981882
+{headline: "Bathroom Sink and Countertop Cleaning", body: "Start by removing all personal items from the sink and
+ countertop, including toiletries and containers. Wipe down the mirror to clear off any spots and streaks. Clean 
+ the sink basin with a suitable bathroom cleaner to remove soap scum and toothpaste residue. Rinse thoroughly and
+  dry with a clean cloth. Organize the personal items, decluttering as necessary, and return them to their proper 
+  places. Lastly, wipe down the exterior of the cabinet, handles, and countertop to ensure a polished finish."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Cabinet cleaning.
+Number 18 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-24-58.314699
+{
+  "headline": "Bathroom Sink and Counter Cleanup",
+  "body": "Clear the counter and sink area of toiletries and personal items. Wipe down the sink, faucet, and 
+  counter with a suitable bathroom cleaner to remove soap scum and water spots. Clean the mirror to remove any 
+  splashes or fingerprints. Tidy the items on the shelves, ensuring they are organized and dust-free. Lastly, 
+  wipe down the exterior of the cabinets and the handles for a polished finish."
+}
+----------------------------------------
+Rating:1;0,5;1;1;1 Extras:Vanity cleaning;Mirror cleaning;wall tile cleaning;Floor sweeping.
+Number 19 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-25-10.498294
+{
+"headline":"Bathroom Sink and Vanity Cleaning",
+"body":"- Clear off all personal items from the sink and vanity area. - Use a suitable bathroom cleaner to scrub
+ the sink, focus on removing any soap residue and water spots. - Clean the faucet and handles with a disinfectant,
+  ensure to shine and remove water spots. - Wipe down the vanity surface, organizing items as they are returned.
+   - Clean the interior and exterior of the vanity drawers, removing any items inside and wiping them out. 
+   - Polish the mirror, ensuring streak-free clarity. - Clean the tiled wall area around the sink if there are any
+    visible water stains or splashes. - Sweep or vacuum the floor around the vanity and then mop for a finishing 
+    touch."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Countertop cleaning;Cabinet cleaning;Floor sweeping;Mirror cleaning.
+Number 20 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-25-18.482900
+{headline: "Sink and Vanity Area Cleaning", body: "Remove all items from the countertop and shelves for cleaning.
+ Wipe down the sink, faucet, and countertop with a suitable cleaner, ensuring removal of water spots and soap
+  scum. Clean and organize the items on the shelves before placing them back neatly. Wipe down the cabinet fronts
+   and handles. Clean the mirror to remove any streaks or splatters. Finish by cleaning the floor area around the
+    sink and vanity."}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;Cabinet cleaning.
+Number 21 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-25-28.821767
+{
+"headline":"Bathroom Sink and Counter Cleanup",
+"body":"Begin by removing all personal items from the countertop and place them aside. Clean the sink with a
+ gentle cleanser, scrubbing to remove any soap scum or stains. Wipe down the countertops with an appropriate
+  cleaning agent, ensuring to sanitize and leave a streak-free finish. Neatly organize and replace personal items,
+   ensuring the counter remains clutter-free. Clean the mirror to remove any spots or streaks. Lastly, tidy up
+    the cabinet fronts, wiping down handles and surfaces for a polished look."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;tidying up;Replacing towels.
+Number 22 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-25-39.171409
+{
+"headline": "Bathroom Sink and Countertop Cleaning",
+"body": "Clear the sink and countertop of any items such as bottles and personal care products. Clean the sink 
+with a bathroom cleaner, focusing on removing any soap scum or stains. Wipe down the countertop, faucet, and
+ handles with a disinfectant. Ensure the mirror is cleaned with a glass cleaner for streak-free clarity. Organize
+  the items neatly after cleaning, disposing of any empty containers or unnecessary clutter. Tidy the shelves, 
+  making sure they are dust-free and organized. Refold or replace any visible towels to maintain neatness."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Shelve cleaning;wall tile cleaning.
+Number 23 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-25-49.000921
+{headline:"Bathroom Sink and Countertop Cleaning", body:"Clear all personal items from the sink area, including 
+toiletries and containers. Scrub the sink with a non-abrasive cleaner to remove soap scum and limescale, paying 
+extra attention around the faucet. Wipe down the countertop, shelves, and mirror with glass cleaner for a 
+streak-free shine. Organize personal items neatly or store them away in the vanity drawers. Lastly, clean the 
+tiles with a suitable tile cleaner to maintain hygiene and aesthetics."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 24 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-25-58.470752
+{
+"headline": "Bathroom Sink and Vanity Area Cleaning",
+"body": "Clear out any personal items from the sink and vanity surface. Wipe down the sink, faucet, and counter
+ with a suitable cleaner to remove soap scum and water stains. Organize personal care products on the shelves and
+  ensure they are tidy. Clean the mirror to remove any spots or streaks. Lastly, ensure the area around the sink
+   is dry and free of debris."
+}
+----------------------------------------
+Rating:1;0,5;1;0;1 Extras:Mirror cleaning;tidying up;Floor sweeping;Trash disposal.
+Number 25 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-26-09.286114
+{headline: "Bathroom Sink and Vanity Cleaning", body: "Clear off the sink vanity, wiping down all surfaces 
+including the sink, faucet, and countertops. Organize toiletries and personal items, restocking items as 
+necessary. Clean the mirror to remove any spots or streaks. Tidy up the surrounding areas, including the bathtub
+ edge and any shelving. Dispose of any trash or empty product containers. Ensure the bathroom floor is swept and 
+ mopped if necessary."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;tidying up.
+Number 26 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-26-19.244900
+{headline: "Bathroom Sink and Countertop Cleaning", body: "Clear off the countertop, organizing personal care 
+items into designated areas or storage. Clean the sink using a non-abrasive cleaner to remove any stains, soap
+ scum, and debris. Wipe down the faucet and handles with a disinfectant. Clean the mirror to remove any water 
+ spots or fingerprints. Tidy up the surrounding area by arranging products neatly on the shelves and ensuring the
+  area below the sink is organized and dust-free."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Countertop cleaning;Mirror cleaning.
+Number 27 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-26-28.630674
+{
+"headline": "Bathroom Sink and Counter Cleaning",
+"body": "Clear all personal items from the sink and countertop area. Wipe down the sink, faucet, countertop,
+ and mirror with a suitable bathroom cleaner. Organize personal care items and return them neatly to the
+  countertop or store them appropriately. Ensure the area is dry and streak-free to finish."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;Trash disposal.
+Number 28 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-26-38.668866
+{
+"headline": "Bathroom Sink and Countertop Cleaning",
+"body": "Clear the countertop of personal items, wipe down the sink and countertop with an appropriate bathroom 
+cleaner to remove any residue or stains. Clean the mirror to remove water spots and streaks. Organize personal
+ care items back onto the countertop neatly. Dispose of any trash and replace any used towels with fresh ones."
+}
+----------------------------------------
+Rating:1;1;1;1;0,5 Extras:Mirror cleaning;Countertop cleaning.
+Number 29 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-26-49.314352
+{
+"headline": "Bathroom Sink and Counter Cleaning",
+"body": "Clear and clean the sink and countertop area, organize toiletries, and wipe down mirrors and fixtures.
+ Start by removing all items from the sink and countertop. Clean the sink with a suitable bathroom cleaner and 
+ scrub away any soap scum or stains. Wipe down the countertop with a disinfectant, organize the toiletries into 
+ appropriate storage areas, and arrange them neatly. Clean the mirror with a glass cleaner to remove any spots or
+  streaks. Lastly, clean the faucet and other fixtures with a cloth to give them a shine."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Countertop cleaning;Mirror cleaning;Cabinet cleaning.
+Number 30 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-27-00.108657
+{headline: "Bathroom Sink and Countertop Cleaning", body: "Clear off the countertop and remove any items that do
+ not belong in the sink area. Clean and sanitize the sink and countertop, ensuring to remove any soap residue, 
+ toothpaste splatters, and water spots. Organize personal care products on the shelves and ensure the area is dry 
+ and tidy. Wipe down the mirror to remove any streaks or spots. Lastly, check the cabinet fronts and handles for 
+ fingerprints and smudges, cleaning as necessary."}
+----------------------------------------
+Rating:1;0,5;1;1;1 Extras:Mirror cleaning;Cabinet cleaning.
+Number 31 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-27-08.979363
+{
+"headline": "Bathroom Sink and Vanity Cleaning",
+"body": "Clear the sink and countertop of all personal items and toiletries. Wipe down the sink, faucet, and
+ countertop with a suitable bathroom cleaner to remove soap scum and stains. Clean the mirror above the sink to
+  remove any water spots and smudges. Organize and return personal items to their respective places. Lastly, 
+  ensure the exterior of the vanity cabinet is wiped down, including handles for a polished finish."
+}
+----------------------------------------
+Rating:1;1;1;1;0,5 Extras:Mirror cleaning.
+Number 32 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-28-04.594146
+{
+  "headline": "Bathroom Sink Cleaning and Organization",
+  "body": "Begin by clearing the sink area of any toiletries and personal items. 
+  Clean the sink basin with a suitable bathroom cleaner, scrubbing to remove any soap scum or residue. 
+  Wipe down the faucet and handles, ensuring they are free from water spots and fingerprints. 
+  Organize the toiletries, discarding any empty containers and neatly arranging the rest in the storage 
+  area or on the shelves. Clean the mirror with a glass cleaner for a streak-free finish.
+   Lastly, tidy the area to maintain a neat and accessible bathroom sink space."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;Shelve cleaning.
+Number 33 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-28-09.599040
+{
+"headline":"Bathroom Sink and Counter Cleanup",
+"body":"Clear and wipe down the sink and countertop, 
+organizing the personal care items, clean the mirror, and tidy up the items on shelves. 
+Start by removing all items from the sink and countertop, 
+then scrub the sink with a suitable cleaner to remove any soap scum or stains. 
+Wipe down the countertop with a disinfectant. Organize personal care products by grouping similar 
+items together or placing them into organizers if available. Use glass cleaner on the mirror to remove
+ any marks or stains for a streak-free shine. Ensure shelves are dusted and items on them are neatly arranged."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning.
+Number 34 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-28-19.936467
+{headline: "Bathroom Sink and Countertop Cleaning",
+ body: "Clear the countertop of personal items and toiletries. 
+ Wipe down the sink and countertop with an appropriate cleaner to remove any soap scum, 
+ toothpaste residue, or water spots. Clean the mirror to remove any splashes or marks.
+  Neatly organize and replace toiletries on the countertop or in storage as needed."}
+----------------------------------------
+Rating:1;0,5;1;1;1 Extras:Mirror cleaning;Floor sweeping;Cabinet cleaning.
+Number 35 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-28-29.049542
+{
+"headline": "Bathroom Sink and Counter Cleanup",
+"body": "Organize countertop items, wipe down the mirror, clean the sink,
+ tidy cabinet exteriors, and sweep the floor. Begin by decluttering the countertop,
+  categorizing items into those to keep out and those to store away. 
+  Clean and polish the mirror using glass cleaner to remove any spots and streaks. 
+  Next, use a bathroom cleaner to scrub the sink and faucet to a shine,
+   paying special attention to removing soap residue and water spots. 
+   Wipe down the exterior of the cabinets and handles. 
+   Finish by sweeping the floor to remove any debris, ensuring the bathroom is tidy and clean."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 36 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-28-38.676398
+{
+"headline": "Bathroom Sink and Mirror Cleaning",
+"body": "Clear the sink area of any toiletries and personal items. 
+Clean the sink with a suitable bathroom cleaner, focusing on removing any soap residue, 
+stains or water spots. Wipe down the faucet and handles with a disinfectant. 
+Clean the mirror with glass cleaner to remove any spots or streaks. 
+Organize personal items neatly or store them away. 
+Ensure the area around the sink including the countertop is dry and polished."
+}
+----------------------------------------
+Rating:1;0;0,5;0;0,5 Extras:Mirror cleaning.
+Number 37 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-28-46.965032
+{headline: "Bathroom Sink and Counter Cleaning", body: 
+"Clear and sanitize the sink. Wipe down the countertop, clean the mirror, organize toiletries,
+ and tidy up the surrounding area."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Floor sweeping;Cabinet cleaning.
+Number 38 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-28-59.357271
+{headline: "Bathroom Sink and Surrounding Area Cleaning", 
+body: "Begin by wiping down the mirror, ensuring all splatters and smudges are removed. 
+Organize the countertop, removing any unnecessary items and neatly arranging essential toiletries. 
+Scrub the sink with a suitable cleanser to remove soap scum, stains, and any buildup in the drain area. 
+Clean the faucet and handles, polishing them to remove water spots and fingerprints. 
+Wipe down the exterior and interior of the cabinet, ensuring to remove any dust or spilled products. 
+Finally, mop the floor around the sink to complete the cleaning process."}
+----------------------------------------
+Rating:1;1;0.5;0.5;0,5 Extras:Mirror cleaning.
+Number 39 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-29-07.344905
+{
+  "headline": "Bathroom Sink and Counter Clean-Up",
+  "body": "Clear and wipe down the sink and counter area, 
+  organize the toiletries, clean the mirror, and dispose of any trash present. 
+  Ensure the faucet and handles are polished and free of water spots."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Restock;Floor sweeping.
+Number 40 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-29-18.997818
+{
+"headline":"Bathroom Sink and Vanity Cleaning",
+"body":"Begin by decluttering the sink area and vanity surfaces, removing any personal items.
+ Wipe down the mirror with a glass cleaner for a streak-free shine.
+ Clean the sink and countertop with an appropriate bathroom cleaner to remove soap scum and water spots.
+ Sanitize the sink handles and faucet. Tidy up the vanity drawers and organize the items inside them. 
+ If present, restock any bathroom essentials like soap or hand towels.
+ Finish by sweeping and mopping the floor around the sink and vanity area."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;Cabinet cleaning.
+Number 41 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-29-28.753688
+{
+  "headline": "Bathroom Sink and Counter Clean-Up",
+  "body": "Clear the sink and counter area of any toiletries and personal items. 
+  Disinfect and scrub the sink to remove any residue or buildup. 
+  Wipe down the counter, ensuring it is free from water stains and spills. 
+  Organize and replace the items neatly, discarding any empty or unwanted products. 
+  Clean the mirror to remove any spots or smudges. 
+  Lastly, check the cabinet fronts for fingerprints or splashes and clean accordingly for a polished finish."
+}
+----------------------------------------
+Rating:1;1;0,5;0,5;0,5 Extras:Mirror cleaning;Floor sweeping.
+Number 42 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-29-38.271173
+{
+"headline": "Bathroom Sink and Countertop Cleaning",
+"body": "Clear the sink and countertop of personal items, 
+disinfect surfaces including the sink, faucet, and handles. 
+Wipe mirrors, straighten towels, and reorganize items neatly. 
+Dispose of any trash and replace any used towels with fresh ones. 
+Finally, sweep and mop the floor for a complete clean."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;Vanity cleaning.
+Number 43 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-29-54.965304
+{headline: "Bathroom Sink and Vanity Cleaning", body: 
+"Begin by decluttering the sink area and wiping down the mirror to remove any spots or streaks. 
+Sanitize the sink and countertops, using an appropriate bathroom cleaner and scrubbing away any residue or buildup.
+ Organize the items on the shelves and inside the vanity, discarding any empty or unnecessary containers. 
+ Finally, clean the exterior of the vanity, including the handles, with a disinfectant to ensure all surfaces 
+ are spotless."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 44 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-29-59.167835
+{
+"headline": "Bathroom Sink Cleaning and Organization",
+"body": "Clear off and clean the bathroom sink and countertop area. 
+Remove all items from the sink area including toiletries and cleaning products. 
+Wipe down the sink, faucet, and countertop with a suitable cleaner to remove grime and soap residue. 
+Organize toiletries back onto the shelves neatly. Ensure the mirror above the sink is cleaned and streak-free. 
+Dispose of any trash or empty product containers. Tidy the items stored around the bathtub, 
+and check that the floor is clean and free from debris."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;tidying up.
+Number 45 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-30-09.098594
+{
+"headline": "Bathroom Sink and Countertop Cleaning",
+"body": "Clear off personal items from the sink and countertop area including any toiletries and products. 
+Wipe down the sink, faucet, and countertop with a suitable bathroom cleaner to remove any grime and water spots. 
+Clean and organize the items on the shelving above the sink. 
+Ensure the mirror is free from smudges and spots by using a glass cleaner. 
+Tidy up the area under the sink if visible and organize the items inside if necessary."
+}
+----------------------------------------
+Rating:1;1;1;1;0,5 Extras:Mirror cleaning;Floor sweeping.
+Number 46 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-30-19.850292
+{headline: "Bathroom Sink and Counter Cleaning", body: 
+"Remove all items from the sink and counter area. 
+Clean the sink basin with a non-abrasive cleaner, paying special attention to any stains or soap scum. 
+Wipe down the faucet and handles with a disinfectant. Clean the counter surface with an appropriate cleaner 
+and dry with a microfiber cloth. Organize and replace items neatly on the counter, 
+discarding any unnecessary items. Clean the mirror with glass cleaner to remove any spots or streaks. 
+Lastly, sweep or vacuum the floor and mop if necessary."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Shelve cleaning;Floor sweeping.
+Number 47 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-30-31.067250
+{headline: "Bathroom Sink and Vanity Cleaning", body: 
+"Clear the sink and vanity area of any personal items, toiletries, and cleaning products. 
+Wipe down the sink, faucet, and countertop with a gentle cleanser. 
+Clean the mirror with glass cleaner for a streak-free finish. 
+Tidy up the shelves by organizing items neatly or removing unnecessary clutter. 
+Ensure the cabinet fronts are wiped down, and the handles are disinfected. 
+Lastly, sweep or mop the floor around the vanity to complete the task."}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;Countertop cleaning.
+Number 48 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-30-40.034892
+{
+"headline": "Bathroom Sink and Countertop Cleaning",
+"body": "Clear the sink and countertop of all items, including toiletries and bottles. 
+Scrub the sink using a bathroom cleaner to remove soap scum and limescale, 
+then rinse thoroughly with water. Wipe down the countertop with a disinfectant
+cleaner to remove any residue and ensure it's hygienic. Clean the mirror to remove any water marks or fingerprints.
+Lastly, organize the items neatly back onto the countertop or in the appropriate storage area."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning.
+Number 49 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-30-49.760435
+{
+"headline":"Bathroom Sink and Counter Clean-Up",
+"body":"Remove all items from the sink and countertop. 
+Wash the sink with a gentle cleanser and scrub out any soap scum or stains. 
+Wipe down the countertop with an appropriate cleaning agent to remove any residue or spills. 
+Clean the mirror with glass cleaner to remove water spots and fingerprints. 
+Replace the items neatly, discarding any empty or unnecessary containers. Lastly, take a moment to tidy the surrounding areas, including the bath edge and the storage shelf, ensuring that all products are organized and the space is clutter-free."
+}
+----------------------------------------
+Rating:1;0,5;0,5;1;0 Extras:Mirror cleaning;Bathtub cleaning;Floor sweeping.
+Number 50 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-31-00.003951
+{
+  "headline": "Bathroom Sink and Counter Cleaning",
+  "body": "Clear off the countertop, remove items from the sink area, and wipe down
+   all surfaces with an appropriate cleaner. Ensure the mirror is cleaned of any spots or smudges.
+   Organize items neatly after cleaning. The bathtub should be checked for any residues and cleaned if necessary.
+   Lastly, the floor should be swept and mopped to complete the task."
+}
+----------------------------------------
+Rating:1;0,5;1;1;1 Extras:Mirror cleaning;Cabinet cleaning;Countertop cleaning.
+Number 51 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-31-10.454844
+{
+"headline": "Bathroom Sink and Countertop Cleaning",
+"body": "Clear off all items from the sink and countertop area. 
+Clean the sink with a suitable bathroom cleaner, scrubbing to remove any grime or soap scum. 
+Wipe down the faucet and handles with a disinfectant. 
+Clean the mirror with a glass cleaner to remove any spots or fingerprints. 
+Organize and return items to their designated places on the countertop, 
+ensuring they are clean and tidy. Wipe down the exterior of the cabinet doors, 
+paying special attention to the handles. Ensure the countertop is dry and clear of any cleaning 
+residue before replacing items."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Tidying up;Floor sweeping.
+Number 52 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-31-19.668152
+{
+"headline": "Bathroom Sink and Counter Cleaning",
+"body": "Clear off the countertop, removing all personal items and toiletries. Use a bathroom cleaner or a 
+vinegar-water solution to scrub the sink and countertop. Wipe down the mirror with a glass cleaner for a
+ streak-free finish. Clean the faucet and handles with a disinfectant. Ensure the area underneath the sink is
+  tidied up, placing items back neatly after cleaning. Lastly, mop the floor around the sink area to complete
+   the task."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Shelve cleaning.
+Number 53 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-31-30.003490
+{
+  "headline": "Bathroom Sink and Vanity Cleaning",
+  "body": "Clear and wipe down the sink and vanity surfaces, organize toiletries, clean mirror, and tidy shelves.
+   Specifically, remove all items from the sink area, use a suitable cleaner for the sink and counter, ensuring 
+   any soap scum and stains are removed. Thoroughly clean the faucet and handles. Organize toiletries back neatly,
+    prioritize frequently used items for easy access. Clean and polish the mirror for a streak-free finish. 
+    Finally, neatly arrange items on the shelves, ensuring they are dust-free and orderly."
+}
+----------------------------------------
+Rating:1;1;1;1;0,5 Extras:Mirror cleaning;Trash disposal;Floor sweeping.
+Number 54 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-31-39.832500
+{
+"headline": "Bathroom Sink and Vanity Cleaning",
+"body": "Declutter the sink area by removing all personal care products and placing them aside. Clean the mirror 
+with a streak-free glass cleaner. Wipe down the sink and countertop with a disinfectant cleaner to remove any 
+stains, soap scum, or water spots. Ensure the faucet and handles are polished. Organize and replace the personal 
+care products neatly. Empty the trash can if it's present and replace the liner. Lastly, sweep and mop the floor
+ to ensure no dirt or hair is left behind."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Tidying up;Mirror cleaning;Shelve cleaning;Trash disposal.
+Number 55 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-31-49.472010
+{
+"headline": "Bathroom Sink Deep Cleaning",
+"body": "Remove and organize toiletries from the sink area. Clean the sink basin with a non-abrasive cleaner and
+ scrub away any soap residue or water stains. Wipe down the faucet and handles with a disinfectant. Clean the 
+ mirror above the sink to remove any splashes or fingerprints. Tidy up the shelving by straightening items and
+  dusting. Finish by taking out the trash and replacing the bag, ensuring the space is left neat and orderly."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Shelve cleaning;Cabinet cleaning.
+Number 56 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-31-59.187117
+{
+"headline": "Bathroom Sink and Countertop Cleaning",
+"body": "Clear the countertop of personal items and toiletries. Clean the sink and faucet with a suitable
+ disinfectant, ensuring removal of soap scum and water spots. Wipe down the mirror to remove any splashes and 
+ stains. Tidy the items on the shelves by straightening or reorganizing them. Lastly, clean the exterior of the 
+ cabinet doors, wiping away any fingerprints or smudges."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Cabinet cleaning;Bathtub cleaning;Mirror cleaning.
+Number 57 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-32-09.736383
+{headline: "Bathroom Sink and Surrounding Area Clean-up", body: "Clear off and wipe down the sink countertop.
+ Remove any hair, dust, or residue inside the sink and thoroughly clean with a non-abrasive cleaner. Wipe the
+  mirror to remove any spots or streaks. Organize toiletries and personal care products on the shelves, ensuring
+   they are dusted and neatly arranged. Clean the exterior of the cabinet doors, handles, and the surface beneath
+    the sink if accessible. Lastly, scrub the bathtub edge if necessary, ensuring it's free from soap scum and 
+    stains."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Cabinet cleaning;Countertop cleaning;Floor sweeping;Mirror cleaning.
+Number 58 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-32-20.280115
+{
+"headline": "Bathroom Sink and Counter Deep Cleaning",
+"body": "Clear the sink and counter of any personal items. Wipe down the mirror to remove water spots or stains.
+ Clean the sink with a non-abrasive cleaner to remove any soap scum or toothpaste residue. Scrub the faucet to
+  remove limescale and ensure it shines. Tidy up the items on the shelves and counter, organizing them neatly or
+   discarding any empty containers. Wipe down the exterior of the cabinet doors to remove fingerprints and water
+    marks. Clean the countertop surface to remove any residue or stains. Finally, mop the floor around the sink 
+    area to leave it clean and dry."
+}
+----------------------------------------
+Rating:1;1;1;1;0,5 Extras:Mirror cleaning;Trash disposal;Floor sweeping.
+Number 59 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-32-30.210811
+{
+"headline": "Bathroom Sink and Countertop Cleaning",
+"body": "Clear off all items from the sink top and surrounding shelving areas. Clean and scrub the sink basin
+ with a suitable bathroom cleaner to remove soap scum and stains. Wipe down the faucet and handles to remove
+  water spots and fingerprints. Organize and return items to their rightful place on the shelf, ensuring they 
+  are cleaned and dusted. Discard any empty containers or unnecessary clutter. Clean the mirror to remove any 
+  watermarks or smudges. Dispose of any trash found on the countertop or shelving. Lastly, sweep and mop the
+   floor around the sink area."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Cabinet cleaning.
+Number 60 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-32-42.189843
+{headline: "Bathroom Sink and Countertop Cleaning", body: "Clear the countertop of all toiletries and personal
+ items, ensuring to handle them carefully and organize them for easy replacement after cleaning. Scrub the sink
+  using an appropriate cleanser to remove soap scum, stains, and any buildup around the faucet or drain. Wipe
+   down the mirror and the faucet to a shine, using a glass cleaner for the mirror and a suitable disinfectant
+    for the faucet to eliminate water spots and fingerprints. Clean the exterior of the cabinets and handles, 
+    using a disinfecting wipe or a damp cloth with mild soap, taking care to not scratch the surfaces. Lastly,
+     replace all items neatly back on the countertop, discarding any empty or unnecessary containers to maintain
+      an orderly appearance. Ensure to carry out the tasks with gentle precision to avoid any damage to personal
+       items and the sink area."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Countertop cleaning;Mirror cleaning;Shelve cleaning;Floor sweeping.
+Number 61 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-32-50.590015
+{
+"headline":"Bathroom Sink and Counter Clean-up",
+"body":"Begin by clearing off all items from the countertop and sink area, ensuring that personal care products 
+are set aside. Clean the sink with a non-abrasive cleaner, paying close attention to the faucet and drain areas 
+to remove soap scum and water spots. Wipe down the countertop with a suitable surface cleaner to remove any stains
+ or residue. Next, clean the mirror with glass cleaner to remove any spots or streaks. Tidy up the shelves by 
+ wiping them down and reorganizing any items that belong there. Finally, sweep and mop the floor around the sink
+  and countertop area to ensure complete cleanliness of the bathroom space."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning.
+Number 62 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-32-59.600545
+{
+"headline": "Bathroom Sink and Countertop Cleaning",
+"body": "Clear off the countertop, removing all items such as bottles and containers. Wipe down the sink and 
+countertop with a suitable bathroom cleaner to remove soap scum and water stains. Clean the mirror to remove any
+ spots or streaks. Also, tidy up the items removed from the countertop, wipe them if necessary, and place them
+  back neatly. Lastly, ensure the area around the faucet is cleaned thoroughly and dried to prevent mold growth."
+}
+----------------------------------------
+Rating:1;0,5;1;1;0 Extras:Mirror cleaning;Trash disposal;Floor sweeping.
+Number 63 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-34-42.922447
+{
+"headline": "Bathroom Sink and Vanity Cleaning",
+"body": "Clear the vanity of all personal items and toiletries. Wipe down the sink and countertop with a suitable
+ bathroom cleaner and a microfiber cloth. Clean the mirror with glass cleaner for a streak-free shine. Organize
+  personal items neatly or store them away to keep the vanity tidy. Empty the trash can if needed and replace the 
+  liner. Sweep or mop the floor around the vanity area to ensure cleanliness."
+}
+----------------------------------------
+Rating:1;0;1;1;1 Extras:Mirror cleaning;Bathtub cleaning;Shelve cleaning;Cabinet cleaning;Trash disposal;Floor sweeping.
+Number 64 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-34-53.071417
+{
+"headline": "Bathroom Sink and Surrounding Area Cleanup",
+"body": "Clear out any personal items from the sink area. Wipe down the sink, faucet, and countertop with a 
+suitable bathroom cleaner. Clean the mirror to remove any water spots or fingerprints. Tidy up the shelves by 
+organizing items or wiping down products. Scrub and rinse the bathtub if necessary. Organize the items inside
+ the cabinet drawers for better accessibility. Dispose of any trash or empty containers. Ensure the floor around 
+ the sink is swept and mopped for a polished finish."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 65 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-35-02.684171
+{headline: "Bathroom Sink and Counter Cleaning", body: "Clear and clean the sink and countertop area. Remove all
+ items from the countertop and wipe down the surface with an appropriate cleaner. Clean the sink with a
+  disinfecting bathroom cleaner, paying special attention to the faucet and handles. Polish the mirror and any
+   glass surfaces. Tidy and replace the items neatly, discarding any empty containers or unnecessary clutter."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Cabinet cleaning.
+Number 66 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-35-13.530699
+{
+"headline": "Bathroom Sink and Counter Cleaning",
+"body": "Remove all items from the sink and counter area for thorough cleaning. Use appropriate bathroom cleaners
+ to scrub the sink, faucet, and counter, ensuring to remove soap scum, toothpaste residue, and water spots. Clean
+  and wipe down all personal items before replacing them in an organized manner. Polish the mirror to remove any 
+  splatters or streaks. Lastly, check the cabinet fronts for fingerprints and smudges, cleaning as necessary, and
+   ensure the area is dry and spotless."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:mirror cleaning.
+Number 67 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-35-22.757312
+{headline: "Bathroom Sink and Counter Cleaning", body: "Clear off the counter around the sink and remove any 
+items that do not belong there. Clean the bathroom sink thoroughly, including the faucet and handles, using a
+ bathroom cleaner and a non-abrasive sponge. Wipe down the counter surfaces to remove any spills, stains or
+  debris. Straighten items on the shelves and ensure all products are neatly organized. Lastly, clean the mirror
+   to remove any water spots or smudges."}
+----------------------------------------
+Rating:1;1;1;0;0,5 Extras:Mirror cleaning;Cabinet cleaning.
+Number 68 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-35-33.299843
+{
+"headline": "Bathroom Sink and Counter Cleaning",
+"body": "Clear and clean the bathroom sink and counter area, including wiping down all surfaces, organizing 
+toiletries, and properly discarding any trash. Ensure mirrors are spotless and the faucet is polished. Tidy the
+ items on the shelves neatly and check inside the drawers for any items that need to be reorganized or removed.
+  Lastly, scrub the sink to remove any soap scum or stains and rinse thoroughly for a sparkling finish."
+}
+----------------------------------------
+Rating:1;1;1;1;0,5 Extras:Mirror cleaning.
+Number 69 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-35-42.617510
+{headline: "Bathroom Sink and Countertop Cleaning", body: "Remove all items from the sink and countertop area,
+ clean the sink basin with a suitable cleanser, wipe down the countertop surface, reorganize the items neatly,
+  and discard any empty or unnecessary containers. Ensure the mirror is cleaned to remove any spots or streaks,
+   and if applicable, tidy up the faucet and handles for a polished finish."}
+----------------------------------------
+Rating:1;1;1;0;0,5 Extras:Mirror cleaning;Cabinet cleaning;soap refilling.
+Number 70 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-35-53.076190
+{
+"headline": "Bathroom Sink and Surrounding Area Cleaning",
+"body": "Clear and clean the sink and countertop area, ensuring removal of any debris or residue. Sanitize the
+ faucet and handles. Organize personal care products and clean the mirror to a streak-free finish. Tidy the 
+ shelves and align items neatly. Wipe down the exterior of the cabinet and drawers. Ensure the area around and
+  beneath the sink is free of dust and hair. Replenish any necessary items such as hand soap."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 71 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-36-03.193557
+{
+"headline": "Sink and Vanity Cleaning",
+"body": "Clear out and clean the sink, tidy up the vanity surfaces, and organize bathroom items. Start by
+ removing all items from the sink and wipe it clean with a bathroom cleaner, pay special attention to the faucet 
+ and drain. Clean and polish the mirror. Neatly arrange the toiletries on the shelves: group similar items
+  together and dispose of any empty containers. Lastly, organize the items on top of and inside the vanity,
+   ensuring they are accessible and the space is used efficiently."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Cabinet cleaning.
+Number 72 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-36-13.649859
+{headline: "Bathroom Sink and Counter Clean-up", body: "Remove any personal items from the sink area, such as 
+bottles and containers. Wipe down the mirror to remove any water spots or stains. Clean the sink basin with a
+ suitable cleanser to remove soap scum and residue, then rinse thoroughly. Organize the items on the shelves,
+  wiping the surfaces beneath them. Sanitize the sink's faucet and handles. Lastly, wipe down the exterior of the
+   cabinet doors, ensuring to remove any dirt or fingerprints."}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;Tidying up;Floor sweeping.
+Number 73 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-36-23.375988
+{
+"headline": "Bathroom Sink and Vanity Cleaning",
+"body": "Clear out any personal items from the sink area and wipe down the sink and countertop with a suitable
+ bathroom cleaner. Clean the mirror with a glass cleaner to remove any smudges or spots. Organize the toiletries 
+ and personal items, and if applicable, sanitize the handles and drawer fronts. Tidy up the area around the sink,
+  and clean the floor if necessary to ensure the entire sink area is neat and hygienic."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 74 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-36-33.212245
+{
+"headline": "Bathroom Sink Cleaning and Organization",
+"body": "Clear the sink area of any personal items and toiletries. Wipe down the sink basin, faucet, and counter
+ with a suitable bathroom cleaner to remove soap scum and water spots. Organize toiletries back neatly, 
+ discarding any empty or unused items. Clean the mirror to remove any splatters or fingerprints. Ensure the area 
+ is dried thoroughly to prevent water damage or mold growth."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Floor sweeping.
+Number 75 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-36-42.739561
+{
+  "headline": "Bathroom Sink and Vanity Cleaning",
+  "body": "Clear off the sink area and vanity, discarding any trash. Wipe down the sink, faucet, and countertop 
+  with a suitable cleaner. Organize personal care items on the shelves and inside the vanity drawers. Clean the
+   mirror to remove water spots and smudges. Ensure the floor area around the vanity is swept and mopped."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;Vanity cleaning.
+Number 76 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-36-53.392016
+{headline: "Bathroom Sink and Vanity Cleaning", body: "Clear and clean the sink, wipe down the vanity surfaces, 
+organize toiletries, and clean the mirror. Begin by removing all items from the sink and vanity areas. Clean the
+ sink with a suitable bathroom cleaner and scrub away any soap residue or stains. Use glass cleaner to clean the
+  mirror, making sure to leave no streaks or spots. Wipe down the vanity surfaces with a disinfectant, including
+   the handles and drawers. Once clean, neatly organize the toiletries back onto the shelves and surfaces."}
+----------------------------------------
+Rating:1;1;1;0;0,5 Extras:Mirror cleaning;Vanity cleaning;Trash disposal.
+Number 77 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-37-02.155971
+{
+"headline": "Bathroom Sink and Vanity Cleanup",
+"body": "Clear and clean the sink area, including wiping down the vanity surface, cleaning the mirror, organizing
+ personal care items, and disposing of any trash. Ensure the drain is clear, and the faucets are polished."
+}
+----------------------------------------
+Rating:1;1;1;0;0 Extras:Mirror cleaning;Disinfecting;Floor sweeping.
+Number 78 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-37-14.087408
+{
+"headline": "Bathroom Sink and Vanity Cleanup",
+"body": "Remove and organize personal items on the sink counter and the shelves above. Clean the mirror to remove 
+any spots or streaks. Wipe down the sink and counter surfaces to remove any residue and stains, ensuring to clean
+ around the faucet as well. Disinfect handles and frequently touched areas. Reorganize items on the counter and
+  shelves neatly, and ensure the inside sink is scrubbed clean of any soap scum or toothpaste residue. Lastly, 
+  sweep and mop the floor around the vanity area to maintain cleanliness."
+}
+----------------------------------------
+Rating:1;1;1;0;0,5 Extras:Vanity cleaning;Floor sweeping.
+Number 79 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-37-22.371140
+{
+  "headline": "Bathroom Sink and Vanity Cleaning",
+  "body": "Clear off and wipe down the sink area, organize items on shelves, clean and polish the faucet, scrub
+   and rinse the sink basin, wipe down the exterior of the vanity including drawers and handles, and mop the 
+   floor around the vanity."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Cabinet cleaning;Cleaning cleaning tools;Countertop cleaning.
+Number 80 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-37-34.970070
+{
+"headline": "Bathroom Sink and Counter Cleaning",
+"body": "Tidy up and clean the bathroom sink and counter area. Remove any items from the sink and counter, such 
+as personal care products, to clear the space. Use a suitable bathroom cleaner to scrub the sink and faucet to
+ remove soap scum, stains, and any build-up. Wipe down the counter, ensuring all spots and spills are cleaned off.
+  Clean the mirror to remove any spots or streaks. Once the cleaning is finished, replace the items neatly on the
+   counter. Also, wipe down the exterior of the cabinet and drawers, and ensure that the handles are cleaned and
+    disinfected. Make sure the cleaning cloths and tools used are rinsed and put away after the task is completed."
+}
+----------------------------------------
+Rating:1;0,5;1;1;0,5 Extras:Mirror cleaning;Shelve cleaning;Vanity cleaning.
+Number 81 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-37-44.490875
+{"headline":"Bathroom Sink and Vanity Cleaning", "body":"Clear all personal items from the sink area, including
+ toiletries and bottles. Clean the sink basin with a non-abrasive cleaner and rinse thoroughly. Wipe down the
+  faucet and handles to remove water spots and grime. Use a glass cleaner on the mirror to remove any smudges or 
+  streaks. Tidy the shelves by organizing the items neatly or removing them temporarily for cleaning. Clean the
+   countertop and the vanity's exterior with a suitable surface cleaner, then dry with a clean cloth to avoid
+    watermarks. Lastly, ensure that the area around the sink, including the countertop, is left dry and 
+    clutter-free."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Shelve cleaning;Trash disposal.
+Number 82 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-37-54.421424
+{
+"headline": "Bathroom Sink and Surrounding Area Cleaning",
+"body": "Start by decluttering the sink area, removing any personal items and placing them aside. Clean the sink
+ basin with a suitable bathroom cleaner, scrubbing to remove any stains or soap residue. Wipe down the faucet and
+  handles with a disinfectant. Next, clean and polish the mirror to remove any water spots or fingerprints. 
+  Organize the items on the shelving properly, wiping the shelves down if necessary. Lastly, tidy the area under
+   the sink, ensuring that the cabinet is organized and wiped clean. Dispose of any trash and replace any items
+    that are out of place."
+}
+----------------------------------------
+Rating:1;1;1;1;0,5 Extras:Trash disposal.
+Number 83 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-38-03.826998
+{
+"headline": "Bathroom Sink and Vanity Cleaning",
+"body": "Clear off personal items and toiletries from the sink and vanity area. Scrub the sink with a suitable
+ bathroom cleaner to remove soap scum and water spots. Wipe down the faucet and handles to a shine. Clean the 
+ mirror above the sink to remove any stains or watermarks. Organize the toiletries and personal items neatly,
+  or store them away if that is preferred. Empty any trash present, and ensure the area around the sink is also
+   wiped down and free of any debris or dirt."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Shelve cleaning.
+Number 84 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-38-12.971165
+{
+"headline": "Bathroom Sink and Counter Clean-Up",
+"body": "Clear and clean the sink and counter surfaces. Remove all items from the counter and use a bathroom 
+cleaner to scrub the sink, including the faucet and handles. Wipe down the counter, shelving, and mirror with
+ a suitable glass cleaner. Organize personal care items neatly or store them appropriately. Ensure the space is 
+ left dry and polished."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Vanity cleaning;Mirror cleaning;Bathtub cleaning;Floor sweeping.
+Number 85 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-38-23.402917
+{
+"headline": "Bathroom Sink and Vanity Cleaning",
+"body": "Clear the sink area of any personal items and toiletries. Wipe down the sink and faucet with a suitable
+ bathroom cleaner to remove limescale and soap scum. Clean the vanity surface and organize items, if needed.
+  Ensure the mirror is streak-free using glass cleaner. The bathtub's visible edge should also be wiped down for
+   any residue. Lastly, the floor should be swept and mopped to maintain cleanliness around the bathroom vanity
+    area."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;Trash disposal;Soap refilling.
+Number 86 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-38-33.543468
+{headline: Bathroom Sink Cleaning and Organization, body: Remove and neatly arrange personal care products from
+ the sink counter. Clean the mirror and remove any spots or stains. Wipe down the sink and counter with a suitable
+  cleaning agent. Reorganize products in a tidy manner. Ensure the area under the sink is clean and items are
+   stored properly. Dispose of any trash or empty containers found during cleaning. Clean and sanitize the hand 
+   soap dispenser.}
+----------------------------------------
+Rating:1;0;1;0;0,5 Extras:Mirror cleaning;Cabinet cleaning;Bathtub cleaning;Trash disposal.
+Number 87 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-38-42.754932
+{
+"headline": "Bathroom Sink and Surrounding Area Cleaning",
+"body": "Organize personal care items and clear sink area before deep-cleaning the sink. Wipe mirror, faucet, and
+ countertop. Also, organize and clean the interior and exterior of the sink cabinet, and clean the bathtub rim.
+  Dispose of any trash and replenish bathroom supplies as needed."
+}
+----------------------------------------
+Rating:1;1;1;1;0,5
+Number 88 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-38-53.410976
+{
+"headline": "Bathroom Sink and Counter Cleaning",
+"body": "Clear off personal items and toiletries from the sink counter. Wipe down the sink and counter surface
+ with an appropriate cleaning agent to remove any soap scum, stains, or residues. Clean the faucet and handles 
+ to a shine. Ensure the sink drain is free from any clogs and debris. Lastly, organize personal items neatly or 
+ store them away in the cabinet."
+}
+----------------------------------------
+Rating:1;0,5;1;1;0,5 Extras:Mirror cleaning;Cabinet cleaning;Countertop cleaning;Floor sweeping;replacing towels.
+Number 89 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-39-04.056059
+{headline: "Bathroom Sink and Surrounding Area Clean-up", body: "Empty and clean the sink to remove any residue
+ or buildup, ensuring the drain is clear. Wipe down the faucet and handles with a disinfectant. Organize personal
+  care items on shelves, discarding any empty containers. Clean and polish the mirror to remove water spots and 
+  streaks. Dust and wipe the exterior of the storage cabinet and handle surfaces. Clean the countertop around the
+   sink, removing any spills or stains. Sweep and mop the floor around the sink area. Ensure the removal of any 
+   trash or used towels, replacing with fresh ones as necessary."}
+----------------------------------------
+Rating:1;1;1;1;0,5 Extras:Mirror cleaning;Wall tile cleaning;Disinfecting.
+Number 90 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-39-13.177773
+{
+"headline": "Bathroom Sink and Surrounding Area Cleanup",
+"body": "Remove all items from the sink area, clean the sink with appropriate cleanser to remove grime and 
+stains, polish the faucet, organize personal care products, wipe down the wall tiles and mirror to eliminate 
+water spots and fingerprints, and ensure the cupboard and handles are sanitized and free of smudges."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Disinfecting.
+Number 91 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-39-24.444390
+{
+  "headline": "Bathroom Sink Clean-up",
+  "body": "Clear off and wipe down the sink area, clean the mirror, organize toiletries, and disinfect surfaces.
+   Start by removing all personal items from around the sink to declutter the space. Use a bathroom cleaner to 
+   scrub the sink and faucet, ensuring to remove any stains, toothpaste residue, or soap scum. Next, clean the
+    mirror with glass cleaner to remove any water spots or fingerprints. Organize the toiletries neatly, perhaps
+     using a caddy or organizer if available. Finally, disinfect all high-touch surfaces such as the faucet
+      handles and countertop."
+}
+----------------------------------------
+Rating:1;1;0;1;0,5 Extras:Mirror cleaning.
+Number 92 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-39-33.751479
+{
+"headline": "Bathroom Sink and Countertop Cleaning",
+"body": "Clear the sink and countertop of all personal items, and wipe down the surfaces including the sink, 
+faucet, and mirror to remove any water spots, soap scum, or residue. Organize and replace items back neatly, 
+ensuring the space looks tidy and hygienic."
+}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Countertop cleaning;Mirror cleaning.
+Number 93 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-39-44.689182
+{
+"headline": "Sink and Bathroom Counter Cleanup",
+"body": "Clear and wipe down the sink and counter area, organize toiletries, and clean the mirror. Start by
+ removing any items from the countertop and sink for an initial declutter. Clean the sink with a suitable 
+ bathroom cleaner to remove stains and buildup, then rinse thoroughly. Wipe down the entire countertop with a
+  disinfectant, ensuring to clean around and under all items. Neatly organize all toiletries, disposing of any
+   empty or unwanted products. Lastly, clean the bathroom mirror with a glass cleaner to remove any spots or
+    streaks, ensuring a clear, streak-free finish. Don't forget to return all items to their designated spots on 
+    the counter for a tidy look."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Countertop cleaning;Trash disposal;Mirror cleaning.
+Number 94 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-39-55.257876
+{headline: "Bathroom Sink and Countertop Cleaning", body: "Remove all personal items and toiletries from around
+ the sink area. Clean the sink basin with a bathroom cleaner and scrub gently to remove soap scum and stains.
+  Wipe the faucet and handles with a disinfectant to remove water spots and fingerprints. Clean the countertop
+   surface, ensuring to wipe down the edges and the area around the sink. Empty the trash bin if present.
+    Organize personal items neatly after cleaning. Finally, clean the mirror to remove any water spots or 
+    smudges, ensuring a streak-free finish."}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Countertop cleaning;Mirror cleaning.
+Number 95 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-40-04.679022
+{
+"headline": "Bathroom Sink and Countertop Cleaning",
+"body": "Clear off the countertop, removing any personal items, bottles, and containers. Clean the sink basin 
+with a suitable bathroom cleaner, ensuring to scrub around the faucet and drain to remove soap scum and build-up.
+ Wipe down the countertop with a disinfectant. Organize personal items neatly or store them away to maintain a 
+ clutter-free space. Clean the mirror to remove any water spots or smudges. Ensure the area around the sink is
+  dry and tidy before completing the task."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Disinfecting.
+Number 96 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-40-14.514644
+{headline: "Bathroom Sink and Counter Cleaning", body: "Clear out any personal items from the sink and counter
+ area. Wipe down the sink, faucet, and counter with a suitable bathroom cleaner to remove soap scum and stains.
+  Organize the items neatly back onto the counter or into the cabinet if storage is available. Clean the mirror
+   to remove any water spots or fingerprints. Lastly, ensure to disinfect the sink and handle areas, especially
+    during times when illness is common or after heavy use."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 97 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-40-24.233784
+{"headline":"Bathroom Sink and Counter Clean-Up", "body":"Begin by removing all personal items from the sink area
+ and placing them aside. Wash and disinfect the sink to remove any stains, soap residue, and buildup. Wipe down
+  the counter, faucet, and handles with a suitable cleaner, ensuring a streak-free finish. Clean and polish the
+   mirror to remove any spots or marks. Lastly, organize the personal items, returning them to their original
+    positions or finding a better arrangement to reduce clutter."}
+----------------------------------------
+Rating:1;1;1;1;0 Extras:Mirror cleaning;Countertop cleaning.
+Number 98 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-40-36.527398
+{
+"headline": "Bathroom Sink and Vanity Cleaning",
+"body": "Clear off and clean the bathroom sink and countertop, organize items, and wipe down the mirror. 
+Firstly, remove all products from the sink and countertop to declutter the space. Clean the sink with a 
+suitable bathroom cleaner, scrubbing to remove any soap scum or stains. Rinse thoroughly. Next, wipe down
+ the countertop with a disinfectant to remove any residue or debris. Organize personal care products neatly
+  on the shelves or inside the cabinet. Clean the mirror with glass cleaner to remove any spots or streaks.
+   Lastly, return the items to their places, ensuring that the space looks tidy and is ready for use."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning;Trash disposal;Replacing towels.
+Number 99 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-40-44.324365
+{
+"headline":"Bathroom Sink and Countertop Cleaning",
+"body":"Clear and clean the sink and countertop area by removing any items on the surface. Wipe down the sink,
+ faucet, and countertop with a suitable bathroom cleaner to remove soap scum and water stains. Organize the
+  items and return them neatly to the countertop or store them appropriately. Clean the mirror to remove any
+   water spots or fingerprints. Dispose of any trash and replace any used towels with clean ones."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 100 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T01-40-53.936976
+{
+"headline": "Bathroom Sink and Countertop Cleaning",
+"body": "Clear the sink and countertop of personal items. Wipe down the mirror, sink, countertop, and faucet
+ with an appropriate cleaner to remove any water spots, stains, or residue. Organize items back neatly on the 
+ shelf and ensure that the area is dry and polished for a clean finish."
+}
+----------------------------------------

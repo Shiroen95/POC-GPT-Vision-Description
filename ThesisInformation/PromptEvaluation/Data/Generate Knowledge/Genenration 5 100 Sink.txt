@@ -1,0 +1,300 @@
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-12-21.803975
+{annotation: sink,cabinet}
+----------------------------------------
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-12-31.565485
+{annotation: sink,cabinet}
+----------------------------------------
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-12-41.535740
+{annotation: sink,cleaning}
+----------------------------------------
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-12-52.056277
+{annotation: sink,organizing}
+----------------------------------------
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-13-01.434325
+{annotation: sink,countertop}
+----------------------------------------
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-13-11.562782
+{annotation: sink,cleaning}
+----------------------------------------
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-13-21.699791
+{annotation: sink,cabinet}
+----------------------------------------
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-13-31.548914
+{annotation: sink,cabinet}
+----------------------------------------
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-13-42.031116
+{annotation: sink,cabinet}
+----------------------------------------
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-13-52.552667
+{annotation: sink,cleanup}
+----------------------------------------
+Number 11 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-14-02.382946
+{annotation: sink,cleaning,organizing,mirror,wiping,countertop,decluttering}
+----------------------------------------
+Number 12 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-14-11.796874
+{annotation: sink,cabinet}
+----------------------------------------
+Number 13 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-14-22.043061
+{annotation: sink,cabinet}
+----------------------------------------
+Number 14 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-14-32.031592
+{annotation: "sink,cleaning"}
+----------------------------------------
+Number 15 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-14-41.977097
+{annotation: sink,cabinet}
+----------------------------------------
+Number 16 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-14-52.085482
+{annotation: sink,cabinet}
+----------------------------------------
+Number 17 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-15-02.901304
+{annotation: bathroom,cleaning,sink,counter,organizing,decluttering,mirror}
+----------------------------------------
+Number 18 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-15-12.586730
+{annotation: sink,cabinet}
+----------------------------------------
+Number 19 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-15-22.900729
+{annotation: sink,cabinet,mirror,faucet,tiles,bathtub,shelves,toiletries,organizing,cleaning}
+----------------------------------------
+Number 20 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-15-32.406335
+{annotation: sink,cabinet}
+----------------------------------------
+Number 21 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-15-42.523959
+{annotation: sink,cabinet}
+----------------------------------------
+Number 22 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-15-52.846594
+{annotation: sink,cleaning}
+----------------------------------------
+Number 23 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-16-03.215139
+{annotation: sink,cabinet,mirror,tiles,bathtub,shelves,toiletries,faucet}
+----------------------------------------
+Number 24 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-16-13.162104
+{annotation: sink,cleaning}
+----------------------------------------
+Number 25 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-16-23.058179
+{annotation: sink,cabinet}
+----------------------------------------
+Number 26 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-16-33.039544
+{annotation: sink,cabinet}
+----------------------------------------
+Number 27 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-16-43.412691
+{annotation: sink,cleaning,disorganization,mirror,faucet}
+----------------------------------------
+Number 28 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-16-53.296820
+{annotation: bathroom,sink,tidying}
+----------------------------------------
+Number 29 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-17-03.175356
+{annotation: sink,cleaning}
+----------------------------------------
+Number 30 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-17-13.204953
+{annotation: sink,cleaning}
+----------------------------------------
+Number 31 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-17-23.635062
+{annotation: bathroom,sink,cleanup}
+----------------------------------------
+Number 32 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-17-33.392544
+{annotation: sink,cleaning}
+----------------------------------------
+Number 33 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-17-43.389721
+{annotation: sink,cabinet}
+----------------------------------------
+Number 34 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-17-53.468641
+{annotation: sink,cleaning}
+----------------------------------------
+Number 35 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-18-04.795607
+{annotation: bathroom,cabinet,sink,faucet,mirror,tiles,tub,shelves,toiletries,bottles,spraycan}
+----------------------------------------
+Number 36 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-18-14.977646
+{annotation: sink,cabinet,mirror,faucet,toiletries,towel,organizer}
+----------------------------------------
+Number 37 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-18-24.657092
+{annotation: sink,cabinet,mirror,tub,faucet,toiletries,tiles}
+----------------------------------------
+Number 38 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-18-34.357187
+{annotation: sink,cleaning}
+----------------------------------------
+Number 39 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-18-44.441051
+{annotation: sink,cleaning}
+----------------------------------------
+Number 40 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-18-54.480380
+{annotation: sink,cleaning}
+----------------------------------------
+Number 41 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-19-04.504559
+{annotation: sink,cleaning}
+----------------------------------------
+Number 42 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-19-14.582383
+{annotation: sink,cabinet}
+----------------------------------------
+Number 43 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-19-24.710734
+{annotation: sink,cleanup}
+----------------------------------------
+Number 44 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-19-34.754099
+{annotation: sink,cleaning}
+----------------------------------------
+Number 45 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-19-44.752664
+{annotation: sink,cabinet}
+----------------------------------------
+Number 46 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-19-55.030667
+{annotation: sink,cleaning,clutter,tidying,organizing}
+----------------------------------------
+Number 47 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-20-04.809925
+{annotation: sink,cleaning}
+----------------------------------------
+Number 48 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-20-14.997542
+{annotation: sink,cleaning}
+----------------------------------------
+Number 49 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-20-26.298472
+{annotation: "sink,organizing"}
+----------------------------------------
+Number 50 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-20-35.474893
+{annotation: sink,cleaning,tidying,decluttering,organizing}
+----------------------------------------
+Number 51 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-20-45.494895
+{annotation: sink,cabinet,mirror,faucet,tiles,bathtub,organizing,cleaning}
+----------------------------------------
+Number 52 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-20-55.073279
+{annotation: sink,cabinet}
+----------------------------------------
+Number 53 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-21-05.379973
+{annotation: sink,cabinet}
+----------------------------------------
+Number 54 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-21-15.306666
+{annotation: sink,cabinet}
+----------------------------------------
+Number 55 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-21-25.358996
+{annotation: sink,cleaning}
+----------------------------------------
+Number 56 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-21-35.358750
+{annotation: sink,cleaning}
+----------------------------------------
+Number 57 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-21-45.343848
+{annotation: sink,cleaning}
+----------------------------------------
+Number 58 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-21-55.703838
+{annotation: bathroom,sink,cleaning,decluttering}
+----------------------------------------
+Number 59 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-22-05.593465
+{annotation: sink,decluttering}
+----------------------------------------
+Number 60 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-22-16.262219
+{annotation: sink,cleaning}
+----------------------------------------
+Number 61 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-23-12.104936
+{annotation: sink,cleaning}
+----------------------------------------
+Number 62 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-34-18.244783
+{annotation: sink,cleaning}
+----------------------------------------
+Number 63 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-34-50.356733
+{annotation: sink,cleaning}
+----------------------------------------
+Number 64 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-35-00.492823
+{annotation: sink,cabinet}
+----------------------------------------
+Number 65 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-35-10.591005
+{annotation: sink,cleaning,decluttering,mirror,wiping}
+----------------------------------------
+Number 66 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-35-20.736474
+{annotation: sink,cabinet,mirror,faucet,tiles,bathtub}
+----------------------------------------
+Number 67 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-35-30.434024
+{annotation: sink,cleaning}
+----------------------------------------
+Number 68 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-35-40.560076
+{annotation: sink,cleanup}
+----------------------------------------
+Number 69 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-35-50.906839
+{annotation: sink,cabinet,mirror,tub,faucet,organizing,cleaning,tidying}
+----------------------------------------
+Number 70 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-36-00.747296
+{annotation: sink,cleaning}
+----------------------------------------
+Number 71 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-36-13.676495
+{annotation: bathroom,cleaning}
+----------------------------------------
+Number 72 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-36-21.135820
+{annotation: Bathroom,Sink,Cabinet,Clutter,Organizing,Cleaning}
+----------------------------------------
+Number 73 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-36-31.005676
+{annotation: sink,cabinet}
+----------------------------------------
+Number 74 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-36-41.035617
+{annotation: sink,cleaning}
+----------------------------------------
+Number 75 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-36-51.512270
+{annotation: faucet,sink}
+----------------------------------------
+Number 76 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-37-01.857267
+{annotation: sink,cleaning}
+----------------------------------------
+Number 77 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-37-11.927689
+{annotation: sink,cleaning}
+----------------------------------------
+Number 78 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-37-22.236718
+{annotation: sink,clean}
+----------------------------------------
+Number 79 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-37-32.484063
+{annotation: sink,cleaning}
+----------------------------------------
+Number 80 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-37-42.532124
+{annotation: sink,cleaning,mirror,wiping,countertop,organizing}
+----------------------------------------
+Number 81 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-37-52.178617
+{annotation: sink,cleaning}
+----------------------------------------
+Number 82 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-38-02.314144
+{annotation: sink,cleaning}
+----------------------------------------
+Number 83 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-38-12.348993
+{annotation: sink,cabinet}
+----------------------------------------
+Number 84 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-38-23.900952
+{annotation: sink,cabinet,tile,bathtub,mirror,faucet,counter}
+----------------------------------------
+Number 85 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-38-32.393965
+{annotation: sink,cabinet}
+----------------------------------------
+Number 86 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-38-42.441471
+{annotation: sink,cleaning}
+----------------------------------------
+Number 87 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-38-52.741191
+{annotation: sink,cleaning,toothpaste,dispenser,counter,mirror,clutter}
+----------------------------------------
+Number 88 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-39-02.518132
+{annotation: sink,cabinet}
+----------------------------------------
+Number 89 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-39-12.551723
+{annotation: sink,cabinet}
+----------------------------------------
+Number 90 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-39-23.183672
+{annotation: sink,cleaning}
+----------------------------------------
+Number 91 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-39-33.466663
+{annotation: sink,cleaning}
+----------------------------------------
+Number 92 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-39-43.685291
+{annotation: sink,faucet,mirror,cabinet,bathtub,tiles}
+----------------------------------------
+Number 93 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-39-53.720248
+{annotation: sink,cleaning,faucet,decluttering,mirror,wiping,tiles,spray-bottle}
+----------------------------------------
+Number 94 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-40-03.305321
+{annotation: sink,cabinet}
+----------------------------------------
+Number 95 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-40-13.390179
+{annotation: sink,cleaning}
+----------------------------------------
+Number 96 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-40-23.549185
+{annotation: sink,cabinet}
+----------------------------------------
+Number 97 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-40-35.007425
+{annotation: sink,cabinet,mirror,faucet,tiles,bathtub,shelf,toiletries}
+----------------------------------------
+Number 98 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-40-43.655297
+{annotation: sink,cabinet}
+----------------------------------------
+Number 99 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-40-53.588936
+{annotation: sink,cleaning}
+----------------------------------------
+Number 100 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-28T19-41-03.639546
+{annotation: sink,cleaning}
+----------------------------------------

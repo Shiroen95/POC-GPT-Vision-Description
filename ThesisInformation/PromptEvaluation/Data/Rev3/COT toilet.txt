@@ -1,0 +1,94 @@
+Rating:0;0;0;0;1;1;0 Extras:Floor cleaning;Wall cleaning;Clean mat;Cleaning scale;Restock supplies.
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT toilet/2024-07-01T01-25-17.685017
+{headline: "Bathroom Cleaning and Sanitization", body: "Thoroughly scrub and disinfect the toilet bowl, 
+seat, lid, and outer surfaces, including the flush handle. Clean and polish the floor tiles, especially
+ around the toilet base. Wipe down any visible stains on the walls. Remove and launder the bathroom mat
+  and replace it with a fresh one. Ensure the scale is wiped clean and properly positioned. Dispose of 
+  any trash and replenish bathroom supplies if needed."}
+----------------------------------------
+Rating:0;0,5;0;0;1;1;0 Extras:Gloves;Cleaning scale;Floor cleaning;Cleaning mat;Trash disposal;Ventilation.
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT toilet/2024-07-01T01-25-30.414410
+{headline: "Bathroom Cleaning and Sanitization", body: "Begin by donning protective gloves. Clean the
+ inside of the toilet bowl with a disinfectant cleaner, scrubbing thoroughly with a toilet brush. 
+ Wipe down the outer surfaces of the toilet, including the seat, lid, and base, with disinfecting wipes or
+  a cloth soaked in disinfectant. Clean and disinfect the bathroom scale and place it back in position.
+   Mop the floor, ensuring to clean around and behind the toilet. Replace the bath mat with a fresh one 
+   if needed. Finally, remove any trash, replace the trash bag, and ensure the area is well ventilated 
+   to dry."}
+----------------------------------------
+Rating:0;0;0;0;1;1;0 Extras:Cleaning mat;Floor cleaning;Ventilation;Decluttering.
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT toilet/2024-07-01T01-25-48.344166
+{headline: "Bathroom Cleaning and Disinfection", body: "Start by decluttering any personal items from the
+ floor and cleaning surfaces. Thoroughly scrub and disinfect the toilet bowl, seat, lid, and surrounding
+  areas. Clean the floor mat and replace if necessary. Wash and disinfect the floor, paying close
+   attention to corners and the base of the toilet. Ensure the room is well-ventilated throughout the
+    process."}
+----------------------------------------
+Rating:0;1;1;1;0,5;1;1 Extras:Cleaning mat;Floor cleaning.
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT toilet/2024-07-01T01-25-49.346094
+{headline: "Bathroom Deep Clean", body: "Begin by applying a disinfectant spray or cleaner to the inside
+ of the toilet bowl, under the rim, and on the seat surfaces. Allow it to sit for a couple of minutes to
+  break down stains and kill germs. In the meantime, wipe down the external parts of the toilet, 
+  including the flush handle, with a disinfectant wipe. After waiting, scrub the interior of the bowl
+   with a toilet brush, focusing on any visible stains and under the rim. Flush the toilet to rinse. 
+   Clean the bathroom floor mat and scale by removing them and washing as per their material instructions.
+    Finally, mop the floor around the toilet and the rest of the bathroom, paying extra attention to the
+     areas around the toilet base."}
+----------------------------------------
+Rating:0;1;0;0;1;1;0 Extras:Floor cleaning;Cleaning mat;Cleaning scale.
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT toilet/2024-07-01T01-25-58.186889
+{headline:"Bathroom Cleaning and Sanitization", body:"Begin by scrubbing the toilet bowl with a toilet 
+brush and a disinfectant cleaner, ensuring thorough cleaning under the rim and around the bowl's edges.
+ Wipe down the toilet seat, lid, and exterior with disinfectant wipes or spray, including the toilet's 
+ base and behind it. Clean and polish the flush handle. Mop the floor, focusing on the area around the 
+ toilet, and wash any rugs or mats. Lastly, clean the scale next to the toilet and remove any visible
+  stains or dust."}
+----------------------------------------
+Rating:0;0,5;0;0;1;1;0 Extras:Floor cleaning;Wall cleaning;Cleaning mat.
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT toilet/2024-07-01T01-26-08.942259
+{headline: "Bathroom Cleaning and Sanitization", body: "Begin with removing any rugs and bathroom scales
+ for washing and to clear the space. Scrub the toilet bowl inside with a toilet brush and a disinfecting
+  cleaner, ensuring to get under the rim. Wipe down the toilet seat, lid, and exterior with disinfectant
+   wipes, paying extra attention to handles and high-touch areas. Clean and disinfect the floor around the
+    toilet, making sure to reach into corners and behind the toilet. Clean the tiles and grout with a
+     suitable bathroom cleaner and rinse thoroughly. Once everything is clean, replace the rugs and
+      bathroom scales after they have been washed and dried."}
+----------------------------------------
+Rating:0;0;0;0;1;1;0 Extras:Tidying up;Wall cleaning;Wiping surfcaes;Floor cleaning;Ventilation;Restock supplies.
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT toilet/2024-07-01T01-26-19.185932
+{headline: "Bathroom Cleaning and Sanitization", body: "Begin by tidying up the space, removing any items
+ on the floor, such as the scale and bath mat. Clean and disinfect the toilet inside and out, paying 
+ attention to the seat, lid, and handle. Scrub the tile walls with a suitable bathroom cleaner to remove
+  any soap scum or mildew. Wipe down any surfaces, such as the shelf above the toilet, and mop the floor
+   with a disinfectant. Ensure that the room is well-ventilated throughout the cleaning process and 
+   replenish any necessary supplies, like toilet paper, if needed."}
+----------------------------------------
+Rating:0;0,5;0;0;1;1;0 Extras:Gloves;Floor cleaning;Cleaning scale;Restock supplies.
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT toilet/2024-07-01T01-26-29.181481
+{headline: "Bathroom Cleanup and Sanitation", body: "Begin by donning gloves for hygiene. Clean the inside
+ of the toilet bowl with a scrub brush and disinfectant cleaner, ensuring to reach under the rim. Wipe
+  down the toilet seat, lid, and exterior with disinfectant wipes or spray. Mop the floor with a 
+  disinfecting floor cleaner, paying special attention to the area around the toilet. Clean the scale on 
+  the bathroom weighing scale and ensure it is dry and clear of dust. Lastly, replace any used towels
+   with fresh ones and restock toilet paper if necessary."}
+----------------------------------------
+Rating:0;0;1;1;1;1;0 Extras:Wiping surfaces;Cleaning mat;Cleaning scale;Wall cleaning.
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT toilet/2024-07-01T01-26-39.685998
+{headline:"Bathroom Cleaning and Sanitation", body:"Begin by applying a disinfectant to the inside of the
+ toilet bowl, allowing it to sit for several minutes. Scrub the bowl thoroughly with a toilet brush and
+  flush to rinse. Clean and sanitize the toilet seat, rim, lid, and outer bowl. Wipe down the toilet 
+  paper dispenser. Next, mop the floor, paying extra attention to the area around the toilet. Clean the
+   floor mat and the weighing scale. Lastly, inspect and clean any other surfaces, such as the lower
+    walls or baseboards as needed, to ensure the entire space is hygienic and tidy."}
+----------------------------------------
+Rating:0;0;0;0;1;1;0 Extras:Gloves;Floor sweeping;Wiping surfaces;Cleaning mat;Cleaning scale;Ventilation.
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT toilet/2024-07-01T01-26-50.678384
+{headline: "Bathroom Cleanup and Sanitization", body: "Start by putting on cleaning gloves. Scrub the 
+inside of the toilet bowl using a toilet brush and a disinfecting cleaner, making sure to get under the
+ rim. Wipe down the toilet seat, lid, and exterior with a disinfectant spray and a cloth, paying 
+ attention to the flush handle. Clean and disinfect the floor around the toilet, especially the areas
+  close to the base, using a mop or a cloth with an appropriate floor cleaner. Remove any items on the
+   window sill, wipe down the area, and replace the items neatly. Inspect the bath mat for cleanliness,
+    and if necessary, replace or wash it. Check the scale for dust and wipe it down if needed. Finally,
+     ensure the room has a fresh scent and proper ventilation to dry." }
+----------------------------------------

@@ -1,0 +1,160 @@
+
+Rating:1;1;1;1;1;1;0 Extras:Pre-treating stains;Tidying up.
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot role assignment laundry/2024-07-01T01-02-05.007000
+{"headline":"Operate Washing Machine for Laundry", "body":"Begin by separating laundry into whites and 
+colors to prevent dye transfer. Pre-treat any stains using a suitable stain remover before loading the
+ clothes into the washing machine. Distribute the laundry evenly in the washer to maintain balance during 
+ the cycle.\n\nChoose an appropriate detergent for the load and follow the manufacturer's recommended 
+ amount. Select the correct wash cycle based on the fabric types and care instructions found on the
+  clothing labels. Start the washing machine and make sure to check back once the cycle is complete to
+   transfer clean clothes into the dryer or hang them up to air dry.\n\nWhile the washing machine is 
+   running, tidy up the area around the laundry machines, organize the detergents and cleaning supplies
+    on the shelves, and dispose of any trash. Lastly, ensure that the lid of the septic tank is securely
+     placed to prevent accidents."}
+----------------------------------------
+Rating:1;1;1;1;1;1;0 Extras:Pre-treating stains;Tidying up;Cleaning lint trap;Floor cleaning.
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot role assignment laundry/2024-07-01T01-02-17.067649
+{"headline":"Operating Washing Machine and Organizing Laundry Area",
+"body":"1. Begin by sorting the laundry in the basket according to color and fabric type. Separate whites,
+ colors, and delicates.
+2. Check the labels on clothing for any specific washing instructions. Pre-treat any stains if necessary.
+
+3. Load the sorted laundry into the washing machine without overloading it, to ensure a thorough clean.
+
+4. Add the appropriate amount of laundry detergent, considering the size of the load and the detergent’s
+ concentration.
+5. Choose the correct wash cycle and temperature settings for the load you are washing based on the
+ garment care labels.
+6. Start the washing machine and wait for the cycle to complete before proceeding to drying.
+7. While the washing is in progress, organize the laundry area. Return any detergents, fabric softeners,
+ and stain removers to their designated storage areas.
+8. Ensure that the floor is clear of any spilled detergents or water to prevent slipping hazards.
+9. When the wash cycle ends, transfer the clean laundry to the dryer or hang them up to dry, according to
+ the fabric care instructions.
+10. Clean the lint trap in the dryer before and after use if you're using the dryer for the next batch of
+ laundry."}
+----------------------------------------
+Rating:1;1;1;1;1;1;0 Extras:Cleaning lint filter;Wiping washing machine.
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot role assignment laundry/2024-07-01T01-02-24.893384
+{"headline":"Operate Washing Machine for Laundry", "body":"Ensure the laundry in the basket is sorted
+ by color and fabric type to prevent damage or dye transfer. Inspect each clothing item for stains or 
+ areas needing pretreatment. Add an appropriate amount of detergent in the washing machine’s dispenser.
+  Load the clothes evenly to maintain the washer’s balance during operation. Select the correct wash cycle
+   based on the fabric types within your sorted laundry. When the cycle is complete, transfer the clothes
+    to the dryer or hang them to dry, depending on the care instructions for each garment. If using a
+     dryer, ensure to clean the lint filter for safety and efficiency. Meanwhile, use a damp cloth to
+      wipe down the washing machine's exterior and any spills of detergent or fabric softener to keep
+       the area tidy."}
+----------------------------------------
+Rating:1;1;1;1;1;1;0 Extras:Wiping washing machine;Storing hazardous materials out of childrens reach;Floor sweeping.
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot role assignment laundry/2024-07-01T01-02-38.628449
+{"headline":"Operate Washing Machine and Organize Laundry Area",
+"body":"1. Sort the laundry in the basket by color and fabric type to ensure appropriate wash settings and prevent damage or color bleeding. 
+2. Check the care labels on clothing for specific washing instructions. 
+3. Load the sorted laundry into the washing machine without overstuffing to allow for effective cleaning. 
+4. Add suitable detergent, considering manufacturer's guidelines and fabric type. 
+5. Select the appropriate wash cycle based on the sorted laundry's requirements. 
+6. Start the washing machine and set a timer to return when the cycle is complete. 
+7. While the laundry is washing, organize and wipe down the laundry detergent bottles and the surface area to maintain cleanliness and prevent spills. 
+8. Safely store any hazardous materials out of the reach of children.
+9. After the wash cycle is complete, unload the laundry into the basket for drying, ensuring that items are not left behind in the drum. 
+10. Hang, lay flat, or machine dry the laundry as per the care instructions. 
+11. Clean the washing machine's lint trap, door, and rubber gaskets to keep the machine running efficiently and prevent odors. 
+12. Sweep or mop the floor area if necessary to maintain a clean and safe working environment."}
+----------------------------------------
+Rating:1;1;1;1;1;1;0 Extras:Preventing mildrew.
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot role assignment laundry/2024-07-01T01-02-46.712926
+{"headline":"Operate Washing Machine for Laundry", "body":"1. Sort the laundry in the basket by color
+ and fabric type to prevent colors from bleeding onto lighter clothes and to ensure that all items are
+  washed under suitable settings. \n2. Check the pockets of all garments for any items that may have been
+   left inside. \n3. Place the sorted laundry into the washing machine without overloading it to allow for
+    effective cleaning. \n4. According to the care labels on your clothing and the manufacturer’s
+     recommendations for the machine, select the appropriate laundry detergent and washing cycle.
+      \n5. Start the washing machine and set a timer to remind you to return once the cycle is complete.
+       \n6. Once the washing is done, promptly remove it to prevent any mildew or odors from developing,
+        and consider whether items should be air-dried or can be transferred to a dryer."}
+----------------------------------------
+Rating:1;1;1;1;1;1;0 Extras:Tidying up;Floor sweeping;Wiping washing machine.
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot role assignment laundry/2024-07-01T01-03-00.054798
+{"headline":"Operate Washing Machine and Organize Laundry Area", "body":"Step 1: Sort the Laundry - 
+Begin by sorting the laundry in the basket by color and fabric type to ensure proper washing. Separate
+ lights from darks, delicates from regular items, and heavily soiled garments from lightly soiled ones.
+  \nStep 2: Load the Washing Machine - Open the washing machine door, and place a sorted pile of laundry
+   inside. Do not overload the machine; ensure there's enough space for clothes to move freely. 
+   \nStep 3: Select Detergent and Additives - Choose an appropriate detergent and other laundry 
+   additives such as fabric softener or bleach if required. Follow the instructions on the product labels
+    for the correct amounts. \nStep 4: Set the Washing Cycle - Based on the type of laundry loaded, set 
+    the machine to the correct washing cycle. Use gentle cycles for delicates and stronger cycles for 
+    regular or heavily soiled garments. \nStep 5: Start the Washing Cycle - Close the door, select the
+     temperature setting, and press start. \nStep 6: Organize Laundry Supplies - While the washing machine
+      operates, organize the laundry supplies on the shelves. Ensure that lids on all products are 
+      tightly closed to prevent spills. \nStep 7: Clean the Area - Sweep the floor around the washing
+       machine and remove any lint or debris. Wipe down the exterior of the washing machine and the 
+       dryer, if present, to keep the area tidy. \nStep 8: Prepare for Next Load - Once the cycle is
+        complete, remove the clothes promptly to prevent wrinkling. Fold or hang dry as necessary.
+         Prepare the next batch of laundry or ensure the laundry basket is empty and stored in its
+          designated spot."}
+----------------------------------------
+Rating:1;1;1;1;1;1;0
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot role assignment laundry/2024-07-01T01-03-08.097571
+{"headline":"Operate Washing Machine for Laundry", "body":"Begin by separating the laundry in the basket 
+based on color and fabric type to ensure proper washing care. Whites, colors, and delicate fabrics should
+ be washed separately. Check the care labels on each garment for specific washing instructions.\n\nOnce
+  sorted, load the first batch into the washing machine without overfilling it, to allow clothes to move
+   freely and get cleaned effectively. Measure and add an appropriate amount of detergent according to
+    the load size and the manufacturer's recommendations found on the detergent packaging.\n\nSelect the
+     appropriate wash cycle and temperature settings based on the types of fabrics and the level of
+      soiling. For the visible machine, it would also be important to check the pockets of garments for
+       any items that could be damaged or cause damage during the wash cycle.\n\nClose the washer door
+        securely, and start the machine. While the machine is running, organize the remaining laundry to
+         prepare for the next wash cycle or for drying. After the wash cycle is complete, promptly remove
+          the clothes to prevent wrinkles and odors, and either transfer them to the dryer or hang them
+           up to air dry, depending on the fabric care instructions."}
+----------------------------------------
+Rating:1;1;1;1;1;1;0 
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot role assignment laundry/2024-07-01T01-03-17.655231
+{"headline":"Operate Washing Machine for Laundry", "body":"1. Sort the laundry in the basket by color and
+ fabric type to prevent colors from bleeding and to ensure that all items are washed under appropriate
+  settings. 2. Check the pockets of garments for any items that could be damaged or cause damage during
+   the wash cycle. 3. Open the washing machine door and load the sorted laundry into the machine, taking
+    care not to overload it. 4. Select an appropriate detergent and measure it following the
+     manufacturer's recommendations. 5. Choose the correct wash cycle settings based on the type of
+      laundry being washed. For general guidance, use a regular or normal cycle for cottons and mixed
+       fibers, a delicate cycle for sensitive fabrics, and a heavy-duty cycle for sturdy items like
+        towels or bedding. 6. Close the washing machine door securely and initiate the wash cycle. After
+         the cycle is complete, promptly remove the laundry to prevent wrinkles and transfer it to the 
+         dryer or hang it up to dry, depending on the fabric care instructions."}
+----------------------------------------
+Rating:1;1;1;1;1;1;0 Extras:Cleaning lint trap;Tidying up.
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot role assignment laundry/2024-07-01T01-03-28.322149
+{"headline": "Operate Washing Machine for Laundry",
+ "body": "Begin by separating the laundry in the basket by color and fabric type to ensure the correct 
+ washing process for each item. Whites, colors, and delicate fabrics should be washed separately. Check
+  the care labels on each garment to determine the appropriate wash cycle. Once sorted, load the whites
+   or whichever group you are starting with into the washing machine without overfilling it. Add an 
+   appropriate amount of laundry detergent according to the package instructions, considering the load
+    size and soil level. Close the washing machine door securely. Select the correct wash cycle based on
+     the garments' care labels. If there are heavily soiled items, you may want to choose a prewash or
+      heavy-duty cycle. Start the machine and allow it to run through its cycle. Once the washing is
+       complete, promptly remove the items to reduce wrinkling and either transfer them to the dryer or
+        hang them out to dry, depending on the fabric care instructions. Clean the lint trap if you're
+         using a dryer. Ensure the laundry area is tidy by placing detergent bottles back in their storage
+          area and folding the empty laundry basket."}
+----------------------------------------
+Rating:1;1;1;1;1;1;0 Extras:Cleaning lint trap;Ventilation.
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot role assignment laundry/2024-07-01T01-03-39.536491
+{"headline":"Operate the Washing Machine for Laundry", "body":"To start with the laundry task, first sort
+ the clothes by color and material to ensure proper cleaning and to prevent any color bleeding or damage
+  to delicate fabrics. Separate whites, darks, and colors, and also consider separating heavy items from 
+  lighter ones. Check the care labels on each garment for specific washing instructions.\n\n1. Ensure the
+   washing machine is empty and clean before use.\n2. Load the sorted clothes into the washing machine
+    without overfilling it to allow sufficient movement for effective cleaning.\n3. Add an appropriate
+     amount of detergent, following the guidelines on the detergent's packaging for load size and soil
+      level.\n4. Select the correct wash cycle based on the type of clothes being washed; use gentler 
+      cycles for delicate items and stronger cycles for heavily soiled garments.\n5. Close the washing
+       machine door securely and start the selected cycle.\n6. Once the cycle is complete, remove the 
+       washed clothes promptly to prevent wrinkles and odor, and proceed to drying according to the 
+       fabric care instructions – either using a dryer or air-drying.\n7. After transferring the clothes
+        to the dryer or a drying area, clean the lint trap if using a dryer or ensure proper spacing and
+         ventilation for air-drying."}
+----------------------------------------

@@ -1,0 +1,30 @@
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-20-46.256183
+{annotation: ["sink", "tidying"]}
+----------------------------------------
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-20-55.853893
+{annotation: ["sink", "cleaning"]}
+----------------------------------------
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-21-06.148156
+{annotation: ["sink", "tidying"]}
+----------------------------------------
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-21-16.792300
+{ "annotation": { "sink": "cleaning", "mirror": "wiping" } }
+----------------------------------------
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-21-26.075060
+{annotation: ["sink", "organizing"]}
+----------------------------------------
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-21-37.066295
+{ "annotation": ["sink", "tidying"] }
+----------------------------------------
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-21-46.883840
+{ "annotation": ["Sink", "Cleaning"] }
+----------------------------------------
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-21-57.165098
+{ "annotation": { "sink": "cleaning", "mirror": "wiping" } }
+----------------------------------------
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-22-08.581563
+{annotation: ["sink","cleaning","bathtub","rinsing"]}
+----------------------------------------
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-22-17.053998
+{annotation: ["Sink", "Mirror"]}
+----------------------------------------

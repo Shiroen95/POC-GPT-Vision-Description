@@ -1,0 +1,187 @@
+Rating:1;1;1;1;1;0;0 Extras:Rinsing;Food scraps.
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation dishes/2024-07-01T00-49-11.002239
+{
+"headline": "Load and Operate the Dishwasher",
+"body": "Ensure the dishwasher is properly loaded for efficient cleaning of kitchen dishes. Sub-tasks
+ include: sorting dishes, rinsing if necessary, loading the dishwasher correctly, adding detergent, setting
+  the washing cycle, and starting the dishwasher. To perform these tasks, begin by scraping off any 
+  leftover food bits from the dishes. Rinse dishes that have dried or sticky residue. Place dishes in the
+   designated slots with the soiled surfaces facing the spray arms, ensuring proper spacing for water flow.
+    Cups, mugs, and glassware go on the top rack. Place cutlery in the utensil basket with handles down for
+     better cleaning, except for knives which should be placed handles up for safety. Add the appropriate
+      amount of detergent to the dispenser. Choose the correct washing cycle based on the types of dishes
+       and their soil level. Once loaded and detergent is added, close the dishwasher door securely and
+        start the washing cycle. If the dishwasher contains any clean dishes, remove and store them before
+         completing the above tasks."
+}
+----------------------------------------
+Rating:1;1;1;1;1;1;1 Extras:Rinsing.
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation dishes/2024-07-01T00-49-23.763854
+{
+"headline": "Load and Operate Dishwasher",
+"body": "The main task is to ensure the dishwasher is loaded properly with dirty dishes and operated
+ correctly for cleaning. Sub-tasks include sorting dishes, adding detergent, and setting up the washing
+  cycle.
+
+1. Sorting Dishes: Remove any leftover food from plates, bowls, and utensils, and rinse if necessary to
+ prevent food from clogging the dishwasher's filter. Place dishes and glasses in the dishwasher racks with 
+ space in-between, ensuring that the water jets can reach all the surfaces. Make sure that utensils are
+  placed handle-down in the utensil basket.
+
+2. Checking and Adding Detergent: Ensure there is enough dishwasher detergent in the dispenser. If it is 
+empty or low, fill the dispenser with a suitable dishwasher detergent up to the marked line.
+
+3. Setting Up the Washing Cycle: Choose the appropriate cycle for the load. For normally soiled dishes, a
+ standard cycle will suffice. For heavily soiled pots and pans, a heavier cycle should be used. Close the
+  dishwasher door securely and select the desired cycle.
+
+4. Starting the Dishwasher: After setting up the cycle, press the start button to begin the cleaning
+ process. Ensure you do not interrupt the cycle once it has started unless it's an emergency.
+
+Upon completion of the cycle, unload the dishwasher, starting with the bottom rack to avoid dripping water
+ from the top rack onto clean dishes below. Inspect the dishes for any remaining residue and either set
+  them aside for another cycle or hand-wash them if necessary. Return all clean dishes to their designated
+   storage areas."
+}
+----------------------------------------
+Rating:1;1;1;1;1;1;0,5 Extras:Food scraps.
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation dishes/2024-07-01T00-49-31.341830
+{
+"headline": "Load and Run the Dishwasher",
+"body": "To ensure clean dishes and an orderly kitchen, start by gathering all dirty dishes from around the
+ kitchen. Next, scrape off any leftover food into the trash to prevent clogging the dishwasher's filter.
+  Arrange the dishes in the dishwasher by placing plates, bowls, and larger items on the bottom rack, 
+  ensuring they are spaced apart enough to allow water to reach all surfaces. Glasses, mugs, and less 
+  dirty items should go on the top rack. Utensils should be placed in the cutlery basket, with sharp
+   knives pointing downwards for safety. Check that spinning arms are not obstructed by tall items. Add
+    dishwasher detergent to the dispenser and select the appropriate wash cycle based on the soil level
+     of the dishes. Close the door securely and start the dishwasher. Once the cycle is complete, unload 
+     the dishes, starting with the bottom rack to prevent water from the top dishes dripping onto the
+      bottom ones."
+}
+----------------------------------------
+Rating:1;1;1;1;1;1;0,5 Extras:Rinsing;Safety measures;Maintaining dishwasher.
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation dishes/2024-07-01T00-49-44.317811
+{
+"headline": "Load and Operate Dishwasher",
+"body": "The primary goal is to ensure that the dishwasher is properly loaded and operated to clean the
+ dishes. Begin by rinsing any dishes with heavy residue under warm water before placing them in the
+  dishwasher. Ensure that all items are dishwasher safe. 
+
+Sub-tasks include:
+
+1. Sorting Items: Separate cutlery, plates, cups, and larger items. Place forks, knives, and spoons in the
+ cutlery basket with handles facing down for safety. Arrange plates in slots on the bottom rack, facing
+  towards the center to maximize water spray coverage. Position cups, bowls, and more delicate items on
+   the top rack.
+
+2. Adding Detergent: Fill the dispenser with dishwasher detergent, ensuring you use the correct type and
+ amount as recommended by the appliance manufacturer.
+
+3. Setting the Wash Cycle: Choose an appropriate washing cycle based on the soil level of the dishes
+ (e.g., normal, heavy, or eco). Consider using a higher temperature setting for heavily soiled items.
+
+4. Starting the Dishwasher: Close the door securely and select the start button. Check that the spray arms
+ can rotate freely without being obstructed.
+
+5. Unloading: After the cycle is complete and the dishes are dry, carefully unload the dishwasher, starting
+ with the bottom rack to prevent water from dripping onto dry items below.
+
+Remember to practice safety measures when handling sharp objects and to check for any stray items that 
+might have fallen through the rack. Maintain the cleanliness of the dishwasher by periodically checking the
+ filter and removing any food particles."
+}
+----------------------------------------
+Rating:1;1;1;1;1;1;0,5 Extras:Food scraps.
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation dishes/2024-07-01T00-49-54.178182
+{ "headline": "Load and Operate Dishwasher", "body": "The primary task is to ensure that the dishwasher is
+ properly loaded and operated to clean the dishes. Sub-tasks include: 1. Sorting the dishes: Before loading
+  the dishwasher, categorize the dishes by type (plates, glasses, utensils, etc.) and size. Check for any
+   leftover food and remove it from the dishes. 2. Proper loading: Place the dishes into the dishwasher
+    racks. Plates usually go on the bottom rack, facing the center. Glasses, mugs, and bowls are placed 
+    on the top rack. Ensure that they are spaced out to allow water to circulate. Utensils should be put
+     in the silverware basket with handles facing down, but make sure knives are placed with handles up 
+     for safety. 3. Adding detergent: Fill the dishwasher's detergent dispenser with the appropriate 
+     amount of dishwasher detergent. 4. Setting the cycle: Select the appropriate washing cycle according
+      to the type of dishes and how soiled they are. For a full load that includes a variety of dish types 
+      as shown in the image, a normal or auto cycle would generally suffice. 5. Start the dishwasher: Close
+       the dishwasher door securely and start the machine. Wait for the cycle to complete before unloading." }
+----------------------------------------
+Rating:1;1;1;1;1;0;0 Extras:Rinsing.
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation dishes/2024-07-01T00-50-03.378147
+{
+"headline": "Dishwasher Loading and Operation",
+"body": "The main task is to efficiently load the dishwasher to ensure all items are properly cleaned. 
+Start by rinsing any heavily soiled dishes under running water to remove large food particles. Sub-tasks
+ include sorting the dishes by type: place plates, bowls, and saucers on the bottom rack, ensuring they are
+  spaced apart for water circulation. Position glasses, mugs, and cups on the top rack, and angle them to 
+  prevent water from pooling. Silverware should be placed in the cutlery basket with handles down, but
+   ensure that spoons and forks don't nest together. Load pots and pans on the sides or back of the bottom
+    rack if there's space, or wash them by hand if they are oversized or have non-dishwasher safe materials.
+     Once all items are loaded, add dishwasher detergent to the dispenser following the manufacturer's 
+     instructions, select the appropriate wash cycle based on the soil level of the dishes, and start the
+      dishwasher. Ensure that the spray arms can rotate freely without being obstructed by any dishes
+       before you begin the cycle."
+}
+----------------------------------------
+Rating:1;1;1;1;1;1;1 Extras:Rinsing.
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation dishes/2024-07-01T00-50-12.957296
+{
+"headline": "Load and Operate the Dishwasher",
+"body": "The main task is to ensure all dishes are cleaned using the dishwasher. Begin by rinsing off any
+ food remnants from the dishes under running water to prevent clogging the dishwasher's filter. Next, sort
+  the dishes by size and type - place plates, bowls, and serving dishes on the bottom rack, ensuring that 
+  they are spaced out enough for water to circulate. Utensils should be placed in the cutlery basket, handle
+   down for safety, and cups, glasses, and more fragile items should go on the top rack. Make sure that
+    nothing obstructs the spinning arms. Once sorted, add dishwasher detergent to the dispenser according 
+    to the manufacturer's instructions, choose the appropriate washing cycle, and start the machine. After
+     the cycle is finished, unload the dishwasher, beginning with the bottom rack to prevent water from the
+      top items dripping onto those below. Inspect each item to make sure they are clean, and store them 
+      away in their respective places."
+}
+----------------------------------------
+Rating:1;1;1;1;1;1;0,5 Extras:Rinsing.
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation dishes/2024-07-01T00-50-34.749675
+{
+"headline": "Load and Start the Dishwasher",
+"body": "The main task is to properly load the dishwasher for efficient cleaning of the dishes. Begin with
+ emptying the sink and any countertops of dirty dishes. Rinse off any excess food particles from the dishes
+  under running water to prevent clogging the dishwasher's drain. Make sure to organize the dishes into the
+   appropriate sections: plates on the bottom rack, facing the center; cups, glasses, and bowls on the top
+    rack at an angle to allow water to run off; and utensils in the cutlery basket with handles facing down
+     for safety and cleanliness. Place pots and pans strategically on the bottom rack, ensuring they do not
+      block water jets from reaching other dishes. Check that spinning arms can move freely without being
+       obstructed. Once all dishes are loaded, add dishwasher detergent into the dispenser, close the door
+        firmly, and select the appropriate washing cycle based on the level of soiling. Start the dishwasher
+         and wait for the cycle to complete before unloading."
+}
+----------------------------------------
+Rating:1;1;1;1;1;1;0,5 Extras:Rinsing.
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation dishes/2024-07-01T00-50-41.724824
+{ "headline": "Load and Run the Dishwasher", "body": "The main task is to ensure that the dishwasher is 
+properly loaded for efficient cleaning of the dishes. Sub-tasks involve sorting and arranging dishes, adding
+ detergent, and setting the washing cycle. 1. Begin by rinsing off any large food particles from the dishes.
+  2. Load the dishes strategically into the dishwasher; place plates on the bottom rack facing the center, 
+  put cups and bowls on the top rack at an angle to allow water to run off, and utensils should go in the 
+  cutlery basket with the handles facing down. Avoid overloading to ensure water and detergent reach all
+   items. 3. Check that spinning arms can move freely without being blocked by any dishes. 4. Add the 
+   appropriate amount of dishwasher detergent to the dispenser. 5. Close the dishwasher door securely and 
+   select the appropriate washing cycle depending on how soiled the dishes are. 6. Start the dishwasher and
+    allow it to run the full cycle. Once done, unload the clean dishes." }
+----------------------------------------
+Rating:1;1;1;1;1;1;0,5 Extras:Rinsing.
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero-shot with annotation dishes/2024-07-01T00-50-46.377122
+{"headline":"Load and Run Dishwasher","body":"Primary Task: Ensure all the dirty dishes in the kitchen are 
+properly placed inside the dishwasher for cleaning. Start by clearing the sink and countertop of any dishes
+ or utensils. Ensure that the dishwasher is emptied of any clean items from previous cycles.\n\nSub-task 1:
+  Sorting and Rinsing - Sort the dishes by type. Pre-rinse any dishes with heavy soiling under running water
+   to remove food particles and prevent clogging the dishwasher's filter.\n\nSub-task 2: Loading the 
+   Dishwasher - Arrange plates, bowls, and other items on the bottom rack with space in between to ensure
+    water flow. Place cups, glasses, and lighter items on the top rack. Utensils should be placed in the 
+    cutlery basket handles down, except for knives which should be handles up for safety.\n\nSub-task
+     3: Adding Detergent and Setting the Cycle - Fill the detergent dispenser with dishwasher detergent.
+      Choose an appropriate washing cycle based on the type of dishes and the degree of soiling. For a 
+      regular load, a normal cycle is usually sufficient.\n\nSub-task 4: Start the Dishwasher - Close the 
+      dishwasher door securely and start the chosen cycle. Wait until the cycle is complete before 
+      unloading, and ensure dishes are dry before putting them away."}
+----------------------------------------

@@ -1,0 +1,113 @@
+Zero-Shot base Sink 100:
+
+Max Tokens: 49240
+request tokens: 27300
+completion tokens: 21940
+
+[1.   1.   1.   1.   0.94]
+
+Count Extras: 26
+Sum Extras: 234
+('mirror cleaning', 79)
+('cabinet cleaning', 22)
+('gloves', 17)
+('countertop cleaning', 16)
+('disinfecting', 13)
+('floor sweeping', 11)
+('tidy cleaning products', 11)
+('ventilation', 10)
+('trash disposal', 10)
+('shelve cleaning', 9)
+('no extras', 6)
+('towel replacement', 6)
+('wiping surfaces', 5)
+('final touches', 4)
+('drain cleaning', 2)
+('restocking supplies', 2)
+('wall tile cleaning', 2)
+('bathtub cleaning', 1)
+('vanity cleaning', 1)
+('instructions', 1)
+('preventing mildew', 1)
+('tidying up', 1)
+('polishing', 1)
+('shelf cleaning', 1)
+('weekly cleaning', 1)
+('counter and shelf wiping', 1)
+
+Zero-Shot Role Assignment Sink 100:
+
+Max Tokens: 45921
+request tokens: 27800
+completion tokens: 18121
+
+[0.995 0.805 1.    1.    0.95 ]
+
+Count Extras: 34
+Sum Extras: 267
+
+('mirror cleaning', 91)
+('cabinet cleaning', 35)
+('floor sweeping', 33)
+('surface wiping', 20)
+('trash disposal', 18)
+('shelve cleaning', 9)
+('categorizing personal items', 7)
+('wiping surfaces', 6)
+('countertop cleaning', 5)
+('categorizing personal products', 4)
+('inspecting area', 4)
+('wall tile cleaning', 3)
+('replacing towels', 3)
+('cleaning drawers', 2)
+('bathtub cleaning', 2)
+('replenishing supplies', 2)
+('organizing personal items', 2)
+('no extras', 2)
+('gloves', 2)
+('floor cleaning', 2)
+('discarding empty containers', 2)
+('categorizing personal supplies', 1)
+('tidying up', 1)
+('disinfecting', 1)
+('wiping exterior', 1)
+('restoring cleaning products', 1)
+('encouraging routine wiping down the sink', 1)
+('preventing slipping hazards', 1)
+('categorizing personal item', 1)
+('checking for stray items', 1)
+('replacing towel', 1)
+('cleaning cleaning products', 1)
+('ventilating space', 1)
+('cleaning removed items', 1)
+
+COT 100 Sink:
+
+Max Tokens: 43986
+request tokens: 33000
+completion tokens: 10986
+
+[1.    0.88  0.97  0.875 0.65 ]
+
+Count Extras: 18
+Sum Extras:243
+
+('mirror cleaning', 97)
+('cabinet cleaning', 27)
+('floor sweeping', 26)
+('countertop cleaning', 18)
+('trash disposal', 16)
+('shelve cleaning', 13)
+('tidying up', 10)
+('vanity cleaning', 9)
+('bathtub cleaning', 7)
+('disinfecting', 4)
+('replacing towels', 4)
+('soap refilling', 4)
+('wall tile cleaning', 3)
+('no extras', 1)
+('cleaning cleaning tools', 1)
+('restock', 1)
+('dusting surfaces', 1)
+('straighten towels', 1)
+

@@ -1,0 +1,18 @@
+Zero Shot Toilet
+
+[1.  0.8 1.  1.  1.  1.  1. ]
+
+Count of Extras: 11
+Sum of Extras: 22
+
+('final touches', 4)
+('floor sweeping', 3)
+('wash hands', 3)
+('floor cleaning', 3)
+('cleaning floor mat', 2)
+('gloves', 2)
+('mirror cleaning', 1)
+('cleaning toilet brush', 1)
+('restocking supplies', 1)
+('replacing items', 1)
+('dispose cleaning tools', 1)
