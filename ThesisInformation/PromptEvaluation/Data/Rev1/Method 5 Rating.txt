@@ -1,0 +1,35 @@
+Method 5:
+Rating: 0.5;0;1;1;1 Extras: Shelve cleaning; Mirror cleaning; Bathtub cleaning; Disinfecting electric toothbrushes; Floor cleaning;Replacing towels; ventilating space
+Rating: 0.5;0;1;1;1 Extras: Mirror cleaning; Floor cleaning; Bathtub cleaning; Shelve cleaning; Electric toothbrush cleaning; Removing cleaning products.
+Rating: 0.5;0;1;1;1 Extras: Mirror cleaning; Disposing empty containers; Shelve cleaning; Bathtub cleaning; Cleaning exterior of vanity and drawers; Disinfecting electric toothbrushes stand; Cleaning floor; Replacing mats and towels.
+Rating: 0.5;0;1;1;1 Extras: Shelve cleaning; bathtuub cleaning; disposing empty containers; polishing surfaces; wearing gloves; replacing items
+Rating: 0.5;0;1;1;1 Extras: Mirror cleaning; Bathtub cleaning; Replacing toothbrushes; Empty containers
+Rating: 0.5;0;1;1;0.5 Extras: Shelve cleaning;Mirror cleaning;Floor sweeping.
+Rating: 0.5;0.5;1;1;1 Extras: Mirror cleaning;Bathtub cleaning;Shelve cleaning;Toothbrush cleaning;Cleaning shower heads;Floor sweeping.
+Rating: 0.5;0;1;1;0.5 Extras:Mirror cleaning;Bathtub cleaning;Cleaning shower heads;Cleaning tiles;Shelve cleaning;Dusting;Floor sweeping.
+Rating: 0.5;0;1;1;0 Extras:Bathtub cleaning;Mirror cleaning;Dusting;Tile cleaning;Replacing towels;Floor sweeping;Ventilation.
+Rating: 0.5;0.5;1;1;1 Extras:Dusting;Mirror cleaning;Bathtub cleaning;Vanity cleaning;Toothbrush cleaning.
+
+
+[0.5 0.1 1.  1.  0.8]
+
+Count of Extras: 15
+Sum of Extras: 59
+
+
+('mirror cleaning', 9)
+('bathtub cleaning', 9)
+('shelve cleaning', 7)
+('floor cleaning', 7)
+('toothbrush cleaning', 5)
+('dusting', 3)
+('disposing empty containers', 3)
+('cleaning shower heads', 2)
+('replacing towels', 3)
+('ventilation', 2)
+('tile cleaning', 2)
+('vanity cleaning', 2)
+('replacing toothbrushes', 1)
+('replacing items', 1)
+('protective gloves', 1)
+('storage of cleaning products', 1)

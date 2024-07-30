@@ -1,0 +1,169 @@
+Rating:1;1;1;1;1;1;1 Extras:Floor cleaning;Restock supplies.
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero shot role assignment toilet/2024-07-01T01-17-19.203029
+{"headline":"Clean and Sanitize the Toilet", "body":"Begin by applying a generous amount of toilet bowl 
+cleaner inside the bowl, focusing on the rim and letting it sit for the recommended time to break down
+ stains and kill germs. In the meantime, wipe down the toilet seat, lid, and exterior with disinfecting
+  wipes or a clean cloth with disinfectant. Don't forget to clean the flush handle as it's a high-contact
+   area.
+
+Once the cleaner has had time to work, scrub the bowl thoroughly with a toilet brush, including under
+ the rim. Flush the toilet to rinse away the cleaner and any dislodged grime. If any stains remain, 
+ repeat the scrubbing process.
+
+After cleaning the toilet itself, move on to mop the floor around the toilet. Ensure to clean any 
+visible spots or drips with a disinfectant. Lastly, replace any towels or bathmats and restock toilet 
+paper if necessary."}
+----------------------------------------
+Rating:1;1;1;1;1;1;1 Extras:Gloves;Floor cleaning;Trash disposal.
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero shot role assignment toilet/2024-07-01T01-17-28.181866
+{"headline":"Clean and Sanitize the Bathroom Toilet",
+"body":"Prepare by donning gloves and gathering necessary supplies: toilet bowl cleaner, disinfectant
+ spray, a scrub brush or toilet brush, paper towels or a clean rag, and possibly a mop if the floor needs
+  cleaning. Begin with the toilet bowl: Apply toilet bowl cleaner inside the bowl, coating the rim and
+   inner sides. Allow the cleaner to sit for a few minutes for effective germ killing. Proceed by
+    scrubbing the bowl with the toilet brush, ensuring to reach under the rim and down into the exit hole.
+     Flush the toilet to rinse the bowl. Next, disinfect the toilet's outer surfaces: Spray disinfectant
+      on the exterior of the toilet, including the seat, lid, and base. Wipe down thoroughly with paper
+       towels or a clean rag. Lastly, address the floor: If spillage or dirt is noticed on the floor
+        around the toilet, mop the area or wipe clean with disinfectant. Ensure you replace any disposable
+         materials used, like paper towels, in the trash and launder any rags used during the cleaning
+          process."}
+----------------------------------------
+Rating:1;1;1;1;1;1;1 Extras:Floor cleaning;Scale cleaning;Washing hands;Restore supplies.
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero shot role assignment toilet/2024-07-01T01-17-39.293283
+{"headline":"Clean and sanitize the bathroom toilet",
+"body":"Begin by gathering the necessary cleaning supplies, including toilet cleaner, a toilet brush,
+ disinfectant spray, gloves, and a cloth or sponge. First, apply the toilet cleaner inside the toilet 
+ bowl, focusing on the rim and any stains. Allow it to sit for the specified amount of time as per the 
+ cleaner's instructions to break down dirt and grime. Use the toilet brush to scrub the bowl thoroughly,
+  ensuring to reach under the rim and down the drain. After scrubbing, flush the toilet to rinse away the
+   cleaner and loosened debris.\n\nNext, put on gloves and use the disinfectant spray on the exterior 
+   surfaces of the toilet, including the seat, lid, and base. Wipe these areas down with a cloth or
+    sponge, making sure to clean any hard-to-reach spots behind the toilet where dust and bacteria can 
+    accumulate. Lastly, clean the floor around the toilet base and the toilet mat, if present, using
+     appropriate floor cleaner. Sanitize the bathroom scale as well by wiping it down with disinfectant.
+      Once complete, wash your hands thoroughly and return all supplies to their proper storage place."}
+----------------------------------------
+Rating:1;1;1;1;1;1;1 Extras:Gloves;Floor cleaning;Cleaning mat;Washing hands.
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero shot role assignment toilet/2024-07-01T01-17-50.657602
+{"headline":"Clean and Sanitize the Bathroom Toilet","body":"1. Start by putting on a pair of gloves to 
+protect your hands.\n2. Remove any personal items or rugs around the toilet to ensure they are not in the
+ way or splashed with cleaning products.\n3. Apply toilet cleaner inside the bowl, targeting the rim, bowl
+  sides, waterline, and directly onto any noticeable stains. Allow it to sit according to the product's 
+  instructions to effectively break down dirt and sanitize.\n4. While the cleaner is sitting, use a
+   disinfectant spray to wipe down the exterior of the toilet, including the tank, handle, lid, and base.
+    Do not forget to clean the areas behind the toilet and the hinges where the seat attaches to the 
+    toilet.\n5. Using a toilet brush, scrub the inside of the bowl thoroughly, paying extra attention to 
+    any stains or rings. Flush the toilet while continuing to scrub as the water changes to rinse away 
+    grime.\n6. Dry the exterior surfaces with a clean cloth or paper towels after disinfecting.\n7. Wash 
+    the bathroom floor where the toilet is situated, as it appears to have dust around. Use an
+     appropriate floor cleaner and mop for the task.\n8. Replace the bathroom mats and any removed items
+      once the floor is dry and the cleaning is complete.\n9. Dispose of or wash the cleaning gloves used
+       and wash your hands thoroughly."}
+----------------------------------------
+Rating:0,5;0;1;1;1;1;1 Extras:Floor cleaning;Cleaning mat;Cleaning scale;Disinfecting random shit;Final touches;Gloves.
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero shot role assignment toilet/2024-07-01T01-18-05.180463
+{"headline":"Clean and Sanitize the Toilet and Bathroom Area",
+"body":"For the main task, ensure the toilet and entire bathroom area is cleaned and sanitized
+ effectively. Here are the sub-tasks to follow:
+
+1. **Prepare Cleaning Supplies**: Gather gloves, toilet cleaner, a scrub brush, disinfectant spray, a mop,
+ and cleaning cloths. Ensure you have a glass cleaner for any mirrors and a tile cleaner for the shower or
+  tub if applicable.
+
+2. **Toilet Cleaning**: Start with applying the toilet cleaner inside the bowl, making sure to get under
+ the rim. Leave it to sit as per the product's instructions. Then, clean the outer surfaces with 
+ disinfectant spray and a cloth, starting from the top of the tank to the bottom. Once the inside cleaner
+  has set, scrub the bowl with a toilet brush thoroughly, then flush to rinse.
+
+3. **Floor and Mat Cleaning**: Remove the floor mat and any loose items. Sweep or vacuum the floor to 
+remove hair and debris. Mop the floor with a disinfectant floor cleaner, paying close attention to the
+ area around the toilet base.
+
+4. **Scale Removal**: If there's any limescale build-up around the taps or in the shower area, use a
+ designated lime scale remover following the instructions on the product label. Allow it to work on the
+  scale before scrubbing and rinsing it away.
+
+5. **Touchpoints Sanitization**: Wipe down all touchpoints, such as the flush handle, door handles, light
+ switches, and faucet handles, with disinfectant spray and a clean cloth.
+
+6. **Final Checks and Touch-ups**: Once all cleaning is complete, go over the area to make sure nothing
+ has been missed and everything shines. Replace the clean floor mat and any other items you've removed.
+  Dispose of any trash and replace the bin liner if necessary.
+
+Ensure personal protective equipment like gloves are worn at all times during cleaning to avoid contact 
+with chemicals and contaminants. Always follow the cleaning agents' instructions for safe and effective
+ use."}
+----------------------------------------
+Rating:0,5;1;1;0;1;1;1 Extras:Floor cleaning;Replacing towels;Washing hands.
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero shot role assignment toilet/2024-07-01T01-18-08.464702
+{"headline":"Clean and Disinfect the Toilet and Surrounding Area",
+"body":"Begin by donning protective gloves and eyewear for safety. Prepare a disinfectant cleaner or a
+ mixture of bleach and water. Apply the cleaner inside the toilet bowl, ensuring to get under the rim. 
+ Use a toilet brush to scrub thoroughly, then flush. Next, wipe down the toilet seat, lid, and handle with
+  disinfectant wipes or spray. After sanitizing the toilet, mop the floor around it, paying close
+   attention to the base. Finally, replace any used towels with clean ones and remove any trash or debris.
+    Ensure to wash your hands thoroughly after completing the task."}
+----------------------------------------
+Rating:0,5;1;1;1;1;1;1 Extras:Floor cleaning;Cleaning mat;Disposing of products.
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero shot role assignment toilet/2024-07-01T01-18-18.047008
+{"headline":"Clean and Disinfect the Toilet and Bathroom Area","body":"Begin by donning protective 
+gloves to ensure safety and hygiene. Start with the inside of the toilet bowl: apply a toilet cleaner, 
+let it sit as per the product instructions, then scrub thoroughly with a toilet brush and flush. Wipe down
+ the toilet seat, lid, and the surrounding area with a disinfectant. Clean around the base of the toilet
+  where it meets the floor, as well as the adjacent areas that may have splashes or dirt. Finally, mop 
+  the floor, focusing on the area around the toilet, and replace any mats or items moved during cleaning.
+   Dispose of or wash cleaning materials according to health and safety guidelines."}
+----------------------------------------
+Rating:1;0,5;1;1;1;1;1 Extras:Gloves;Floor cleaning;Wall cleaning;Cleaning scale;Trash disposal;Replace towels;Washing hands.
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero shot role assignment toilet/2024-07-01T01-18-30.241552
+{"headline":"Toilet and Bathroom Cleaning",
+"body":"The primary goal is to clean and sanitize the toilet and the surrounding bathroom area. Begin by
+ putting on gloves for hygiene. For the toilet, first apply a toilet bowl cleaner under the rim and let it
+  sit for the prescribed amount of time. Use a toilet brush to scrub the bowl thoroughly, including under
+   the rim, and flush to rinse.
+
+Next, clean the toilet's exterior with a disinfectant spray or wipes, including the flush handle, lid, 
+seat, and base. Remember to clean both the top and bottom of the seat.
+
+For the surrounding area, sweep the floor to remove any debris, especially around the base of the toilet.
+ Use a mop with a disinfectant floor cleaner to mop the floor, paying attention to the area around the 
+ toilet. Clean any visible marks on the walls and wipe down the bathroom scale and any other accessories
+  with a disinfectant. Lastly, replace any used towels with fresh ones and remove the trash if a bin is 
+  present.
+
+Ensure to wash your hands thoroughly after removing your gloves and completing the task."}
+----------------------------------------
+Rating:1;1;1;0;1;1;1 Extras:Gloves;Floor cleaning;Cleaning mat;Ventialtion.
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero shot role assignment toilet/2024-07-01T01-18-39.668867
+{"headline":"Clean and Disinfect the Toilet and Bathroom Area", "body":"Begin by putting on gloves to 
+protect your hands. For the toilet, start by applying a disinfectant cleaner inside the bowl, making sure
+ to get under the rim. Use a toilet brush to scrub the bowl thoroughly, then flush to rinse. Proceed to
+  clean the toilet seat, lid, and exterior with disinfectant wipes or spray, wiping from the cleanest part
+   (the lid) to the dirtiest part (under the seat and the outside of the bowl). Move on to the floor 
+   around the toilet. Pick up any rugs or mats, shake them out, and launder if necessary. Sweep or vacuum 
+   the floor to remove hair and debris, then mop with disinfectant. Replace the mats when the floor is
+    dry. Lastly, check the tissue dispenser and replenish if needed. Ensure proper ventilation throughout 
+    the cleaning process to avoid inhaling fumes."}
+----------------------------------------
+Rating:1;0,5;1;1;1;1;1 Extras:Gloves;Floor cleaning;Cleaning mat;Cleaning scale;Dispose of products;Washing hands.
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/Zero shot role assignment toilet/2024-07-01T01-18-50.446416
+{"headline":"Clean and Sanitize Toilet and Bathroom Area",
+"body":"Begin by donning protective gloves and eyewear for safety. 
+
+1. Toilet cleaning:
+   - Apply an appropriate amount of toilet cleaner inside the bowl and under the rim. 
+   - Use a toilet brush to scrub thoroughly, concentrating on any stains or buildup. 
+   - Allow the cleaner to sit for several minutes, and then flush the toilet to rinse. 
+   - Wipe the toilet seat, lid, and any external surfaces with a disinfectant wipe.
+
+2. Floor cleaning:
+   - Remove any mats or obstructions, then sweep or vacuum the floor to remove hair and debris.
+   - Mop the floor with a disinfectant floor cleaner, paying special attention to areas around the toilet.
+
+3. Accessory cleaning:
+   - Clean and sanitize any items on the floor, such as the bathroom scale.
+   - Wash any bathroom rugs or mats, and leave them to dry before placing them back.
+
+After completing these tasks, ensure to properly dispose of or launder cleaning materials and wash your hands thoroughly."}
+----------------------------------------

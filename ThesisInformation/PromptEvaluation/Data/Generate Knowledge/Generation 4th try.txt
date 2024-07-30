@@ -1,0 +1,30 @@
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T22-08-29.922641
+{annotation: sink,cleaning,bathroom,mirror,faucet,disinfecting,surface-wiping,countertop,tidying}
+----------------------------------------
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T22-08-38.542183
+{annotation: sink,cleaning,mirror,wiping}
+----------------------------------------
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T22-08-49.295857
+{annotation: sink,cabinet,mirror,tile,tub,faucet,soap,shampoo,conditioner,toothbrush,toothpaste,deodorant,cleaning}
+----------------------------------------
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T22-08-58.486585
+{annotation: sink,cleaning,mirror,wiping}
+----------------------------------------
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T22-09-08.743028
+{annotation: sink,cleaning,mirror,wiping}
+----------------------------------------
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T22-09-19.194103
+{annotation: sink,cleaning,mirror,wiping,facet,organizing}
+----------------------------------------
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T22-09-29.436882
+{annotation: sink,cleaning,mirror,wiping,tiles,spraying}
+----------------------------------------
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T22-09-40.183471
+{annotation: sink,cleaning,bathroom,mirror,tidying,faucet,counter,organizing,tiles}
+----------------------------------------
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T22-09-49.402080
+{annotation: sink,cleaning,mirror,wiping}
+----------------------------------------
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T22-09-59.446678
+{annotation: sink,cleaning,mirror,wiping,faucet,polishing}
+----------------------------------------

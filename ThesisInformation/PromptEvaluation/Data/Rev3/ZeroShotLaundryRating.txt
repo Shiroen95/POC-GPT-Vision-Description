@@ -1,0 +1,14 @@
+Zero Shot Laundry
+
+[1. 1. 1. 1. 1. 1. 1.]
+
+Count of Extras: 7
+Sum of Extras: 18
+
+('pre-treating stains', 5)
+('tidying up', 4)
+('wiping washing machine', 3)
+('cleaning lint trap', 2)
+('no extras', 2)
+('clean lint trap', 1)
+('floor sweeping', 1)

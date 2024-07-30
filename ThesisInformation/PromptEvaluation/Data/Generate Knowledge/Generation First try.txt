@@ -1,0 +1,30 @@
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-02-40.154775
+{annotation: "decluttering"}
+----------------------------------------
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-02-48.759340
+{annotation: "decluttering"}
+----------------------------------------
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-02-58.889800
+{annotation: "decluttering"}
+----------------------------------------
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-03-08.766980
+{annotation: "tidying"}
+----------------------------------------
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-03-18.829135
+{annotation: "disorganized"}
+----------------------------------------
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-03-29.038439
+{annotation: "cleaning"}
+----------------------------------------
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-03-39.062911
+{annotation: "decluttering"}
+----------------------------------------
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-03-53.508615
+{annotation: "decluttering"}
+----------------------------------------
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-03-59.205986
+{annotation: "tidying"}
+----------------------------------------
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-27T19-04-09.308649
+{annotation: "cleaning"}
+----------------------------------------

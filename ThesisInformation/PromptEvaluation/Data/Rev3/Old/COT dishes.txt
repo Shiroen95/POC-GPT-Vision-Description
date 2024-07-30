@@ -1,0 +1,89 @@
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT dishes/2024-07-01T01-30-25.293845
+{headline: "Load and Clean the Dishwasher", body: "Begin by removing any clean dishes that may still be 
+inside the dishwasher. Next, collect all dirty dishes from around the kitchen, including the counter and
+ sink, and load them into the dishwasher. Ensure that dishes are scraped of any leftover food and placed
+  properly to maximize space and cleaning efficiency. Check and refill dishwasher detergent if needed 
+  before starting the cleaning cycle. Lastly, wipe down the dishwasher's exterior, control panel, and
+   handle to remove fingerprints and smudges to maintain a clean appearance."}
+----------------------------------------
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT dishes/2024-07-01T01-30-34.519572
+{
+"headline": "Kitchen Clean-Up and Dishwasher Loading",
+"body": "Begin by gathering all the dishes and utensils scattered around the kitchen, including any that
+ are on the counters, in the sink, or on the stovetop. Pre-rinse items with food residue before placing
+  them in the dishwasher. Organize the dishes efficiently within the dishwasher, placing plates on the
+   bottom rack, cups and bowls on the top rack, and cutlery in the utensil basket. Ensure that the 
+   dishwasher can open and close easily without obstruction. Wipe down countertops and the stovetop to
+    remove any spills or crumbs. Lastly, start the dishwasher using the appropriate cycle for the current
+     load."
+}
+----------------------------------------
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT dishes/2024-07-01T01-30-44.373763
+{headline: "Load and Organize Dishwasher", body: "Gather all dirty dishes from around the kitchen,
+ including any on the countertops, sink, and cooktop. Rinse off excess food debris and pre-treat any 
+ tough stains. Place the dishes into the dishwasher, with plates, bowls, and larger items on the bottom 
+ rack, ensuring they are spaced out to allow water flow. Put cups, glasses, and smaller items on the top
+  rack. Add dishwasher detergent and select the appropriate wash cycle before starting the machine. Wipe
+   down the countertops, cooktop, and the exterior of the dishwasher to maintain a clean kitchen
+    environment."}
+----------------------------------------
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT dishes/2024-07-01T01-30-54.908189
+{headline: "Load and Run the Dishwasher", body: "Gather all dirty dishes from around the kitchen, 
+including the countertops, sink area, and any other surfaces. Pre-rinse dishes that have stubborn food 
+residue before placing them in the dishwasher. Ensure that the dishwasher is loaded correctly, with items
+ placed in their designated spots for optimal cleaning. Add dishwasher detergent, and select an 
+ appropriate washing cycle. Once the dishes are loaded and the detergent is in place, start the 
+ dishwasher. After the cycle is complete, unload the clean dishes and put them away in their respective
+  cabinets and drawers."}
+----------------------------------------
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT dishes/2024-07-01T01-31-06.389560
+{headline: "Load and Run the Dishwasher", body: "Gather all the dirty dishes from around the kitchen 
+including those visible on the countertop and the pan on the stove. Pre-rinse any dishes with stuck-on
+ food before placing them in the dishwasher. Ensure that the dishwasher is correctly loaded for optimal
+  cleaning, with spacing between items to allow water flow. Add dishwasher detergent, and set the 
+  dishwasher to the appropriate cycle. Wipe down the countertops and the stove to clear any food debris or
+   spills. Position the kitchen tools and cutting board properly after cleaning them, if necessary. Once
+    the dishwasher has completed its cycle, unload the clean dishes and put them back in their respective
+     places."}
+----------------------------------------
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT dishes/2024-07-01T01-31-15.704629
+{headline: "Load and Organize Dishwasher", body: "Begin by clearing and rinsing any dishes left on the
+ countertops, in the sink, and on the stove. Next, load the dishwasher by placing the dishes, pots, and
+  utensils appropriately inside for optimal cleaning. Ensure that dishwasher-safe items are loaded
+   correctly to avoid any damage. Once loaded, add dishwasher detergent, and set the dishwasher to an
+    appropriate cycle. While the dishwasher is running, wipe down countertops, the stove, and any other
+     surfaces to maintain a clean kitchen environment."}
+----------------------------------------
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT dishes/2024-07-01T01-31-26.527871
+{headline: "Load and Clean the Dishwasher", body: "Empty the dishwasher of any clean items and set them 
+aside. Then, gather all dirty dishes from the kitchen, including those in the sink and on countertops, and
+ load them into the dishwasher. Ensure that the dishwasher is organized properly to maximize space and
+  cleaning efficiency. Add dishwasher detergent, and then run the dishwasher on the appropriate cycle.
+   Wipe down the exterior of the dishwasher, countertops, and surrounding areas to maintain a clean 
+   workspace."}
+----------------------------------------
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT dishes/2024-07-01T01-31-37.385062
+{headline: "Load and Run the Dishwasher", body: "First, gather all dirty dishes from around the kitchen,
+ including any left out on the counters or stove. Rinse off any food particles or residue from the dishes
+  to prevent clogging the dishwasher’s filter. Ensure that dishes like the plate seen here are placed
+   correctly in the dishwasher rack. Check that the dishwasher detergent dispenser is filled with the 
+   appropriate cleaning agent. Finally, close the dishwasher door properly and set the machine to run on
+    the cycle best suited for the current load."}
+----------------------------------------
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT dishes/2024-07-01T01-31-47.922726
+{headline:"Dishwasher Unloading and Kitchen Cleanup", body:"Begin by unloading all the clean dishes, 
+cutlery, and cooking utensils from the dishwasher, and put them away in their respective places. Next, 
+hand wash the dishes that are not dishwasher-safe or the ones left on the counter. Wipe down the kitchen
+ countertops, especially around the dishwasher and sink area to remove any water stains and food residues.
+  Lastly, sweep the kitchen floor to ensure it's free from any crumbs or debris, focusing on the areas 
+  under the countertops and around the dishwasher."}
+----------------------------------------
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT dishes/2024-07-01T01-31-59.778060
+{headline: "Load and Run the Dishwasher", body: "Begin by removing any items on the kitchen counter that
+ don't belong there and putting them away. Then clear out and rinse dishes that have been left in the sink
+  or on countertops. Load the rinsed dishes into the dishwasher, ensuring that they are arranged properly 
+  to allow for effective cleaning. Check the dishwasher's detergent level and add more if necessary. 
+  Finally, start the dishwasher on the appropriate cycle for the current load. While the dishwasher is
+   running, wipe down the countertops, sink, and any other surfaces to ensure the kitchen is fully tidied
+    up."}
+----------------------------------------

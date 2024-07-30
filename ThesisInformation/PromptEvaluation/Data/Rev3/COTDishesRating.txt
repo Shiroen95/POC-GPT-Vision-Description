@@ -1,0 +1,16 @@
+COT Dishes
+
+[0.9  0.9  0.9  0.8  0.85 0.2  0.2 ]
+
+Count Extras: 10
+Sum Extras: 19
+('rinsing', 5)
+('cleaning everything', 3)
+('wiping counter', 3)
+('tidying up', 2)
+('floor cleaning', 1)
+('hand wash dishes', 1)
+('wiping exterior', 1)
+('rinsing,wiping counter', 1)
+('wiping interior', 1)
+('food scraps', 1)

@@ -1,0 +1,91 @@
+Rating:0;0;1;0;0;0;0 Organizing;Floor sweeping;Tidying up.
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT laundry/2024-07-01T01-37-30.620905
+{headline: "Laundry Room Cleaning and Organization", body: "Start by decluttering any items on top 
+of the washing machines and wiping them down. Ensure all detergent bottles are organized and properly 
+closed. Pick up any items on the floor and sweep the area thoroughly. Inspect the washing machines for
+ any spills or dust and clean as needed. Finally, sort the laundry, separating lights and darks, and
+  prepare the laundry basket for washing."}
+----------------------------------------
+Rating:0;0,5;0;0;0;0;0 Extras:Organizing;Tidying up;Floor sweeping;Cleaning lint trap.
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT laundry/2024-07-01T01-37-40.810595
+{headline: "Laundry Room Clean-up and Organization", body: "Empty the washing machine and place the clean 
+clothes in a basket for folding. Organize the detergent and cleaning supply area, ensuring products are
+ neatly stored and the tops of the machines are cleared off. Tidy the area around the machines, including
+  sweeping the floor and removing any debris. Check the lint trap and surrounding area for cleanliness."}
+----------------------------------------
+Rating:0;0;0;0;0;0;0 Extras:Cleaning exterior;Organizing;Floor sweeping.
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT laundry/2024-07-01T01-37-53.351358
+{headline: "Laundry Room Cleaning and Organization", body: "Begin by removing any items on top of the
+ washing machine and dryer to wipe down surfaces. Clean the exterior of both machines with a damp cloth
+  and mild detergent, if necessary. Organize detergent and cleaning supplies, either disposing of empty
+   containers or neatly placing them on shelves. Ensure the floor is cleared of debris, then sweep and 
+   mop. Finally, sort the laundry in the basket, checking pockets and pre-treating any stains before
+    loading the washer. Leave the area tidy and ready for use."}
+----------------------------------------
+Rating:0;0;0;0;0;0;0 Extras:Organizing;Cleaning exterior;Floor sweeping;Cleaning laundry basket.
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT laundry/2024-07-01T01-38-02.134348
+{headline: "Laundry Room Clean-Up and Organization", body: "Begin by decluttering the area around the
+ washing machines, removing any items that do not belong. Organize laundry detergents and softeners on
+  shelves or in a cabinet. Wipe down the exterior of both the washer and dryer to remove dust and
+   detergent spills. Sweep and mop the floor, paying close attention to the area beneath and around the
+    appliances to remove any lint or debris. Finally, ensure the laundry basket is emptied and cleaned."}
+----------------------------------------
+Rating:0;0;0;0;0;0;0 Extras:Organizing;Cleaning surfaces;Floor sweeping;Cleaning laundry basket.
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT laundry/2024-07-01T01-38-14.402613
+{headline:"Laundry Room Cleaning and Organization", body:"Empty and organize the washing machine area,
+ ensuring it is clean and clutter-free. Begin by removing clothes and any items from on top of and around
+  the washing machine and dryer. Clean the surfaces, including the exterior of both machines, using a 
+  suitable cleaner, and clear out the laundry detergent shelf, wiping away any spills or residue. Neatly 
+  arrange the laundry detergents and related supplies. Check the area around the floor drain for any
+   debris and clean as necessary. Finally, place the dirty clothes neatly in the laundry basket or start
+    a wash cycle, ensuring the basket is placed in a designated spot to avoid future clutter."}
+----------------------------------------
+Rating:0;0;0;0;0;0;0 Extras:Cleaning exterior;Organizing;Floor sweeping.
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT laundry/2024-07-01T01-38-24.193841
+{headline:"Laundry Room Cleaning and Organization", body:"Begin by picking up any loose items on the
+ floor and place them in the appropriate containers. Wipe down the exterior surfaces of the washing
+  machines and dryers, paying particular attention to the control panels and handles which are
+   high-contact areas. Organize detergents, fabric softeners, and other cleaning supplies on the shelves,
+    ensuring they are neatly arranged and any spills are cleaned up. Finally, inspect the area around the
+     drain in the floor, clearing away any debris and mopping the floor to maintain cleanliness and 
+     prevent slipping hazards."}
+----------------------------------------
+Rating:0;0;0,5;0;0;0;0 Extras:Wiping exterior;Organizing;Floor sweeping;Cleaning lint trap.
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT laundry/2024-07-01T01-38-35.322625
+{headline: "Laundry Room Clean-up and Organization", body: "Organize and clean the laundry room to
+ facilitate smooth operation. Ensure the washing machines are wiped down to remove any detergent spills 
+ or dust. Clear and wipe the surfaces, including the top of the washing machine and the area around the
+  sink. Tidy up the laundry detergents and fabric softeners, grouping like items together. Sweep the 
+  floor thoroughly and mop to remove any dirt and grime. Clear out the lint trap in the dryer if
+   applicable. Finally, sort the laundry, placing dirty items in the basket and folding or hanging any
+    clean clothes. Ensure the room is left in a tidy and organized state to streamline future laundry
+     tasks."}
+----------------------------------------
+Rating:0;0;1;0,5;0;0;1 Extras:Wiping exterior;Organizing;Floor sweeping.
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT laundry/2024-07-01T01-38-45.901354
+{headline: "Laundry Room Clean-Up and Organization", body: "Begin by sorting the laundry into appropriate
+ categories for washing. Ensure all pockets are checked for items before placing clothes in the washing
+  machine. Wipe down the exterior of both washing machines and the dryer to remove any dust and spills. 
+  Organize the cleaning supplies on the shelf, neatly arranging detergents, softeners, and other products.
+   Sweep the floor to remove any debris and mop if necessary to ensure the floor is clean. Lastly, ensure
+    that clean laundry is folded and stored away properly to maintain order in the laundry room."}
+----------------------------------------
+Rating:0;0;0,5;0;0;0;0 Extras:Organizing;Floor sweeping;Wiping exterior.
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT laundry/2024-07-01T01-38-55.721360
+{headline: Laundry Room Cleaning and Organization, body: Remove items from the top of the washing machine
+ and wipe down surfaces including the washing machine and dryer exteriors. Organize detergents and 
+ cleaning supplies on the shelves or in a storage cabinet. Ensure the space in front of the machines is
+  clear of obstructions for easy access. Tidy up the laundry baskets, pairing any to be used for clean
+   laundry separately from those for dirty laundry. Finally, sweep and mop the floor, especially around 
+   the washing machine and dryer area.}
+----------------------------------------
+Rating:0;0;0;0,5;0;0;0 Extras:Organizing;Wiping exterior;Floor sweeping.
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/COT laundry/2024-07-01T01-39-07.436969
+{headline: "Laundry Room Cleaning and Organization", body: "1. Clear the space in front of the washing
+ machines by picking up any items on the floor. 2. Empty the washing machine drum if there are items 
+ inside it. 3. Check the detergent dispenser for any residue and clean if necessary. 4. Organize detergent
+  bottles, boxes, and other laundry supplies on the shelves, wiping them down if they are dusty. 5. 
+  Tidy up any loose items, such as the laundry basket, making sure dirty laundry is contained within it.
+   6. Sweep the floor around the area to remove any dirt or debris. 7. Optionally, wipe down the exterior 
+   of the washing machines for a clean finish."}
+----------------------------------------

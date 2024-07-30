@@ -1,0 +1,25 @@
+Zero Shot Role Assignment Toilet
+
+
+[0.85 0.8  1.   0.8  1.   1.   1.  ]
+
+Count Extras: 17
+Sum Extras: 42
+
+('floor cleaning', 10)
+('gloves', 6)
+('cleaning mat', 5)
+('washing hands', 5)
+('cleaning scale', 3)
+('trash disposal', 2)
+('dispose of products', 1)
+('ventialtion', 1)
+('replace towels', 1)
+('wall cleaning', 1)
+('disposing of products', 1)
+('replacing towels', 1)
+('final touches', 1)
+('disinfecting random shit', 1)
+('restore supplies', 1)
+('scale cleaning', 1)
+('restock supplies', 1)

@@ -1,0 +1,19 @@
+Zero Shot Role Assignment Laundry
+
+
+[1. 1. 1. 1. 1. 1. 0.]
+
+Count Extras: 11
+Sum Extras: 21
+
+('tidying up', 4)
+('wiping washing machine', 3)
+('cleaning lint trap', 3)
+('no extras', 2)
+('floor sweeping', 2)
+('pre-treating stains', 2)
+('ventilation', 1)
+('preventing mildrew', 1)
+('storing hazardous materials out of childrens reach', 1)
+('cleaning lint filter', 1)
+('floor cleaning', 1)

@@ -1,0 +1,27 @@
+Method 1:
+Rating: 0.5;1;1;1;1 Extras: Correct storage of cleaning products; Bathtub cleaning; Mirror cleaning; Floor cleaning.
+Rating: 0.5;0.5;1;1;1 Extras: Protect hands with gloves; Mirror cleaning; Floor cleaning.
+Rating: 0.5;0.5;1;1;1 Extras: Bathtub cleaning; Mirror cleaning
+Rating: 0.5;0;1;1;1 Extras: Bathtub cleaning; Mirror cleaning
+Rating: 0.5;0;1;1;1 Extras: Bathtub cleaning; Mirror cleaning; Floor cleaning; Fresh Towels; Toilet paper change
+Rating: 0.5;1;1;1;1 Extras: Mirror cleaning; Floor cleaning
+Rating: 0.5;0;1;1;1 Extras: Bathtub cleaning; Mirror cleaning; Floor cleaning; Liner change; take out trash
+Rating: 0.5;0;1;1;1 Extras: Bathtub cleaning; Mirror cleaning; Floor cleaning; Daily Maintenance tipps
+Rating: 0.5;1;1;1;1 Extras: Mirror cleaning; Floor cleaning;  Fresh Towels
+Rating: 0.5;0;1;1;1 Extras: Bathtub cleaning; Mirror cleaning
+
+[0.5 0.4 1.  1.  1. ]
+
+Count Extras: 10
+Sum Extras: 32
+
+('mirror cleaning', 10)
+('floor cleaning', 7)
+('bathtub cleaning', 7)
+('replacing towels', 2)
+('daily maintenance tipps', 1)
+('trash disposal', 1)
+('replace liner', 1)
+('change toilet paper ', 1)
+('protective gloves', 1)
+('storage of cleaning products', 1)

@@ -1,0 +1,90 @@
+Prompt Method 1: Zero-Shot Role-Assignment
+
+You are a supervisor that delegates tasks in an cleaning environment. All responses should be in the following json format:
+{headline:, body:}
+The content descriptions are as follows:
+headline: Describes the task at hand as short as possible.
+body: Give instructions on all tasks at hand. If possible, explain how to do these tasks.
+The Userinput will always be a picture.
+the picture will show you the concrete task and it's current state.
+					
+					
+					
+Prompt Method 2: Base Zero-Shot:
+
+Please create a delegation for a cleaning task as described:
+All responses should be in the following json format:
+{headline:, body:}
+The content descriptions are as follows: 
+headline: Describes the task at hand as short as possible.
+body: Give instructions on all tasks at hand. If possible, explain how to do these tasks.
+The Userinput will always be only a picture. The picture will show you the concrete task and it's current state.
+
+
+Prompt Method 3: Zero-Shot Role-Assignment with additional human annotations:
+
+You are a supervisor that delegates tasks in an cleaning environment. All responses should be in the following json format:
+{headline:, body:}
+The content descriptions are as follows: 
+headline: Describes the task at hand as short as possible. 
+body: Give instructions on all tasks at hand. If possible, explain how to do these tasks.
+The Userinput will always be a text and an picture. 
+The text can contain metatags for the task at hand, 
+while the picture will show you the concrete task and it's current state.
+
+
+
+Prompt Method 4: Base Zero-Shot with additional human annotations:
+
+Please create a delegation for a cleaning task as described:
+All responses should be in the following json format:
+{headline:, body:}
+The content descriptions are as follows:
+headline: Describes the task at hand as short as possible.
+body: Give instructions on all tasks at hand. If possible, explain how to do these tasks.
+The Userinput will always be a picture.
+Metatags for the picture are as follows: cleaning,sink,bathroom.
+The picture will show you the concrete task and it's current state.
+		
+ 
+
+Prompt Method 5: Generate Knowledge w/wo Role-Assignment:
+
+1. Prompt: Generate Facts about this Picture: 
+
+2. Prompt w: 	
+You are a supervisor that delegates tasks in an cleaning environment. All responses should be in the following json format:
+{headline:, body:}
+Here are some Facts about the Picture:
+				-- Facts here -- 
+The content descriptions are as follows:
+headline: Describes the task at hand as short as possible.
+body: Give instructions on all tasks at hand. If possible, explain how to do these tasks.
+The Userinput will always be a picture.
+the picture will show you the concrete task and it's current state.
+				
+2. Prompt wo:	
+Please create a delegation for a cleaning task as described:
+All responses should be in the following json format:
+{headline:, body:}
+Here are some Facts about the Picture:
+				-- Facts here -- 
+The content descriptions are as follows:
+headline: Describes the task at hand as short as possible.
+body: Give instructions on all tasks at hand. If possible, explain how to do these tasks.
+The Userinput will always be only a picture. The picture will show you the concrete task and it's current state.
+
+
+Prompt Method 6: COT with additional human annotaions
+
+Your task is to figure out what cleaning task needs to be done and write a delegation for it.
+The information you get is a picture. The delegation always consists of a headline and a body.
+To do this follow the given steps:
+
+First scan the image for the task and create a short headline. There's one main task that splits into sub-tasks.
+
+Next, find things that need to be cleaned/tidied so that this task can be completed. Make a list of these things and, if possible, explain how this task should be done optimally. This list is the body.
+
+Finally, create a json with the following content:
+{headline:, body:}
+Add the previous content to the json and return it.		

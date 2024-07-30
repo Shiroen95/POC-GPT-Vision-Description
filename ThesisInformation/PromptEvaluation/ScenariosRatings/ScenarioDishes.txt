@@ -1,0 +1,8 @@
+[I]		Headline: Must contain doing dishes/loading dishwasher
+[II]	Main Objectiv do dishes/load dishwasher
+[III]	Put dirty dishes in dishwasher. 
+[IV]	Insert cleaning agent into dishwasher.
+[V]		Start the dishwasher.
+[VI]	Wait until done.
+[VII]	Sort dishes and put them back.
+

@@ -1,0 +1,27 @@
+Method 2:
+Rating: 0.5;1;1;0;1 Extras: Mirror cleaning; Floor cleaning.
+Rating: 0.5;0;1;1;1 Extras: Cabinet cleaning; Shelves cleaning; bathtub cleaning; floor cleaning; rinsing of cleaning materials; ventilating space.
+Rating: 0.5;1;1;1;1 Extras: Mirror cleaning; Floor cleaning; Bathtub cleaning; Disinfecting surfaces.
+Rating: 0.5;0;1;1;1 Extras: Mirror cleaning; Cabinet cleaning; Floor cleaning.
+Rating: 0.5;0;1;1;0.5 Extras: Mirror cleaning; Floor cleaning; Trash disposal; Bathtub cleaning; Disinfecting surfaces; Shelves cleaning
+Rating: 0.5;0;1;1;1 Extras: Mirror cleaning; Bathtub cleaning; Cabinet cleaning; Trash disposal
+Rating: 0.5;0;1;1;1 Extras: Mirror cleaning; Floor cleaning; Bathtub cleaning; Disinfecting surfaces; cabinet cleaning
+Rating: 0.5;0;0;1;1 Extras: Mirror cleaning; Bathtub cleaning; Disinfecting surface; floor cleaning
+Rating: 0.5;0.5;1;1;0.5 Extras: Mirror cleaning; Floor cleaning; Bathtub cleaning
+Rating: 0.5;0;1;1;1 Extras: Mirror cleaning; Floor cleaning; Bathtub cleaning; Disinfecting surfaces
+
+[0.5  0.25 0.9  0.9  0.9 ]
+
+Count of Extras: 9
+Sum of Extras: 41
+
+
+('floor cleaning', 9)
+('mirror cleaning', 9)
+('bathtub cleaning', 8)
+('disinfecting surfaces', 5)
+('cabinet cleaning', 4)
+('trash disposal', 2)
+('shelves cleaning', 2)
+('ventilation', 1)
+('cleaning materials cleaning', 1)

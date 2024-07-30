@@ -1,0 +1,15 @@
+COT Toilet
+
+[0.   0.05 0.3  0.1  0.   0.   0.1 ]
+
+Count Extras: 8
+Sum Extras: 34
+
+('floor sweeping', 10)
+('organizing', 10)
+('wiping exterior', 4)
+('cleaning exterior', 3)
+('cleaning laundry basket', 2)
+('cleaning lint trap', 2)
+('tidying up', 2)
+('cleaning surfaces', 1)

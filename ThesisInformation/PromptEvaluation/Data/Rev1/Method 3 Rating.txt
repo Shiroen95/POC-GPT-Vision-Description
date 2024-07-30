@@ -1,0 +1,24 @@
+Method 3:
+Rating: 1;1;1;1;1 Extras: Mirror Cleaning; Cabinet cleaning
+Rating: 1;1;1;1;1 Extras: Mirror Cleaning; Fresh Towels; Cabinet cleaning
+Rating: 1;1;1;1;1 Extras: Mirror Cleaning; cabinet cleaning; protective gloves
+Rating: 1;1;1;1;1 Extras: Mirror Cleaning; Protective gloves
+Rating: 1;1;1;1;1 Extras: Mirror Cleaning
+Rating: 1;1;1;1;1 Extras: Mirror Cleaning; Cabinet cleaning
+Rating: 1;1;1;1;1 Extras: Mirror Cleaning; Trash disposal; Cabinet cleaning; disinfecting surface; replace liner
+Rating: 1;1;1;1;0.5 Extras: Mirror Cleaning; floor cleaning
+Rating: 1;1;1;1;0.5 Extras: Mirror Cleaning;
+Rating: 1;1;1;1;1 Extras: Mirror Cleaning;
+
+[1.  1.  1.  1.  0.9]
+Count of Extras: 8
+Sum of Extras: 22
+
+('mirror cleaning', 10)
+('cabinet cleaning', 5)
+('protective gloves', 2)
+('floor cleaning', 1)
+('replace liner', 1)
+('disinfecting surface', 1)
+('trash disposal', 1)
+('replacing towels', 1)

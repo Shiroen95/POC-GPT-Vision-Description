@@ -1,0 +1,15 @@
+Zero Shot Role Assignment Dishes
+
+[0.95 1.   1.   1.   1.   0.6  0.4 ]
+
+Count Extras: 8
+Sum Extras: 16
+
+('rinsing', 5)
+('food scraps', 5)
+('hand wash items', 1)
+('organize counter', 1)
+('wiping interior', 1)
+('clearing counter', 1)
+('wiping exterior', 1)
+('wiping counter', 1)

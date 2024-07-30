@@ -1,0 +1,217 @@
+Rating:0,5;0;1;1;0 Extras:Mirror cleaning;Cabinet cleaning;Cleaning tiles;Shower cleaning;Floor sweeping;Bathtub cleaning.
+Number 1 C:/Users/White/AppData/LocalLow/DefaultCompany/TaskCleaningDemo/export/2024-07-10T21-22-41.677327
+Headline: Bathroom Tidying and Cleaning
+
+Body:
+- Clear off and wipe down the bathroom sink countertop. Remove all items and use a bathroom cleaner to clean the surface thoroughly.
+- Organize the items on the countertop, possibly discarding empty or unnecessary containers, and ensure that what is kept is arranged neatly.
+- Clean and polish the mirror to remove any spots or streaks. Use glass cleaner and a lint-free cloth for a streak-free shine.
+- Wipe down the cabinets and handles. Use a mild cleaner to remove fingerprints and smudges from the cabinet surfaces and handles.
+- Clean the tiled walls. Spray with a suitable tile cleaner, let it sit, then scrub with a non-abrasive sponge and rinse.
+- Tidy up the shower area and caddy. Remove any residue or buildup with appropriate cleaning agents and arrange products neatly.
+- Sweep or vacuum the floor to remove hair and debris before mopping with an appropriate bathroom floor cleaner to sanitize and shine.
+- Clean and disinfect the bathtub. Use a bathroom cleaner to scrub the tub, focusing on any soap scum or stains, and rinse thoroughly.
+
+```json
+{
+  "headline": "Bathroom Tidying and Cleaning",
+  "body": "- Clear off and wipe down the bathroom sink countertop.\n- Organize the items on the countertop.\n- Clean and polish the mirror.\n- Wipe down the cabinets and
+ handles.\n- Clean the tiled walls.\n- Tidy up the shower area and caddy.\n- Sweep or vacuum the floor before mopping.\n- Clean and disinfect the bathtub."
+}
+```
+----------------------------------------
+Rating:0,5;0;1;1;1 Extras:Mirror cleaning;Shower cleaning;Replacing towels;Bathtub cleaning;Cabinet cleaning;Floor sweeping;Final touches.
+Number 2 C:/Users/White/AppData/LocalLow/DefaultCompany/TaskCleaningDemo/export/2024-07-10T21-22-44.437049
+Headline: Bathroom Cleanup and Organization
+
+Body:
+1. Clear and clean the countertop: Remove all items from the bathroom countertop, clean the surface with an appropriate bathroom cleaner to remove any residue, soap scum, or water spots.
+2. Organize countertop items: Once the countertop is clean, organize the items neatly or place some in storage if the countertop looks cluttered. This may involve using organizers or trays for smaller items like toiletries.
+3. Wipe down the mirror: Use glass cleaner and a microfiber cloth to clean the mirror, removing any smudges or toothpaste splatters.
+4. Clean the sink and faucet: Using a non-abrasive sponge and bathroom cleaner, scrub the sink and faucet to remove any grime or buildup. Rinse thoroughly.
+5. Organize shower shelf: Neatly arrange products on the shower shelf, discarding any empty bottles and wiping down the shelf itself.
+6. Tidy hanging items: Straighten any hanging towels or washcloths and ensure they are clean and neatly placed for use.
+7. Sanitize and clean the bathtub: Scrub the bathtub with a bathroom cleaner, paying close attention to any soap scum or mildew. Rinse well after.
+8. Clean the exterior of cabinets and drawers: Wipe down the cabinet doors and handles with a disinfectant cleaner to remove fingerprints and stains.
+9. Sweep and mop the floor: Remove any rugs, sweep up hair and debris, then mop the floor with a suitable disinfectant floor cleaner.
+10. Replace items and final touches: Once all cleaning is complete, replace all items, mats, and towels, ensuring everything is organized and the bathroom looks tidy.
+
+```json
+{
+  "headline": "Bathroom Cleanup and Organization",
+  "body": "1. Clear and clean the countertop. 2. Organize countertop items. 3. Wipe down the mirror. 4. Clean the sink and faucet. 5. Organize shower shelf. 6. Tidy hanging items. 7. Sanitize and clean the bathtub. 8. Clean the exterior of cabinets and drawers. 9. Sweep and mop the floor. 10. Replace items and final touches."
+}
+```
+----------------------------------------
+Rating:0,5;0;1;1;1 Extras:Bathtub cleaning;Cleaning mat;Mirror cleaning;Sanitizing.
+Number 3 C:/Users/White/AppData/LocalLow/DefaultCompany/TaskCleaningDemo/export/2024-07-10T21-22-54.180081
+Headline: Bathroom Clean-Up and Organization
+
+Body: 
+- Clear and clean the sink countertop: Remove all items, use a gentle cleanser to clean the surface thoroughly, and then replace the items neatly, discarding any unnecessary items.
+- Organize the shelf above the sink: Take down all products, wipe the shelf, and replace items in an organized manner.
+- Tidy up the bathing items on the bathtub's edge: Reorganize, clean the surfaces they were on, and consider using a caddy to keep these items contained.
+- Wash or replace the floor mat: Ensure it is free of dust and dampness for hygiene.
+- Dust and clean the mirror: Use a glass cleaner and a microfiber cloth to remove any spots and smudges from the mirror.
+- Sanitize the sink and faucet: Use a disinfectant to wipe down the sink basin and faucet to remove grime and germs.
+
+JSON:
+```json
+{
+  "headline": "Bathroom Clean-Up and Organization",
+  "body": "- Clear and clean the sink countertop: Remove all items, use a gentle cleanser to clean the surface thoroughly, and then replace the items neatly, discarding any unnecessary items.\n- Organize the shelf above the sink: Take down all products, wipe the shelf, and replace items in an organized manner.\n- Tidy up the bathing items on the bathtub's edge: Reorganize, clean the surfaces they were on, and consider using a caddy to keep these items contained.\n- Wash or replace the floor mat: Ensure it is free of dust and dampness for hygiene.\n- Dust and clean the mirror: Use a glass cleaner and a microfiber cloth to remove any spots and smudges from the mirror.\n- Sanitize the sink and faucet: Use a disinfectant to wipe down the sink basin and faucet to remove grime and germs."
+}
+```
+----------------------------------------
+Rating:0,5;0;0;0;0 Extras:Mirror cleaning;Shelve cleaning;Cabinet cleaning;Bathtub cleaning;Floor sweeping.
+Number 4 C:/Users/White/AppData/LocalLow/DefaultCompany/TaskCleaningDemo/export/2024-07-10T21-22-55.386234
+Headline: Bathroom Clean-up and Organization
+
+Body:
+- Sink area: Clear any residue or product buildup in the sink, polish the faucet, and wipe down the entire countertop to maintain hygiene and shine.
+- Mirror: Clean off any spots or smudges on the mirror using glass cleaner for a streak-free finish.
+- Shelves: Tidy up the items on the shelves, dust and wipe them down; consider implementing trays or organizers for small items.
+- Personal care products: Organize the products by frequency of use or category (e.g., hair care, skin care), dispose of empty or expired items.
+- Cabinet drawers: Remove items, wipe the insides with a disinfectant cleaner, and reorganize contents for easy access.
+- Bathtub: Scrub the tub with a non-abrasive cleaner, focusing on any rings or soap scum; rinse thoroughly.
+- Floor: Sweep or vacuum to remove hair and debris, then mop with an appropriate floor cleaner for a fresh look.
+
+JSON:
+{
+  "headline": "Bathroom Clean-up and Organization",
+  "body": "- Sink area: Clear any residue or product buildup in the sink, polish the faucet, and wipe down the entire countertop to maintain hygiene and shine.\n- Mirror: Clean off any spots or smudges on the mirror using glass cleaner for a streak-free finish.\n- Shelves: Tidy up the items on the shelves, dust and wipe them down; consider implementing trays or organizers for small items.\n- Personal care products: Organize the products by frequency of use or category (e.g., hair care, skin care), dispose of empty or expired items.\n- Cabinet drawers: Remove items, wipe the insides with a disinfectant cleaner, and reorganize contents for easy access.\n- Bathtub: Scrub the tub with a non-abrasive cleaner, focusing on any rings or soap scum; rinse thoroughly.\n- Floor: Sweep or vacuum to remove hair and debris, then mop with an appropriate floor cleaner for a fresh look."
+}
+----------------------------------------
+Rating:0,5;0;1;0;0,5 Extras:Mirror cleaning;Shelve cleaning;Shower cleaning;Replacing towels;Floor sweeping.
+Number 5 C:/Users/White/AppData/LocalLow/DefaultCompany/TaskCleaningDemo/export/2024-07-10T21-23-04.312406
+Headline: Bathroom Deep Clean and Organization
+
+Body:
+1. Sink Area: Clear out and wipe down the sink surface. Clean the faucet and handles. Organize products on the countertop and in the cabinet underneath.
+2. Mirror: Clean the mirror with glass cleaner to remove any spots and streaks.
+3. Shelf: Tidy up the shelf by arranging products neatly or removing unnecessary items. Dust the shelf surface.
+4. Shower Area: Scrub the tiles and bathtub with a bathroom cleaner to remove soap scum. Rinse thoroughly.
+5. Towel Rack: Fold or replace towels neatly on the rack.
+6. Floor: Sweep and mop the floor, paying attention to corners and edges for any accumulated dust.
+
+```json
+{
+  "headline": "Bathroom Deep Clean and Organization",
+  "body": "1. Sink Area: Clear out and wipe down the sink surface. Clean the faucet and handles. Organize products on the countertop and in the cabinet underneath.\n2. Mirror: Clean the mirror with glass cleaner to remove any spots and streaks.\n3. Shelf: Tidy up the shelf by arranging products neatly or removing unnecessary items. Dust the shelf surface.\n4. Shower Area: Scrub the tiles and bathtub with a bathroom cleaner to remove soap scum. Rinse thoroughly.\n5. Towel Rack: Fold or replace towels neatly on the rack.\n6. Floor: Sweep and mop the floor, paying attention to corners and edges for any accumulated dust."
+}
+```
+----------------------------------------
+Rating:0,5;0;1;0,5;0,5 Extras:Mirror cleaning;Shelve cleaning;Shower cleaning;Cleaning exterior;Bathtub cleaning.
+Number 6 C:/Users/White/AppData/LocalLow/DefaultCompany/TaskCleaningDemo/export/2024-07-10T21-23-04.494339
+Headline: Bathroom Cleanup and Organization
+
+Body:
+1. Declutter and organize bathroom counter: Remove any unnecessary items, sort through toiletries, and wipe down the surface.
+2. Clean the mirror: Use a streak-free cleaner to remove spots and splashes from the mirror.
+3. Scrub the sink and faucet: Clean the sink bowl, pay special attention to the faucet to remove soap scum or water spots, and rinse all areas thoroughly.
+4. Wipe down the shelves: Remove items, dust off, and clean each shelf before replacing items neatly.
+5. Organize shower items: Neatly arrange products in the shower area, discarding empty or unused bottles.
+6. Clean the exterior of storage drawers: Wipe down storage units and handles, removing dust, and fingerprints.
+7. Tidy up the bathtub: Rinse and wipe down the bathtub to remove any residue or hair.
+
+```json
+{
+  "headline": "Bathroom Cleanup and Organization",
+  "body": "1. Declutter and organize bathroom counter\n2. Clean the mirror\n3. Scrub the sink and faucet\n4. Wipe down the shelves\n5. Organize shower items\n6. Clean the exterior of storage drawers\n7. Tidy up the bathtub"
+}
+```
+----------------------------------------
+Rating:0,5;0;1;0,5;0,5 Extras:Mirror cleaning;Cleaning exterior;Bathtub cleaning;Floor sweeping.
+Number 7 C:/Users/White/AppData/LocalLow/DefaultCompany/TaskCleaningDemo/export/2024-07-10T21-23-11.614180
+Headline: Bathroom Clean-up and Organization
+
+Body:
+- Clear and wipe down the sink surface, ensuring to clean around the faucet and handles.
+- Organize and properly store the toiletries cluttered around the sink.
+- Clean and polish the mirror to remove any spots or streaks.
+- Tidy the items on the shelves, wiping each one down before placing it back in an organized fashion.
+- Clean the exterior and interior of the cabinet drawers, including the handles.
+- Scrub the bathtub to remove any soap scum or residue.
+- Sweep or vacuum and mop the floor, paying close attention to the corners and edges.
+
+```json
+{
+  "headline": "Bathroom Clean-up and Organization",
+  "body": "- Clear and wipe down the sink surface, ensuring to clean around the faucet and handles.\n- Organize and properly store the toiletries cluttered around the sink.\n- Clean and polish the mirror to remove any spots or streaks.\n- Tidy the items on the shelves, wiping each one down before placing it back in an organized fashion.\n- Clean the exterior and interior of the cabinet drawers, including the handles.\n- Scrub the bathtub to remove any soap scum or residue.\n- Sweep or vacuum and mop the floor, paying close attention to the corners and edges."
+}
+```
+----------------------------------------
+Rating:0,5;0;0,5;0,5;0 Extras:Mirror cleaning;Shelve cleaning;Bathtub cleaning;Floor sweeping;Cleaning exterior;Cleaning interior;Trash disposal;Replacing towels.
+Number 8 C:/Users/White/AppData/LocalLow/DefaultCompany/TaskCleaningDemo/export/2024-07-10T21-23-14.871206
+Headline: Bathroom Clean-Up and Organization
+
+Body:
+- Clear and wipe down the sink and countertop to remove any water spots, soap residue, and debris.
+- Organize toiletries and personal care items, possibly discarding empty or unused items.
+- Clean the mirror to remove any splatters, streaks, or fingerprints.
+- Tidy the shelves by arranging items neatly and wiping them down.
+- Scrub and disinfect the bathtub, focusing on any soap scum or mildew build-up.
+- Sweep and mop the floor, ensuring to clean around and behind the toilet and trash can.
+- The interior and exterior of the cabinet drawers should be wiped down and items inside organized.
+- The trash can needs to be emptied, and the inside and outside should be cleaned.
+- Replace or launder any dirty towels and bathmats to maintain hygiene & aesthetics.
+
+```json
+{
+  "headline": "Bathroom Clean-Up and Organization",
+  "body": [
+    "Clear and wipe down the sink and countertop to remove any water spots, soap residue, and debris.",
+    "Organize toiletries and personal care items, possibly discarding empty or unused items.",
+    "Clean the mirror to remove any splatters, streaks, or fingerprints.",
+    "Tidy the shelves by arranging items neatly and wiping them down.",
+    "Scrub and disinfect the bathtub, focusing on any soap scum or mildew build-up.",
+    "Sweep and mop the floor, ensuring to clean around and behind the toilet and trash can.",
+    "The interior and exterior of the cabinet drawers should be wiped down and items inside organized.",
+    "The trash can needs to be emptied, and the inside and outside should be cleaned.",
+    "Replace or launder any dirty towels and bathmats to maintain hygiene & aesthetics."
+  ]
+}
+```
+----------------------------------------
+Rating:0,5;0;0,5;1;0,5 Extras:Mirror cleaning;Bathtub cleaning;Sanitizing;Floor sweeping;Replenishing supplies.
+Number 9 C:/Users/White/AppData/LocalLow/DefaultCompany/TaskCleaningDemo/export/2024-07-10T21-23-21.798744
+Headline:
+Bathroom Clean-up and Organization
+
+Body:
+1. Clear and wipe down the sink and countertop surfaces, removing any residue or water stains using appropriate bathroom cleaners.
+2. Organize and neatly arrange the personal care products on the shelves, possibly using storage containers or trays for better organization.
+3. Clean the mirror to remove any water spots or fingerprints, ensuring a streak-free finish.
+4. Tidy up the bathtub by removing any used items, wiping it down, and rinsing to ensure it is clean for the next use.
+5. Sanitize the bathroom handles and faucets to maintain hygiene and prevent the spread of germs.
+6. Sweep and mop the floor to remove any hair, dust, or debris for a clean overall appearance.
+7. Check and replenish bathroom essentials such as toilet paper, hand soap, and fresh towels if needed.
+
+JSON:
+```json
+{
+  "headline": "Bathroom Clean-up and Organization",
+  "body": "1. Clear and wipe down the sink and countertop surfaces, removing any residue or water stains using appropriate bathroom cleaners.\n2. Organize and neatly arrange the personal care products on the shelves, possibly using storage containers or trays for better organization.\n3. Clean the mirror to remove any water spots or fingerprints, ensuring a streak-free finish.\n4. Tidy up the bathtub by removing any used items, wiping it down, and rinsing to ensure it is clean for the next use.\n5. Sanitize the bathroom handles and faucets to maintain hygiene and prevent the spread of germs.\n6. Sweep and mop the floor to remove any hair, dust, or debris for a clean overall appearance.\n7. Check and replenish bathroom essentials such as toilet paper, hand soap, and fresh towels if needed."
+}
+```
+----------------------------------------
+Rating:0,5;0;1;1;1 Extras:Mirror cleaning;Countertop cleaning;Toothbrush cleaning;Replenishing supplies;Cabinet cleaning. 
+Number 10 C:/Users/White/AppData/LocalLow/DefaultCompany/TaskCleaningDemo/export/2024-07-10T21-23-25.871782
+Headline: Bathroom Clean-up and Organization
+
+Body:
+- Clean the bathroom mirror: Remove any spots and streaks using glass cleaner and a microfiber cloth for a streak-free finish.
+- Tidy the countertop: Clear the countertop of any personal items, wiping it down with a disinfectant to sanitize the surface.
+- Organize toiletries: Place toiletries back in an orderly fashion or in storage to keep the countertop clutter-free.
+- Clean the sink and faucet: Use a bathroom cleaner to scrub the sink and faucet, paying attention to removing soap scum and water spots.
+- Sanitize the toothbrush holder: Empty the toothbrush holder and wash it with hot, soapy water or disinfectant.
+- Replenish bathroom supplies: Ensure that soap dispensers are filled and add fresh towels if necessary.
+- Wipe down cabinet fronts: Clean the bathroom vanity cabinet fronts with a suitable cleaner to remove fingerprints and stains.
+
+```json
+{
+  "headline": "Bathroom Clean-up and Organization",
+  "body": "- Clean the bathroom mirror: Remove any spots and streaks using glass cleaner and a microfiber cloth for a streak-free finish.\n- Tidy the countertop: Clear the countertop of any personal items, wiping it down with a disinfectant to sanitize the surface.\n- Organize toiletries: Place toiletries back in an orderly fashion or in storage to keep the countertop clutter-free.\n- Clean the sink and faucet: Use a bathroom cleaner to scrub the sink and faucet, paying attention to removing soap scum and water spots.\n- Sanitize the toothbrush holder: Empty the toothbrush holder and wash it with hot, soapy water or disinfectant.\n- Replenish bathroom supplies: Ensure that soap dispensers are filled and add fresh towels if necessary.\n- Wipe down cabinet fronts: Clean the bathroom vanity cabinet fronts with a suitable cleaner to remove fingerprints and stains."
+}
+```
+----------------------------------------

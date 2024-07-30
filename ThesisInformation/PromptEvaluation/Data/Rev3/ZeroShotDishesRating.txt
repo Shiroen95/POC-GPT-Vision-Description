@@ -1,0 +1,11 @@
+Zero Shot Dishes
+
+[1.  1.  1.  1.  1.  0.8 0.5]
+
+Count of Extras: 4
+Sum of Extras: 13
+
+('rinsing', 8)
+('food scraps', 3)
+('maintaining dishwasher', 1)
+('safety measures', 1)

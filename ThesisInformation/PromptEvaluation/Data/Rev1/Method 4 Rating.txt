@@ -1,0 +1,28 @@
+Method 4:
+Rating: 1;0.5;1;1;1 Extras: Mirror Cleaning; Wrong starter
+Rating: 1;1;1;1;1 Extras: Mirror Cleaning
+Rating: 1;1;1;1;1 Extras: Mirror Cleaning; Perform this task weekly
+Rating: 1;1;1;1;1 Extras: Mirror Cleaning;
+Rating: 1;1;1;1;1 Extras: Mirror Cleaning;
+Rating: 1;1;1;1;1 Extras: Cabinet cleaning;
+Rating: 1;1;1;1;1 Extras: Countertop cleaning;Mirror cleaning; Cabinet cleaning;
+Rating: 1;1;1;1;1 Extras:Mirror cleaning.
+Rating: 1;1;1;1;1 
+Rating: 1;1;1;1;1 Extras: Mirror Cleaning;
+
+
+[1.   0.95 1.   1.   1.  ] 
+
+Count of Extras: 6
+Sum of Extras: 14
+
+
+('mirror cleaning', 8)
+('cabinet cleaning', 2)        
+('no extras', 1)
+('countertop cleaning', 1)     
+('perform this task weekly', 1)
+('wrong starter', 1)
+    
+
+

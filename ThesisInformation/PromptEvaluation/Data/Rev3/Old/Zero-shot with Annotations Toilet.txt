@@ -1,0 +1,164 @@
+Rating:1;1;1;1;1 Extras:Floor cleaning.
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-30T19-14-47.880607
+{"headline":"Toilet Cleaning",
+"body":"The main task is to thoroughly clean and disinfect the toilet. 
+Start by applying a generous amount of toilet bowl cleaner under the rim and let it sit for 
+the specified time. While it's sitting, clean the external parts of the toilet including the lid, 
+seat, and base with a disinfectant spray and a microfiber cloth. Use a toilet brush to scrub the bowl, 
+focusing on any stains or build-up. Flush the cleaner and brush down the toilet to rinse. 
+Finish by mopping the floor around the toilet with a disinfectant floor cleaner to ensure the entire 
+area is clean."}
+----------------------------------------
+Rating:1;1;1;1;1 Extra:Floor cleaning;Gloves;Dispose cleaning tools;Wash hands.
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-30T19-17-09.266721
+{"headline":"Toilet Deep Cleaning",
+"body":"Begin by donning a pair of gloves for hygiene. 
+Gather all necessary cleaning supplies: a toilet brush, disinfectant cleaner,
+ scrub sponge, and cleaning cloths.
+Sub-tasks include:
+1. Apply disinfectant inside the toilet bowl, 
+ making sure to get under the rim, and let it sit as per the cleaner's instructions to break down 
+ stains and kill germs.
+2. While the disinfectant sits, clean the external parts of the toilet.
+  Use a spray disinfectant or wipes to clean the handle, tank, and lid. Use the scrub sponge for
+   any difficult spots.
+3. After waiting, scrub the inside of the bowl with a toilet brush, 
+   focusing on any mineral deposits or stains. Flush the toilet while continuing to scrub to 
+   rinse away the cleaner and residue.
+4. Clean the floor around the toilet using a mop or cloth 
+   with a floor cleaner. Pay attention to the area behind the toilet and around the base where dust 
+   and grime can accumulate.
+5. Dispose of or wash the tools used, and wash your hands thoroughly 
+   after completing the task. Regular maintenance can prevent buildup and make future cleaning tasks 
+   easier."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Replacing items;Wash hands.
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-30T19-21-50.269200
+{
+"headline": "Bathroom Cleaning: Toilet Deep Clean",
+"body": "Begin by collecting the necessary cleaning supplies, such as toilet cleaner, 
+a toilet brush, disinfectant spray, gloves, and cleaning cloths. 
+Start the task by applying a generous amount of toilet cleaner inside the bowl, 
+coating the sides and under the rim, to break down stains and kill germs. 
+Let it sit for the recommended time as per the cleaner's instructions. 
+While waiting, wipe down the toilet's exterior, including the lid, seat, and base, 
+with disinfectant spray and a clean cloth. Don't forget to clean the handle, as it's a high-touch area. 
+Once the cleaner has sat, use the toilet brush to scrub the bowl thoroughly, focusing on any stains or 
+buildup. Flush the toilet to rinse away the cleaner and dislodged grime. If necessary, 
+repeat the scrubbing process for stubborn stains. Finally, replace any items around the toilet,
+ ensuring they are neat and orderly, and wash your hands after completing the task."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Floor sweeping;Restocking supplies;Final touches.
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-30T19-22-01.234659
+{"headline":"Toilet Cleaning Task",
+"body":"The primary goal for this task is to ensure that the toilet is clean, hygienic, 
+and free from any stains or odors. 
+Sub-tasks include:
+1. Bowl Cleaning: Apply a 
+generous amount of toilet cleaner inside the bowl, especially under the rim. 
+Use a toilet brush to scrub thoroughly, paying extra attention to any stains or deposits. 
+Allow the cleaner to sit for several minutes before flushing.
+2. Exterior Surface Wiping: 
+Using a disinfectant wipe or spray, clean the exterior surfaces of the toilet, including the lid, seat, base, and handle. Wipe down until the surfaces are visibly clean and free from any residue.
+3. Floor Cleaning: Sweep the area around the toilet to remove any debris. Then mop the floor with an appropriate bathroom cleaner to disinfect and remove any spills or stains near the toilet.
+4. Restock Hygiene Supplies: Make sure to replenish toilet paper, and if available, place a fresh toilet bowl cleaner block or hanging cleaner in the bowl to maintain cleanliness and freshness after the task is completed.
+5. Final Inspection: Conduct a final inspection to ensure that no areas have been missed and that the toilet is completely clean and ready for use. Dispose of any cleaning materials used and wash your hands thoroughly after completing the task."}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Cleaning toilet brush;Cleaning floor mat;Wash hands.
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-30T19-22-54.262437
+{
+"headline": "Bathroom Toilet Cleaning",
+"body": "The primary goal of this task is to ensure the toilet is thoroughly cleaned and sanitized. Begin by gathering necessary supplies: gloves, toilet brush, disinfectant cleaner, and a cloth or sponge. Sub-tasks include: 
+
+1. Apply disinfectant: Squirt toilet bowl cleaner under the rim of the bowl and let it sit for the recommended time to break down stains and kill germs.
+
+2. Scrub the bowl: Use the toilet brush to scrub inside the bowl, paying extra attention to the waterline and under the rim where stains tend to accumulate.
+
+3. Wipe exterior surfaces: While the cleaner is sitting, use a disinfectant spray and a cloth to wipe down the toilet's lid, seat, and exterior, ensuring removal of any spots and bacteria.
+
+4. Flush and rinse: After scrubbing, flush the toilet to rinse the bowl, and give the brush a quick rinse in the fresh water.
+
+5. Clean the brush: After use, clean the toilet brush by soaking it in a bucket with disinfectant, then rinse and let it dry.
+
+6. Wash the floor mat: Finally, take the floor mat outside to shake off any debris, then launder it if the material allows for it, or wipe it down with a suitable cleaner.
+
+Ensure to wash hands thoroughly after completing the task."
+}
+----------------------------------------
+Rating:1;0;1;1;1 Extras:Floor sweeping.
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-30T19-23-01.009582
+{
+"headline": "Toilet Cleaning",
+"body": "The primary goal is to thoroughly clean and disinfect the toilet. Start by applying a generous
+ amount of toilet cleaner inside the bowl, especially under the rim. Use a toilet brush to scrub inside
+  the bowl, working from the top downwards. Ensure to scrub under the rim and into the hole at the bottom.
+   Flush to rinse away the scrubbed residue. Next, clean the exterior of the toilet, including the lid,
+    seat, and base with a disinfectant cleaner. Wipe down the flush handle, and don't forget to clean the 
+    hinges where the seat attaches to the toilet. Lastly, mop the floor around the toilet to maintain
+     overall bathroom hygiene."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Gloves;Floor sweeping;Cleaning floor mat;Final touches.
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-30T19-23-19.325825
+{
+"headline": "Toilet Deep Cleaning",
+"body": "Begin by donning gloves for hygiene purposes. The main task involves thoroughly cleaning the toilet and the surrounding area. Sub-tasks include: 
+
+1. Bowl Cleaning: Apply a generous amount of toilet cleaner inside the bowl. Use a toilet brush to scrub around the bowl, paying close attention to the waterline and under the rim. Allow the solution to sit for a few minutes for disinfection, then flush.
+
+2. Exterior Wiping: Wipe down the entire exterior of the toilet, including the seat, lid, and base, with a disinfectant spray and a clean cloth. Ensure to lift the seat and clean the underside as well as the hinges.
+
+3. Floor Mopping: Sweep the floor around the toilet to remove any debris. Then mop the area with a disinfectant floor cleaner, ensuring you reach behind and around the toilet base.
+
+4. Accessories: Remove any rugs or bathroom scales and wash or wipe them down as necessary.
+
+5. Final Touches: Return all items to their places, make sure the area is dry to prevent slips, and discard the gloves and any used cleaning materials appropriately."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Mirror cleaning.
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-30T19-23-28.243824
+{
+"headline":"Bathroom Toilet Cleaning",
+"body":"1. Gather all necessary cleaning supplies including gloves, toilet brush, disinfectant, scrub sponge, and glass cleaner. 
+2. Start by applying toilet bowl cleaner inside the bowl, making sure to get underneath the rim. 
+3. While the bowl cleaner soaks, wipe down the exterior of the toilet using disinfectant sprays and the scrub sponge. Pay special attention to the flush handle, the lid, and seat. 
+4. Scrub inside the bowl with the toilet brush, starting from the rim and moving down to ensure full coverage. Flush to rinse. 
+5. Clean any splashes on surrounding areas, including the floor, using a disinfectant. Replace any items like the floor mat and scale to their original position after the floor is dry. 
+6. Lastly, clean the glass or mirrors using glass cleaner for a streak-free finish."
+}
+----------------------------------------
+Rating:1;1;1;1;1 Extras:Final touches.
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-30T19-23-40.098781
+{
+"headline": "Toilet Deep Clean",
+"body": "Primary Task: Perform a thorough cleaning of the entire toilet, including the bowl, seat, lid, and exterior surface. 
+
+1. Bowl Cleaning: Begin by applying a generous amount of toilet bowl cleaner inside the bowl, focusing on the rim and the sides. Use a toilet brush to scrub vigorously, reaching under the rim and down into the chute. Flush the toilet to rinse away the cleaner and dislodged debris.
+
+2. Seat and Lid Cleaning: Spray an all-purpose disinfectant cleaner on the toilet seat and lid, both on the top and underneath. Wipe down with a sponge or a disposable cloth, ensuring all surfaces are clean and free from any residues.
+
+3. Exterior Cleaning: Using the same all-purpose disinfectant cleaner, wipe down the entire exterior of the toilet, including the tank, handle, base, and any crevices that may collect dust and grime.
+
+4. Final Touches: Dry all surfaces with a clean cloth to prevent water spots. For persistent stains or buildup, consider using a pumice stone on the bowl or specialized cleaning agents as needed. Remember to use proper hygiene and safety measures, such as wearing gloves and ensuring ventilation in the bathroom."
+}
+----------------------------------------
+Rating:1;0;1;1;1 Extras:Floor cleaning;Final touches.
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-30T19-23-47.984561
+{
+"headline": "Toilet Cleaning Task",
+"body": 
+"The primary goal of the task is to thoroughly clean and sanitize the toilet. 
+Sub-tasks include: 
+1. Cleaning the toilet bowl: Use a toilet brush and a disinfectant cleaner suitable for toilets to 
+scrub the inside of the bowl. Be sure to reach under the rim and down the drain as far as the brush
+ permits. Flush the toilet to rinse away debris and cleaner. 
+ 2. Wiping the exterior: With a disinfectant wipe or a cloth sprayed with a bathroom cleaner,
+  wipe the entire exterior of the toilet, including the seat, lid, and the flush handle. 
+  3. Cleaning the floor around the toilet: Sweep or vacuum to remove any debris around the toilet.
+   Then mop with a suitable floor cleaner. 4. Sanitizing accessories: Clean any items on or near the
+    toilet, such as the scale and the mat, with appropriate cleaners to remove dust and bacteria. 
+    Before starting, ensure personal protective equipment such as gloves are worn to prevent contact
+     with harmful bacteria."
+}
+----------------------------------------

@@ -1,0 +1,300 @@
+Number 1 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-19-13.717083
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 2 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-19-23.863567
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 3 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-19-34.244205
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 4 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-19-44.825665
+{annotation: laundry, washingmachine, basket}
+----------------------------------------
+Number 5 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-19-55.197183
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 6 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-20-05.841615
+{annotation: "laundry,washingmachine,basket,loading"}
+----------------------------------------
+Number 7 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-20-16.175504
+{annotation: "laundry,washing"}
+----------------------------------------
+Number 8 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-20-26.620573
+{annotation: "laundry, washingmachine, basket"}
+----------------------------------------
+Number 9 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-20-37.074980
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 10 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-20-47.923077
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 11 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-20-58.213969
+{annotation: laundry,washing}
+----------------------------------------
+Number 12 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-21-08.892543
+{annotation: laundry,washingmachine,basket}
+----------------------------------------
+Number 13 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-21-19.339454
+{annotation: laundry,basket}
+----------------------------------------
+Number 14 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-21-29.998943
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 15 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-21-40.641453
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 16 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-21-51.190295
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 17 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-22-01.735851
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 18 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-22-12.431581
+{annotation: "Laundry,WashingMachine,Basket"}
+----------------------------------------
+Number 19 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-22-22.928424
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 20 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-22-33.484176
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 21 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-22-44.012316
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 22 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-22-55.082627
+{annotation: laundry,basket}
+----------------------------------------
+Number 23 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-23-05.428825
+{annotation: "laundry,washing"}
+----------------------------------------
+Number 24 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-23-15.992690
+{annotation: laundry,loading}
+----------------------------------------
+Number 25 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-23-26.533259
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 26 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-23-37.080231
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 27 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-23-47.522767
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 28 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-23-58.198155
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 29 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-24-08.687076
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 30 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-24-19.419912
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 31 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-24-30.086552
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 32 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-24-40.520024
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 33 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-24-51.193164
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 34 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-25-01.740859
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 35 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-25-12.525613
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 36 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-25-23.134141
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 37 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-25-33.787821
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 38 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-25-44.436846
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 39 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-25-55.117617
+{annotation: laundry,basket}
+----------------------------------------
+Number 40 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-26-05.759127
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 41 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-26-16.276039
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 42 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-26-27.061702
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 43 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-26-37.741656
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 44 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-26-48.276235
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 45 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-26-59.198080
+{annotation: laundry,washing}
+----------------------------------------
+Number 46 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-27-11.339311
+{annotation: Laundry,Washingmachine,Basket}
+----------------------------------------
+Number 47 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-27-20.738322
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 48 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-27-31.540761
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 49 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-27-42.538191
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 50 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-27-53.253733
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 51 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-28-03.906909
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 52 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-28-14.559555
+{annotation: "laundry,washingmachine"}
+----------------------------------------
+Number 53 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-28-25.272665
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 54 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-28-35.927196
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 55 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-28-46.719628
+{annotation: laundry,washingmachine,detergent,basket}
+----------------------------------------
+Number 56 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-28-57.343048
+{annotation: laundry,basket}
+----------------------------------------
+Number 57 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-29-07.723962
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 58 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-29-18.798540
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 59 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-29-29.038284
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 60 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-29-39.761405
+{annotation: "laundry,basket,washingmachine"}
+----------------------------------------
+Number 61 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-29-49.781641
+{annotation: laundry, washingmachine, basket}
+----------------------------------------
+Number 62 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-30-00.264743
+{annotation: laundry,washing}
+----------------------------------------
+Number 63 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-30-10.873970
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 64 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-30-20.823817
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 65 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-30-31.656537
+{annotation: "Laundry,Washingmachine,Basket"}
+----------------------------------------
+Number 66 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-30-42.204391
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 67 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-30-52.135721
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 68 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-31-02.776365
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 69 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-31-13.393721
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 70 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-31-23.505551
+{annotation: laundry,machine,cleaning,detergent,laundrybasket}
+----------------------------------------
+Number 71 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-31-34.343447
+{annotation: laundry,detergent}
+----------------------------------------
+Number 72 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-31-44.203232
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 73 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-31-54.999295
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 74 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-32-05.591770
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 75 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-32-15.446595
+{annotation: laundry,basket}
+----------------------------------------
+Number 76 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-32-26.356719
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 77 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-32-36.919013
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 78 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-32-46.997492
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 79 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-32-58.003427
+{annotation: "laundry,washingmachine,basket"}
+----------------------------------------
+Number 80 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-33-09.315556
+{annotation: laundry,washing}
+----------------------------------------
+Number 81 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-33-18.565819
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 82 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-33-29.141541
+{annotation: laundry,sorting}
+----------------------------------------
+Number 83 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-33-39.824368
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 84 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-33-49.900803
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 85 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-34-00.482547
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 86 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-34-11.398696
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 87 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-34-48.281592
+{annotation: laundry,cleaning}
+----------------------------------------
+Number 88 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-34-58.801438
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 89 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-35-09.341034
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 90 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-35-19.323137
+{annotation: "washing-machine,laundry"}
+----------------------------------------
+Number 91 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-35-29.915500
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 92 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-35-40.148492
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 93 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-35-50.807817
+{annotation: washing,laundrybasket}
+----------------------------------------
+Number 94 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-36-01.531185
+{annotation: laundry,washingmachine,basket}
+----------------------------------------
+Number 95 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-36-11.498313
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 96 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-36-21.889379
+{annotation: "laundry,washingmachine,basket"}
+----------------------------------------
+Number 97 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-36-32.508287
+{annotation: laundry,washingmachine,basket}
+----------------------------------------
+Number 98 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-36-42.338912
+{annotation: laundry,basket}
+----------------------------------------
+Number 99 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-36-52.931255
+{annotation: laundry,washingmachine}
+----------------------------------------
+Number 100 C:/Users/HermannF/AppData/LocalLow/DefaultCompany/POC/export/2024-06-29T00-37-03.545054
+{annotation: laundry,washing_machine}
+----------------------------------------

@@ -1,0 +1,36 @@
+Method 6:
+Rating: 0.5;0;1;1;0 Extras: Mirror cleaning;Cabinet cleaning;Cleaning tiles;Shower cleaning;Floor sweeping;Bathtub cleaning.
+Rating: 0.5;0;1;1;1 Extras:Mirror cleaning;Shower cleaning;Replacing towels;Bathtub cleaning;Cabinet cleaning;Floor sweeping;Final touches.
+Rating: 0.5;0;1;1;1 Extras:Bathtub cleaning;Cleaning mat;Mirror cleaning;Sanitizing.
+Rating: 0.5;0;0;0;0 Extras:Mirror cleaning;Shelve cleaning;Cabinet cleaning;Bathtub cleaning;Floor sweeping.
+Rating: 0.5;0;1;0;0.5 Extras:Mirror cleaning;Shelve cleaning;Shower cleaning;Replacing towels;Floor sweeping.
+Rating: 0.5;0;1;0.5;0.5 Extras:Mirror cleaning;Shelve cleaning;Shower cleaning;Cleaning exterior;Bathtub cleaning.
+Rating: 0.5;0;1;0.5;0.5 Extras:Mirror cleaning;Cleaning exterior;Bathtub cleaning;Floor sweeping.
+Rating: 0.5;0;0.5;0.5;0 Extras:Mirror cleaning;Shelve cleaning;Bathtub cleaning;Floor sweeping;Cleaning exterior;Cleaning interior;Trash disposal;Replacing towels.
+Rating: 0.5;0;0.5;1;0.5 Extras:Mirror cleaning;Bathtub cleaning;Sanitizing;Floor sweeping;Replenishing supplies.
+Rating: 0.5;0;1;1;1 Extras:Mirror cleaning;Countertop cleaning;Toothbrush cleaning;Replenishing supplies;Cabinet cleaning.
+
+
+[0.5  0.   0.8  0.65 0.5 ]
+
+Count of Extras: 17
+Sum of Extras: 54
+
+('mirror cleaning', 10)
+('bathtub cleaning', 8)
+('floor cleaning', 7)
+('shelve cleaning', 4)
+('shower cleaning', 4)
+('cabinet cleaning', 4)
+('cleaning exterior', 3)
+('replacing towels', 3)
+('replenishing supplies', 2)
+('sanitizing', 2)
+('toothbrush cleaning', 1)
+('countertop cleaning', 1)
+('trash disposal', 1)
+('cleaning interior', 1)
+('cleaning mat', 1)
+('final touches', 1)
+('cleaning tiles', 1)
+

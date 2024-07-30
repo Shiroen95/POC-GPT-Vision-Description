@@ -1,0 +1,21 @@
+COT Laundry
+
+[0.   0.35 0.2  0.2  0.95 1.   0.1 ]
+
+Count Extras: 14
+Sum Extras: 43
+
+('floor cleaning', 8)
+('cleaning mat', 7)
+('cleaning scale', 6)
+('ventilation', 4)
+('wall cleaning', 4)
+('gloves', 3)
+('restock supplies', 3)
+('wiping surfaces', 2)
+('floor sweeping', 1)
+('wiping surfcaes', 1)
+('tidying up', 1)
+('decluttering', 1)
+('trash disposal', 1)
+('clean mat', 1)
