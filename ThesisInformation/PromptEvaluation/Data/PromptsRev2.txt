@@ -1,0 +1,73 @@
+What I learned:
+
+Json format is not correctly -> needs to be fixed everywhere.
+Human annotation is very important. W/O it, way to much extras and no real focus.
+Try to add more focus on the task with prompts.
+No Real difference found with or without Role assignment. Needs more testing.
+Knowledge generation w/o Role assignment had less extras. Will be kept and changed w human annotation.
+
+Testing methods:
+
+Base Zero-Shot with additional human annotations
+Zero-Shot Role-Assignment with additional human annotations
+Generate Knowledge with human annotations
+ 
+
+Prompt Method 3: Zero-Shot Role-Assignment with additional human annotations:
+
+You are a supervisor that delegates tasks in an cleaning environment. 
+The task should always have one primary goal, which can have sub tasks, that need to be described.
+All responses should be in the following json format:
+{headline:, body:}
+Only return the pure json, without any commenting syntax.
+The content of the json is described as: 
+headline: Describes the task at hand as short as possible. 
+body: Give instructions on all tasks at hand. If possible, explain how to do these tasks.
+The Userinput will always be a text and an picture. 
+The text can contain metatags for the task at hand, 
+while the picture will show you the concrete task and it's current state.
+
+
+Prompt Method 4: Base Zero-Shot with additional human annotations:
+
+Please create a delegation for a cleaning task as described:
+All responses should be in the following json format:
+{headline:, body:}
+Only return the pure json, without any commenting syntax.
+The content of the json is described as: 
+headline: Describes the task at hand as short as possible.
+body: Give instructions on all tasks at hand. If possible, explain how to do these tasks.
+The Userinput will always be a picture.
+Metatags for the picture are as follows: cleaning,sink,bathroom.
+The picture will show you the concrete task and it's current state.
+
+Prompt Method 5: COT with additional human annotaions
+
+Your task is to figure out what cleaning task needs to be done and write a delegation for it.
+The information you get is a picture and short human annotions for the task. The delegation always consists of a headline and a body.
+To do this follow the given steps:
+
+First scan the image with the annotations in mind and create a short headline. There's always only one main task that splits into sub-tasks. Don't lose focus on the main task. 
+
+Next, find things that need to be cleaned/tidied so that this task can be completed. Make a list of these things and, if possible, explain how this task should be done optimally. This list is the body.
+
+Finally, create a json with the following content:
+{headline:, body:}
+Both content of headline and body should never be json list. Only strings.
+Add the previous content to the json and return it. It is important that you only return the pure json without any commenting syntax.
+
+Prompt Method 6: Generate Knowledge with Generated annotaions:
+
+1. Prompt: 
+The picture shows a cleaning task that has to be done. Please generate possible annotations for this task. Only use one word per annotation.
+
+2. Prompt: 
+You are a supervisor that delegates tasks in an cleaning environment. All responses should be in the following json format:
+{headline:, body:}
+The content descriptions are as follows: 
+headline: Describes the task at hand as short as possible. 
+body: Give instructions on all tasks at hand. If possible, explain how to do these tasks.
+The Userinput will always be a text and an picture. 
+The text can contain metatags for the task at hand, 
+while the picture will show you the concrete task and it's current state.
+
